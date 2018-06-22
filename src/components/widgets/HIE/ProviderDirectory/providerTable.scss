@@ -1,0 +1,57 @@
+a {
+  cursor: pointer;
+}
+
+.checkbox-inline {
+  margin-left: 0 !important;
+  margin-right: 10px;
+}
+
+.panel-group {
+  margin-bottom: 5px;
+
+  .panel {
+    max-height: 300px;
+    margin-top: 10px;
+
+    .filters-group {
+      .filter {
+        margin-top: 10px;
+      }
+    }
+
+    .columns-group {
+      .checkbox-links {
+        color: #337ab7;
+      }
+    }
+  }
+}
+.prescriber-table {
+  .form-control {
+    height: 2.5em;
+  }
+
+  .pagination {
+    float: right;
+  }
+
+  .prescriber-table-filter-bar {
+    margin-bottom: 0.5em;
+
+    .filter-input {
+      float: right;
+      margin: 0 10px;
+    }
+  }
+}
+
+.ReactTable {
+  .-pageSizeOptions {
+    color: red;
+    display: none;
+  }
+  .rt-td {
+    padding: 6px 5px;
+  }
+}

@@ -1,0 +1,32 @@
+<!--
+  As part of the implicit flow callback the OpenID Server sends the authorization token, id_token and sessio_state as part of the hash segment of the url. This can sometimes cause problems depending on your SPA routing implementation.
+
+  If your REACT application is using hashHistory for react-router then this workaround redirect is required since WSO2 freaks out when more than two hashes are part of the callback url. The purpose of this page is just to transform the url into a double hash url that matches the application route for the callback and redirect back to the application. This page is just a proxy.
+
+  If your REACT application is using browserHistory for react-router then this workaround is not required and the callback url can be configured in WSO2 to hit directly the callback route in the application.
+
+
+  WSO2 Error when having 2 hashes:
+
+
+ HTTP Status 500 - org.apache.cxf.interceptor.Fault: Illegal character in fragment at index 32: http://localhost:3000/#/callback#access_token=47c3c62d-fd75-3437-9486-fd0bb862cf02&id_token=eyJ4NXQiOiJObUptT0dVeE16WmxZak0yWkRSaE5UWmxZVEExWXpkaFpUUmlPV0UwTldJMk0ySm1PVGMxWkEiLCJraWQiOiJkMGVjNTE0YTMyYjZmODhjMGFiZDEyYTI4NDA2OTliZGQzZGViYTlkIiwiYWxnIjoiUlMyNTYifQ.eyJhdF9oYXNoIjoiTzRzdDc5U0p0b1UtdDVtemxNeHVyZyIsInN1YiI6ImFkbWluIiwiYXVkIjpbImVzeFVlSzM3MktueGVRRWdnUmtISGg4TVZYNGEiXSwiYXpwIjoiZXN4VWVLMzcyS254ZVFFZ2dSa0hIaDhNVlg0YSIsImF1dGhfdGltZSI6MTQ5NTcwNzYyNiwiaXNzIjoiaHR0cHM6XC9cL2xvY2FsaG9zdDo5NDQzXC9vYXV0aDJcL3Rva2VuIiwiZXhwIjoxNDk1NzExMjI4LCJub25jZSI6IjcyYzI2Yzk2ODQ2ZjRmODc5NWFiNzFkODdkOGU0MzI1IiwiaWF0IjoxNDk1NzA3NjI4fQ.BRm_lepMrr-8mXQBycVWf41R3y83l2JiiHMAvUNTJUzULYMCuq3jPGolIs9kI7J47mK-wkLtTeVw9pS4m8HrkZt3lJeWLnhffgzZX8af-chRgfg1dKIGXGaFBVOweeYpSHBYFJhY0BrpJnay3EOBy8y67_Awj_XMC71EAhqMvWg&state=3158d0e08c30478fad44915deae87fe7&token_type=Bearer&expires_in=3600&session_state=d4d339a635d49ee57cca72c3b54620cf951e99a3b690ea20195b0a0c60b5c27f.W_oZrgC2pTyWrsuAJlCKcA
+
+-->
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/oidc-client/1.3.0/oidc-client.js"></script>
+  <script>
+  if (window.self === window.top.self) { // not in an iframe
+  var redirectUrl = window.location.href.replace('callback.html', '#/callback');
+  window.location.href = redirectUrl;
+  } else {
+  new Oidc.UserManager().signinSilentCallback();
+  }
+  </script>
+</body>
+
+</html>

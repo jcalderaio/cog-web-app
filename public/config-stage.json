@@ -1,0 +1,27 @@
+{
+  "state": "AL",  
+  "geoDataBaseURL": "https://geodata.cognosante.cc",
+  "insightsAPIEndpoint": "https://5lykpwr5o0.execute-api.us-east-1.amazonaws.com/stage/graphql",
+  "healthshareAPIEndpoint": "https://healthshare-graphql.stage.cognosante.cc/graphql",
+  "healthshareClinicalAPIEndpoint": "https://healthshare-graphql.stage.cognosante.cc/graphql",
+  "clinicalClarityBaseURL": "https://clinic.stage.cognosante.cc",
+  "sessionTimeout": 3600000,
+  "visibleDashboards": ["management", "hie", "demoMeasures", "cardiology", "measures", "alabama", "opioids"],
+  "headerImage": "/static/media/logo-esante-insights.png",
+  "footerImage": "/static/media/logo-cognosante-rev.svg",
+  "sesLogoutUrl": "https://stage.direct.esante.healthcare/portal/Account/Logoff",  
+  "auth": {
+    "loginUrl": "https://insight.stage.cognosante.cc/#/login",
+    "sessionTimeout": 900,
+    "profileUrl": "https://idp.cognosante.cc/dashboard",
+    "oidc": {
+      "authority": "https://idp.cognosante.cc:443/oauth2/oidcdiscovery/.well-known/openid-configuration",
+      "client_id": "lf62Wf6BNLGIGpR0pmE9TiqMNq8a",
+      "redirect_uri": "https://insight.stage.cognosante.cc/callback.html",
+      "response_type": "id_token token",
+      "post_logout_redirect_uri": "https://insight.stage.cognosante.cc/callback.html",
+      "silent_redirect_uri": "https://insight.stage.cognosante.cc/callback.html"
+    },
+    "provisioningUrl": "https://m0hyflw3j2.execute-api.us-east-1.amazonaws.com/stage/graphql"
+  }
+}

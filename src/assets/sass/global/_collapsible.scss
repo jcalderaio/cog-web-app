@@ -1,0 +1,79 @@
+//
+// Collapsible
+// --------------------------------------------------
+
+.accordion {
+  &.panel-group {
+    margin-bottom: 15px;
+
+    > .panel-default {
+      border: none;
+      margin-bottom: 10px;
+      background-color: transparent;
+      @include box-shadow(none);
+
+      > .panel-heading {
+        padding: 0;
+
+        .panel-title {
+          font-weight: 400;
+          font-size: 16px;
+          font-family: $font-family-serif;
+
+          a {
+            position: relative;
+            display: block;
+            padding: 12px 45px 12px 15px;
+            background-color: lighten($gray-lighter, 5%);
+            color: $gray-base;
+            cursor: pointer;
+            @include transition(background-color 0.1s ease-in-out);
+
+            &:hover,
+            &:focus {
+              background-color: lighten($gray-light, 5%);
+              text-decoration: none;
+            }
+
+            &:after {
+              font-family: 'Material-Design-Iconic-Font';
+              content: "\f2fc";
+              position: absolute;
+              top: 1px;
+              right: 15px;
+              color: $gray-dark;
+              // font-size: 40px;
+              font-size: 32px;
+            }
+
+            &.collapsed:after {
+              content: "\f2f9";
+            }
+          }
+        }
+      }
+
+      > .panel-collapse {
+        > .panel-body {
+          // padding: 12px 0 15px 0;
+        }
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    &.accordion-gray > .panel-default > .panel-heading > .panel-title {
+      a {
+        background-color: $gray;
+
+        &:hover,
+        &:focus {
+          background-color: $gray-dark;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

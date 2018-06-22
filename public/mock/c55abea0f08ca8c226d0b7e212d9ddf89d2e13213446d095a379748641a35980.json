@@ -1,0 +1,730 @@
+{
+    "notes": "old BMI details dashboard",
+    "collapsedQuery": "{outpatientVisitsMeasures{bmi(fromAge:18,toAge:74){bmi_measured,total_visits,year,month,underweight,normal,overweight,obese}}}",
+    "data": {
+        "outpatientVisitsMeasures": {
+            "bmi": [
+                {
+                    "bmi_measured": 4811,
+                    "total_visits": 6503,
+                    "year": 2016,
+                    "month": 1,
+                    "underweight": 64,
+                    "normal": 1438,
+                    "overweight": 1849,
+                    "obese": 1460
+                },
+                {
+                    "bmi_measured": 4804,
+                    "total_visits": 6465,
+                    "year": 2015,
+                    "month": 1,
+                    "underweight": 67,
+                    "normal": 1428,
+                    "overweight": 1869,
+                    "obese": 1440
+                },
+                {
+                    "bmi_measured": 4678,
+                    "total_visits": 6377,
+                    "year": 2014,
+                    "month": 1,
+                    "underweight": 49,
+                    "normal": 1518,
+                    "overweight": 1744,
+                    "obese": 1367
+                },
+                {
+                    "bmi_measured": 4716,
+                    "total_visits": 6268,
+                    "year": 2013,
+                    "month": 1,
+                    "underweight": 59,
+                    "normal": 1399,
+                    "overweight": 1852,
+                    "obese": 1406
+                },
+                {
+                    "bmi_measured": 4717,
+                    "total_visits": 6373,
+                    "year": 2012,
+                    "month": 1,
+                    "underweight": 66,
+                    "normal": 1489,
+                    "overweight": 1759,
+                    "obese": 1403
+                },
+                {
+                    "bmi_measured": 4814,
+                    "total_visits": 6456,
+                    "year": 2011,
+                    "month": 1,
+                    "underweight": 44,
+                    "normal": 1428,
+                    "overweight": 2016,
+                    "obese": 1326
+                },
+                {
+                    "bmi_measured": 4408,
+                    "total_visits": 5919,
+                    "year": 2016,
+                    "month": 2,
+                    "underweight": 56,
+                    "normal": 1276,
+                    "overweight": 1693,
+                    "obese": 1383
+                },
+                {
+                    "bmi_measured": 4311,
+                    "total_visits": 5722,
+                    "year": 2015,
+                    "month": 2,
+                    "underweight": 52,
+                    "normal": 1295,
+                    "overweight": 1594,
+                    "obese": 1370
+                },
+                {
+                    "bmi_measured": 4405,
+                    "total_visits": 5854,
+                    "year": 2014,
+                    "month": 2,
+                    "underweight": 53,
+                    "normal": 1354,
+                    "overweight": 1624,
+                    "obese": 1374
+                },
+                {
+                    "bmi_measured": 4338,
+                    "total_visits": 5766,
+                    "year": 2013,
+                    "month": 2,
+                    "underweight": 43,
+                    "normal": 1288,
+                    "overweight": 1705,
+                    "obese": 1302
+                },
+                {
+                    "bmi_measured": 4473,
+                    "total_visits": 5976,
+                    "year": 2012,
+                    "month": 2,
+                    "underweight": 59,
+                    "normal": 1384,
+                    "overweight": 1715,
+                    "obese": 1315
+                },
+                {
+                    "bmi_measured": 4241,
+                    "total_visits": 5644,
+                    "year": 2011,
+                    "month": 2,
+                    "underweight": 46,
+                    "normal": 1260,
+                    "overweight": 1767,
+                    "obese": 1168
+                },
+                {
+                    "bmi_measured": 4806,
+                    "total_visits": 6320,
+                    "year": 2016,
+                    "month": 3,
+                    "underweight": 55,
+                    "normal": 1472,
+                    "overweight": 1795,
+                    "obese": 1484
+                },
+                {
+                    "bmi_measured": 4714,
+                    "total_visits": 6260,
+                    "year": 2015,
+                    "month": 3,
+                    "underweight": 84,
+                    "normal": 1414,
+                    "overweight": 1766,
+                    "obese": 1450
+                },
+                {
+                    "bmi_measured": 4744,
+                    "total_visits": 6314,
+                    "year": 2014,
+                    "month": 3,
+                    "underweight": 70,
+                    "normal": 1469,
+                    "overweight": 1758,
+                    "obese": 1447
+                },
+                {
+                    "bmi_measured": 4766,
+                    "total_visits": 6304,
+                    "year": 2013,
+                    "month": 3,
+                    "underweight": 54,
+                    "normal": 1436,
+                    "overweight": 1859,
+                    "obese": 1417
+                },
+                {
+                    "bmi_measured": 4650,
+                    "total_visits": 6287,
+                    "year": 2012,
+                    "month": 3,
+                    "underweight": 59,
+                    "normal": 1455,
+                    "overweight": 1777,
+                    "obese": 1359
+                },
+                {
+                    "bmi_measured": 4846,
+                    "total_visits": 6355,
+                    "year": 2011,
+                    "month": 3,
+                    "underweight": 51,
+                    "normal": 1577,
+                    "overweight": 1886,
+                    "obese": 1332
+                },
+                {
+                    "bmi_measured": 4612,
+                    "total_visits": 6090,
+                    "year": 2016,
+                    "month": 4,
+                    "underweight": 67,
+                    "normal": 1432,
+                    "overweight": 1712,
+                    "obese": 1401
+                },
+                {
+                    "bmi_measured": 4624,
+                    "total_visits": 6102,
+                    "year": 2015,
+                    "month": 4,
+                    "underweight": 52,
+                    "normal": 1425,
+                    "overweight": 1718,
+                    "obese": 1429
+                },
+                {
+                    "bmi_measured": 4494,
+                    "total_visits": 5997,
+                    "year": 2014,
+                    "month": 4,
+                    "underweight": 64,
+                    "normal": 1373,
+                    "overweight": 1700,
+                    "obese": 1357
+                },
+                {
+                    "bmi_measured": 4650,
+                    "total_visits": 6198,
+                    "year": 2013,
+                    "month": 4,
+                    "underweight": 53,
+                    "normal": 1445,
+                    "overweight": 1812,
+                    "obese": 1340
+                },
+                {
+                    "bmi_measured": 4642,
+                    "total_visits": 6138,
+                    "year": 2012,
+                    "month": 4,
+                    "underweight": 57,
+                    "normal": 1511,
+                    "overweight": 1697,
+                    "obese": 1377
+                },
+                {
+                    "bmi_measured": 4680,
+                    "total_visits": 6204,
+                    "year": 2011,
+                    "month": 4,
+                    "underweight": 53,
+                    "normal": 1467,
+                    "overweight": 1925,
+                    "obese": 1235
+                },
+                {
+                    "bmi_measured": 4872,
+                    "total_visits": 6419,
+                    "year": 2016,
+                    "month": 5,
+                    "underweight": 60,
+                    "normal": 1488,
+                    "overweight": 1831,
+                    "obese": 1493
+                },
+                {
+                    "bmi_measured": 4769,
+                    "total_visits": 6355,
+                    "year": 2015,
+                    "month": 5,
+                    "underweight": 52,
+                    "normal": 1436,
+                    "overweight": 1788,
+                    "obese": 1493
+                },
+                {
+                    "bmi_measured": 4864,
+                    "total_visits": 6465,
+                    "year": 2014,
+                    "month": 5,
+                    "underweight": 80,
+                    "normal": 1568,
+                    "overweight": 1800,
+                    "obese": 1416
+                },
+                {
+                    "bmi_measured": 4751,
+                    "total_visits": 6289,
+                    "year": 2013,
+                    "month": 5,
+                    "underweight": 44,
+                    "normal": 1459,
+                    "overweight": 1832,
+                    "obese": 1416
+                },
+                {
+                    "bmi_measured": 4782,
+                    "total_visits": 6421,
+                    "year": 2012,
+                    "month": 5,
+                    "underweight": 72,
+                    "normal": 1455,
+                    "overweight": 1827,
+                    "obese": 1428
+                },
+                {
+                    "bmi_measured": 4884,
+                    "total_visits": 6497,
+                    "year": 2011,
+                    "month": 5,
+                    "underweight": 39,
+                    "normal": 1483,
+                    "overweight": 1958,
+                    "obese": 1404
+                },
+                {
+                    "bmi_measured": 4603,
+                    "total_visits": 6187,
+                    "year": 2016,
+                    "month": 6,
+                    "underweight": 64,
+                    "normal": 1394,
+                    "overweight": 1737,
+                    "obese": 1408
+                },
+                {
+                    "bmi_measured": 4627,
+                    "total_visits": 6193,
+                    "year": 2015,
+                    "month": 6,
+                    "underweight": 70,
+                    "normal": 1402,
+                    "overweight": 1660,
+                    "obese": 1495
+                },
+                {
+                    "bmi_measured": 4723,
+                    "total_visits": 6283,
+                    "year": 2014,
+                    "month": 6,
+                    "underweight": 68,
+                    "normal": 1461,
+                    "overweight": 1770,
+                    "obese": 1424
+                },
+                {
+                    "bmi_measured": 4597,
+                    "total_visits": 6142,
+                    "year": 2013,
+                    "month": 6,
+                    "underweight": 63,
+                    "normal": 1399,
+                    "overweight": 1748,
+                    "obese": 1387
+                },
+                {
+                    "bmi_measured": 4539,
+                    "total_visits": 6106,
+                    "year": 2012,
+                    "month": 6,
+                    "underweight": 62,
+                    "normal": 1437,
+                    "overweight": 1681,
+                    "obese": 1359
+                },
+                {
+                    "bmi_measured": 4524,
+                    "total_visits": 6136,
+                    "year": 2011,
+                    "month": 6,
+                    "underweight": 42,
+                    "normal": 1390,
+                    "overweight": 1848,
+                    "obese": 1244
+                },
+                {
+                    "bmi_measured": 4706,
+                    "total_visits": 6292,
+                    "year": 2016,
+                    "month": 7,
+                    "underweight": 79,
+                    "normal": 1431,
+                    "overweight": 1717,
+                    "obese": 1479
+                },
+                {
+                    "bmi_measured": 4792,
+                    "total_visits": 6377,
+                    "year": 2015,
+                    "month": 7,
+                    "underweight": 70,
+                    "normal": 1444,
+                    "overweight": 1763,
+                    "obese": 1515
+                },
+                {
+                    "bmi_measured": 4779,
+                    "total_visits": 6355,
+                    "year": 2014,
+                    "month": 7,
+                    "underweight": 73,
+                    "normal": 1534,
+                    "overweight": 1809,
+                    "obese": 1363
+                },
+                {
+                    "bmi_measured": 4827,
+                    "total_visits": 6465,
+                    "year": 2013,
+                    "month": 7,
+                    "underweight": 41,
+                    "normal": 1479,
+                    "overweight": 1893,
+                    "obese": 1414
+                },
+                {
+                    "bmi_measured": 4927,
+                    "total_visits": 6508,
+                    "year": 2012,
+                    "month": 7,
+                    "underweight": 69,
+                    "normal": 1502,
+                    "overweight": 1876,
+                    "obese": 1480
+                },
+                {
+                    "bmi_measured": 4726,
+                    "total_visits": 6306,
+                    "year": 2011,
+                    "month": 7,
+                    "underweight": 50,
+                    "normal": 1410,
+                    "overweight": 1897,
+                    "obese": 1369
+                },
+                {
+                    "bmi_measured": 4847,
+                    "total_visits": 6427,
+                    "year": 2016,
+                    "month": 8,
+                    "underweight": 80,
+                    "normal": 1541,
+                    "overweight": 1776,
+                    "obese": 1450
+                },
+                {
+                    "bmi_measured": 4867,
+                    "total_visits": 6424,
+                    "year": 2015,
+                    "month": 8,
+                    "underweight": 73,
+                    "normal": 1429,
+                    "overweight": 1842,
+                    "obese": 1523
+                },
+                {
+                    "bmi_measured": 4729,
+                    "total_visits": 6364,
+                    "year": 2014,
+                    "month": 8,
+                    "underweight": 71,
+                    "normal": 1490,
+                    "overweight": 1741,
+                    "obese": 1427
+                },
+                {
+                    "bmi_measured": 4830,
+                    "total_visits": 6521,
+                    "year": 2013,
+                    "month": 8,
+                    "underweight": 59,
+                    "normal": 1429,
+                    "overweight": 1913,
+                    "obese": 1429
+                },
+                {
+                    "bmi_measured": 4740,
+                    "total_visits": 6330,
+                    "year": 2012,
+                    "month": 8,
+                    "underweight": 62,
+                    "normal": 1451,
+                    "overweight": 1769,
+                    "obese": 1458
+                },
+                {
+                    "bmi_measured": 4828,
+                    "total_visits": 6415,
+                    "year": 2011,
+                    "month": 8,
+                    "underweight": 30,
+                    "normal": 1465,
+                    "overweight": 2016,
+                    "obese": 1317
+                },
+                {
+                    "bmi_measured": 4513,
+                    "total_visits": 6006,
+                    "year": 2016,
+                    "month": 9,
+                    "underweight": 69,
+                    "normal": 1371,
+                    "overweight": 1624,
+                    "obese": 1449
+                },
+                {
+                    "bmi_measured": 4587,
+                    "total_visits": 6127,
+                    "year": 2015,
+                    "month": 9,
+                    "underweight": 64,
+                    "normal": 1422,
+                    "overweight": 1743,
+                    "obese": 1358
+                },
+                {
+                    "bmi_measured": 4741,
+                    "total_visits": 6269,
+                    "year": 2014,
+                    "month": 9,
+                    "underweight": 67,
+                    "normal": 1544,
+                    "overweight": 1741,
+                    "obese": 1389
+                },
+                {
+                    "bmi_measured": 4712,
+                    "total_visits": 6292,
+                    "year": 2013,
+                    "month": 9,
+                    "underweight": 55,
+                    "normal": 1445,
+                    "overweight": 1814,
+                    "obese": 1398
+                },
+                {
+                    "bmi_measured": 4683,
+                    "total_visits": 6238,
+                    "year": 2012,
+                    "month": 9,
+                    "underweight": 52,
+                    "normal": 1444,
+                    "overweight": 1805,
+                    "obese": 1382
+                },
+                {
+                    "bmi_measured": 4617,
+                    "total_visits": 6050,
+                    "year": 2011,
+                    "month": 9,
+                    "underweight": 37,
+                    "normal": 1448,
+                    "overweight": 1872,
+                    "obese": 1260
+                },
+                {
+                    "bmi_measured": 4782,
+                    "total_visits": 6450,
+                    "year": 2016,
+                    "month": 10,
+                    "underweight": 76,
+                    "normal": 1428,
+                    "overweight": 1831,
+                    "obese": 1447
+                },
+                {
+                    "bmi_measured": 4781,
+                    "total_visits": 6344,
+                    "year": 2015,
+                    "month": 10,
+                    "underweight": 58,
+                    "normal": 1389,
+                    "overweight": 1864,
+                    "obese": 1470
+                },
+                {
+                    "bmi_measured": 4791,
+                    "total_visits": 6350,
+                    "year": 2014,
+                    "month": 10,
+                    "underweight": 63,
+                    "normal": 1464,
+                    "overweight": 1774,
+                    "obese": 1490
+                },
+                {
+                    "bmi_measured": 4777,
+                    "total_visits": 6308,
+                    "year": 2013,
+                    "month": 10,
+                    "underweight": 55,
+                    "normal": 1443,
+                    "overweight": 1862,
+                    "obese": 1417
+                },
+                {
+                    "bmi_measured": 4764,
+                    "total_visits": 6354,
+                    "year": 2012,
+                    "month": 10,
+                    "underweight": 74,
+                    "normal": 1497,
+                    "overweight": 1786,
+                    "obese": 1407
+                },
+                {
+                    "bmi_measured": 4852,
+                    "total_visits": 6474,
+                    "year": 2011,
+                    "month": 10,
+                    "underweight": 29,
+                    "normal": 1454,
+                    "overweight": 1962,
+                    "obese": 1407
+                },
+                {
+                    "bmi_measured": 4714,
+                    "total_visits": 6228,
+                    "year": 2016,
+                    "month": 11,
+                    "underweight": 88,
+                    "normal": 1456,
+                    "overweight": 1738,
+                    "obese": 1432
+                },
+                {
+                    "bmi_measured": 4766,
+                    "total_visits": 6386,
+                    "year": 2015,
+                    "month": 11,
+                    "underweight": 68,
+                    "normal": 1474,
+                    "overweight": 1728,
+                    "obese": 1496
+                },
+                {
+                    "bmi_measured": 4671,
+                    "total_visits": 6221,
+                    "year": 2014,
+                    "month": 11,
+                    "underweight": 52,
+                    "normal": 1437,
+                    "overweight": 1768,
+                    "obese": 1414
+                },
+                {
+                    "bmi_measured": 4736,
+                    "total_visits": 6201,
+                    "year": 2013,
+                    "month": 11,
+                    "underweight": 49,
+                    "normal": 1457,
+                    "overweight": 1798,
+                    "obese": 1432
+                },
+                {
+                    "bmi_measured": 4569,
+                    "total_visits": 6054,
+                    "year": 2012,
+                    "month": 11,
+                    "underweight": 63,
+                    "normal": 1427,
+                    "overweight": 1706,
+                    "obese": 1373
+                },
+                {
+                    "bmi_measured": 4612,
+                    "total_visits": 6180,
+                    "year": 2011,
+                    "month": 11,
+                    "underweight": 40,
+                    "normal": 1433,
+                    "overweight": 1816,
+                    "obese": 1323
+                },
+                {
+                    "bmi_measured": 4458,
+                    "total_visits": 5960,
+                    "year": 2016,
+                    "month": 12,
+                    "underweight": 53,
+                    "normal": 1257,
+                    "overweight": 1700,
+                    "obese": 1448
+                },
+                {
+                    "bmi_measured": 4553,
+                    "total_visits": 6116,
+                    "year": 2015,
+                    "month": 12,
+                    "underweight": 64,
+                    "normal": 1409,
+                    "overweight": 1704,
+                    "obese": 1376
+                },
+                {
+                    "bmi_measured": 4646,
+                    "total_visits": 6129,
+                    "year": 2014,
+                    "month": 12,
+                    "underweight": 63,
+                    "normal": 1472,
+                    "overweight": 1678,
+                    "obese": 1433
+                },
+                {
+                    "bmi_measured": 4726,
+                    "total_visits": 6328,
+                    "year": 2013,
+                    "month": 12,
+                    "underweight": 58,
+                    "normal": 1470,
+                    "overweight": 1822,
+                    "obese": 1376
+                },
+                {
+                    "bmi_measured": 4608,
+                    "total_visits": 6184,
+                    "year": 2012,
+                    "month": 12,
+                    "underweight": 58,
+                    "normal": 1354,
+                    "overweight": 1718,
+                    "obese": 1478
+                },
+                {
+                    "bmi_measured": 4747,
+                    "total_visits": 6276,
+                    "year": 2011,
+                    "month": 12,
+                    "underweight": 36,
+                    "normal": 1466,
+                    "overweight": 1935,
+                    "obese": 1310
+                }
+            ]
+        }
+    }
+}

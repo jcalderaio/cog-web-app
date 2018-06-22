@@ -1,0 +1,21 @@
+//
+// Icons
+// --------------------------------------------------
+
+.checkbox input[type="checkbox"]:before {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Material-Design-Iconic-Font';
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-no-results {
+    font-size: 130px;
+    color: $gray;
+}

@@ -1,0 +1,351 @@
+{
+  "notes": "HEDIS measure data for detailed view for BCS",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"BCS\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 1,
+        "total": 535362,
+        "completed": 300159
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 1,
+        "total": 540365,
+        "completed": 302941
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 1,
+        "total": 545352,
+        "completed": 305712
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 1,
+        "total": 550372,
+        "completed": 308503
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 2,
+        "total": 535764,
+        "completed": 300381
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 2,
+        "total": 540777,
+        "completed": 303170
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 2,
+        "total": 545767,
+        "completed": 305942
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 2,
+        "total": 550776,
+        "completed": 308727
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 3,
+        "total": 531175,
+        "completed": 297833
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 3,
+        "total": 536257,
+        "completed": 300657
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 3,
+        "total": 541308,
+        "completed": 303464
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 3,
+        "total": 546256,
+        "completed": 306215
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 3,
+        "total": 551188,
+        "completed": 308956
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 4,
+        "total": 531597,
+        "completed": 298067
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 4,
+        "total": 536606,
+        "completed": 300851
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 4,
+        "total": 541596,
+        "completed": 303623
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 4,
+        "total": 546609,
+        "completed": 306411
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 5,
+        "total": 532017,
+        "completed": 298299
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 5,
+        "total": 537037,
+        "completed": 301091
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 5,
+        "total": 542024,
+        "completed": 303863
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 5,
+        "total": 547027,
+        "completed": 306644
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 6,
+        "total": 532444,
+        "completed": 298538
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 6,
+        "total": 537438,
+        "completed": 301314
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 6,
+        "total": 542455,
+        "completed": 304102
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 6,
+        "total": 547452,
+        "completed": 306881
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 7,
+        "total": 532871,
+        "completed": 298775
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 7,
+        "total": 537844,
+        "completed": 301538
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 7,
+        "total": 542869,
+        "completed": 304333
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 7,
+        "total": 547888,
+        "completed": 307123
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 8,
+        "total": 533256,
+        "completed": 298989
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 8,
+        "total": 538278,
+        "completed": 301781
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 8,
+        "total": 543269,
+        "completed": 304555
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 8,
+        "total": 548280,
+        "completed": 307341
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 9,
+        "total": 533697,
+        "completed": 299236
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 9,
+        "total": 538707,
+        "completed": 302020
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 9,
+        "total": 543727,
+        "completed": 304809
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 9,
+        "total": 548737,
+        "completed": 307594
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 10,
+        "total": 534093,
+        "completed": 299455
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 10,
+        "total": 539104,
+        "completed": 302239
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 10,
+        "total": 544095,
+        "completed": 305014
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 10,
+        "total": 549117,
+        "completed": 307807
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 11,
+        "total": 534556,
+        "completed": 299710
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 11,
+        "total": 539543,
+        "completed": 302484
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 11,
+        "total": 544519,
+        "completed": 305250
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 11,
+        "total": 549541,
+        "completed": 308041
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 12,
+        "total": 534943,
+        "completed": 299928
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 12,
+        "total": 539940,
+        "completed": 302705
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 12,
+        "total": 544957,
+        "completed": 305492
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 12,
+        "total": 549951,
+        "completed": 308268
+      }
+    ]
+  }
+}

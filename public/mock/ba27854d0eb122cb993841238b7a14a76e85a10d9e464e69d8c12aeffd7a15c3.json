@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS measures for PPC",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"PPC\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 1,
+        "total": 7339,
+        "completed": 5202
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 1,
+        "total": 7053,
+        "completed": 5036
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 1,
+        "total": 6762,
+        "completed": 5871
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 1,
+        "total": 6483,
+        "completed": 5709
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 2,
+        "total": 7309,
+        "completed": 5182
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 2,
+        "total": 7030,
+        "completed": 5022
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 2,
+        "total": 6745,
+        "completed": 5859
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 2,
+        "total": 6458,
+        "completed": 5697
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 3,
+        "total": 7567,
+        "completed": 5331
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 3,
+        "total": 7295,
+        "completed": 5176
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 3,
+        "total": 7001,
+        "completed": 5006
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 3,
+        "total": 6719,
+        "completed": 5844
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 3,
+        "total": 6440,
+        "completed": 5686
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 4,
+        "total": 7552,
+        "completed": 5322
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 4,
+        "total": 7269,
+        "completed": 5159
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 4,
+        "total": 6976,
+        "completed": 5993
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 4,
+        "total": 6696,
+        "completed": 5833
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 5,
+        "total": 7528,
+        "completed": 5309
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 5,
+        "total": 7237,
+        "completed": 5142
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 5,
+        "total": 6959,
+        "completed": 5984
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 5,
+        "total": 6670,
+        "completed": 5817
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 6,
+        "total": 7501,
+        "completed": 5294
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 6,
+        "total": 7214,
+        "completed": 5127
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 6,
+        "total": 6935,
+        "completed": 5971
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 6,
+        "total": 6644,
+        "completed": 5802
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 7,
+        "total": 7478,
+        "completed": 5280
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 7,
+        "total": 7190,
+        "completed": 5116
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 7,
+        "total": 6910,
+        "completed": 5954
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 7,
+        "total": 6626,
+        "completed": 5790
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 8,
+        "total": 7447,
+        "completed": 5265
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 8,
+        "total": 7170,
+        "completed": 5105
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 8,
+        "total": 6886,
+        "completed": 5940
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 8,
+        "total": 6600,
+        "completed": 5778
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 9,
+        "total": 7427,
+        "completed": 5251
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 9,
+        "total": 7141,
+        "completed": 5088
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 9,
+        "total": 6863,
+        "completed": 5925
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 9,
+        "total": 6580,
+        "completed": 5766
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 10,
+        "total": 7400,
+        "completed": 5234
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 10,
+        "total": 7120,
+        "completed": 5076
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 10,
+        "total": 6845,
+        "completed": 5918
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 10,
+        "total": 6557,
+        "completed": 5753
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 11,
+        "total": 7379,
+        "completed": 5222
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 11,
+        "total": 7098,
+        "completed": 5062
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 11,
+        "total": 6815,
+        "completed": 5900
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 11,
+        "total": 6535,
+        "completed": 5740
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 12,
+        "total": 7354,
+        "completed": 5208
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 12,
+        "total": 7077,
+        "completed": 5052
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 12,
+        "total": 6788,
+        "completed": 5885
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 12,
+        "total": 6512,
+        "completed": 5727
+      }
+    ]
+  }
+}

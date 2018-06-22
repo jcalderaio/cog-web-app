@@ -1,0 +1,1 @@
+DEPRECATION NOTE: These are old pages/components. For new measures, use components under widgets/Measures

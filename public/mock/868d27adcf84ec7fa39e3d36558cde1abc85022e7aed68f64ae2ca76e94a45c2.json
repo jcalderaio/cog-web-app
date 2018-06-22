@@ -1,0 +1,456 @@
+{
+    "notes": "HIE participation / network growth mock",
+    "collapsedQuery": "{hieParticipation{yearmonthnew_hie_participantstotal_hie_participantstotal_providers}}",
+    "data": {
+        "hieParticipation": [
+            {
+                "year": 2012,
+                "month": 1,
+                "new_hie_participants": 17,
+                "total_hie_participants": 17,
+                "total_providers": 1313
+            },
+            {
+                "year": 2012,
+                "month": 2,
+                "new_hie_participants": 19,
+                "total_hie_participants": 36,
+                "total_providers": 1314
+            },
+            {
+                "year": 2012,
+                "month": 3,
+                "new_hie_participants": 18,
+                "total_hie_participants": 54,
+                "total_providers": 1315
+            },
+            {
+                "year": 2012,
+                "month": 4,
+                "new_hie_participants": 27,
+                "total_hie_participants": 81,
+                "total_providers": 1316
+            },
+            {
+                "year": 2012,
+                "month": 5,
+                "new_hie_participants": 18,
+                "total_hie_participants": 99,
+                "total_providers": 1317
+            },
+            {
+                "year": 2012,
+                "month": 6,
+                "new_hie_participants": 20,
+                "total_hie_participants": 119,
+                "total_providers": 1318
+            },
+            {
+                "year": 2012,
+                "month": 7,
+                "new_hie_participants": 30,
+                "total_hie_participants": 149,
+                "total_providers": 1319
+            },
+            {
+                "year": 2012,
+                "month": 8,
+                "new_hie_participants": 24,
+                "total_hie_participants": 173,
+                "total_providers": 1320
+            },
+            {
+                "year": 2012,
+                "month": 9,
+                "new_hie_participants": 15,
+                "total_hie_participants": 188,
+                "total_providers": 1321
+            },
+            {
+                "year": 2012,
+                "month": 10,
+                "new_hie_participants": 21,
+                "total_hie_participants": 209,
+                "total_providers": 1322
+            },
+            {
+                "year": 2012,
+                "month": 11,
+                "new_hie_participants": 19,
+                "total_hie_participants": 228,
+                "total_providers": 1323
+            },
+            {
+                "year": 2012,
+                "month": 12,
+                "new_hie_participants": 18,
+                "total_hie_participants": 246,
+                "total_providers": 1324
+            },
+            {
+                "year": 2013,
+                "month": 1,
+                "new_hie_participants": 27,
+                "total_hie_participants": 273,
+                "total_providers": 1314
+            },
+            {
+                "year": 2013,
+                "month": 2,
+                "new_hie_participants": 24,
+                "total_hie_participants": 297,
+                "total_providers": 1315
+            },
+            {
+                "year": 2013,
+                "month": 3,
+                "new_hie_participants": 17,
+                "total_hie_participants": 314,
+                "total_providers": 1316
+            },
+            {
+                "year": 2013,
+                "month": 4,
+                "new_hie_participants": 20,
+                "total_hie_participants": 334,
+                "total_providers": 1317
+            },
+            {
+                "year": 2013,
+                "month": 5,
+                "new_hie_participants": 16,
+                "total_hie_participants": 350,
+                "total_providers": 1318
+            },
+            {
+                "year": 2013,
+                "month": 6,
+                "new_hie_participants": 17,
+                "total_hie_participants": 367,
+                "total_providers": 1319
+            },
+            {
+                "year": 2013,
+                "month": 7,
+                "new_hie_participants": 16,
+                "total_hie_participants": 383,
+                "total_providers": 1320
+            },
+            {
+                "year": 2013,
+                "month": 8,
+                "new_hie_participants": 19,
+                "total_hie_participants": 402,
+                "total_providers": 1321
+            },
+            {
+                "year": 2013,
+                "month": 9,
+                "new_hie_participants": 22,
+                "total_hie_participants": 424,
+                "total_providers": 1322
+            },
+            {
+                "year": 2013,
+                "month": 10,
+                "new_hie_participants": 25,
+                "total_hie_participants": 449,
+                "total_providers": 1323
+            },
+            {
+                "year": 2013,
+                "month": 11,
+                "new_hie_participants": 23,
+                "total_hie_participants": 472,
+                "total_providers": 1324
+            },
+            {
+                "year": 2013,
+                "month": 12,
+                "new_hie_participants": 18,
+                "total_hie_participants": 490,
+                "total_providers": 1325
+            },
+            {
+                "year": 2014,
+                "month": 1,
+                "new_hie_participants": 21,
+                "total_hie_participants": 511,
+                "total_providers": 1315
+            },
+            {
+                "year": 2014,
+                "month": 2,
+                "new_hie_participants": 23,
+                "total_hie_participants": 534,
+                "total_providers": 1316
+            },
+            {
+                "year": 2014,
+                "month": 3,
+                "new_hie_participants": 19,
+                "total_hie_participants": 553,
+                "total_providers": 1317
+            },
+            {
+                "year": 2014,
+                "month": 4,
+                "new_hie_participants": 21,
+                "total_hie_participants": 574,
+                "total_providers": 1318
+            },
+            {
+                "year": 2014,
+                "month": 5,
+                "new_hie_participants": 19,
+                "total_hie_participants": 593,
+                "total_providers": 1319
+            },
+            {
+                "year": 2014,
+                "month": 6,
+                "new_hie_participants": 15,
+                "total_hie_participants": 608,
+                "total_providers": 1320
+            },
+            {
+                "year": 2014,
+                "month": 7,
+                "new_hie_participants": 18,
+                "total_hie_participants": 626,
+                "total_providers": 1321
+            },
+            {
+                "year": 2014,
+                "month": 8,
+                "new_hie_participants": 22,
+                "total_hie_participants": 648,
+                "total_providers": 1322
+            },
+            {
+                "year": 2014,
+                "month": 9,
+                "new_hie_participants": 15,
+                "total_hie_participants": 663,
+                "total_providers": 1323
+            },
+            {
+                "year": 2014,
+                "month": 10,
+                "new_hie_participants": 18,
+                "total_hie_participants": 681,
+                "total_providers": 1324
+            },
+            {
+                "year": 2014,
+                "month": 11,
+                "new_hie_participants": 20,
+                "total_hie_participants": 701,
+                "total_providers": 1325
+            },
+            {
+                "year": 2014,
+                "month": 12,
+                "new_hie_participants": 16,
+                "total_hie_participants": 717,
+                "total_providers": 1326
+            },
+            {
+                "year": 2015,
+                "month": 1,
+                "new_hie_participants": 24,
+                "total_hie_participants": 741,
+                "total_providers": 1316
+            },
+            {
+                "year": 2015,
+                "month": 2,
+                "new_hie_participants": 21,
+                "total_hie_participants": 762,
+                "total_providers": 1317
+            },
+            {
+                "year": 2015,
+                "month": 3,
+                "new_hie_participants": 24,
+                "total_hie_participants": 786,
+                "total_providers": 1318
+            },
+            {
+                "year": 2015,
+                "month": 4,
+                "new_hie_participants": 21,
+                "total_hie_participants": 807,
+                "total_providers": 1319
+            },
+            {
+                "year": 2015,
+                "month": 5,
+                "new_hie_participants": 15,
+                "total_hie_participants": 822,
+                "total_providers": 1320
+            },
+            {
+                "year": 2015,
+                "month": 6,
+                "new_hie_participants": 23,
+                "total_hie_participants": 845,
+                "total_providers": 1321
+            },
+            {
+                "year": 2015,
+                "month": 7,
+                "new_hie_participants": 21,
+                "total_hie_participants": 866,
+                "total_providers": 1322
+            },
+            {
+                "year": 2015,
+                "month": 8,
+                "new_hie_participants": 10,
+                "total_hie_participants": 876,
+                "total_providers": 1323
+            },
+            {
+                "year": 2015,
+                "month": 9,
+                "new_hie_participants": 17,
+                "total_hie_participants": 893,
+                "total_providers": 1324
+            },
+            {
+                "year": 2015,
+                "month": 10,
+                "new_hie_participants": 21,
+                "total_hie_participants": 914,
+                "total_providers": 1325
+            },
+            {
+                "year": 2015,
+                "month": 11,
+                "new_hie_participants": 15,
+                "total_hie_participants": 929,
+                "total_providers": 1326
+            },
+            {
+                "year": 2015,
+                "month": 12,
+                "new_hie_participants": 13,
+                "total_hie_participants": 942,
+                "total_providers": 1327
+            },
+            {
+                "year": 2016,
+                "month": 1,
+                "new_hie_participants": 16,
+                "total_hie_participants": 958,
+                "total_providers": 1317
+            },
+            {
+                "year": 2016,
+                "month": 2,
+                "new_hie_participants": 14,
+                "total_hie_participants": 972,
+                "total_providers": 1318
+            },
+            {
+                "year": 2016,
+                "month": 3,
+                "new_hie_participants": 18,
+                "total_hie_participants": 990,
+                "total_providers": 1319
+            },
+            {
+                "year": 2016,
+                "month": 4,
+                "new_hie_participants": 14,
+                "total_hie_participants": 1004,
+                "total_providers": 1320
+            },
+            {
+                "year": 2016,
+                "month": 5,
+                "new_hie_participants": 18,
+                "total_hie_participants": 1022,
+                "total_providers": 1321
+            },
+            {
+                "year": 2016,
+                "month": 6,
+                "new_hie_participants": 14,
+                "total_hie_participants": 1036,
+                "total_providers": 1322
+            },
+            {
+                "year": 2016,
+                "month": 7,
+                "new_hie_participants": 10,
+                "total_hie_participants": 1046,
+                "total_providers": 1323
+            },
+            {
+                "year": 2016,
+                "month": 8,
+                "new_hie_participants": 24,
+                "total_hie_participants": 1070,
+                "total_providers": 1324
+            },
+            {
+                "year": 2016,
+                "month": 9,
+                "new_hie_participants": 22,
+                "total_hie_participants": 1092,
+                "total_providers": 1325
+            },
+            {
+                "year": 2016,
+                "month": 10,
+                "new_hie_participants": 22,
+                "total_hie_participants": 1114,
+                "total_providers": 1326
+            },
+            {
+                "year": 2016,
+                "month": 11,
+                "new_hie_participants": 20,
+                "total_hie_participants": 1134,
+                "total_providers": 1327
+            },
+            {
+                "year": 2016,
+                "month": 12,
+                "new_hie_participants": 19,
+                "total_hie_participants": 1153,
+                "total_providers": 1328
+            },
+            {
+                "year": 2017,
+                "month": 1,
+                "new_hie_participants": 15,
+                "total_hie_participants": 1168,
+                "total_providers": 1328
+            },
+            {
+                "year": 2017,
+                "month": 2,
+                "new_hie_participants": 25,
+                "total_hie_participants": 1193,
+                "total_providers": 1329
+            },
+            {
+                "year": 2017,
+                "month": 3,
+                "new_hie_participants": 13,
+                "total_hie_participants": 1206,
+                "total_providers": 1330
+            },
+            {
+                "year": 2017,
+                "month": 4,
+                "new_hie_participants": 12,
+                "total_hie_participants": 1218,
+                "total_providers": 1331
+            }
+        ]
+    }
+}

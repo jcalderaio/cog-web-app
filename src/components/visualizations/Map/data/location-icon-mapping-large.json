@@ -1,0 +1,535 @@
+{
+  "marker-1": {
+    "x": 0,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-2": {
+    "x": 128,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-3": {
+    "x": 256,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-4": {
+    "x": 384,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-5": {
+    "x": 0,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-6": {
+    "x": 128,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-7": {
+    "x": 256,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-8": {
+    "x": 384,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-9": {
+    "x": 0,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-10": {
+    "x": 128,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-20": {
+    "x": 256,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-30": {
+    "x": 384,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-40": {
+    "x": 0,
+    "y": 384,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-50": {
+    "x": 128,
+    "y": 384,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-60": {
+    "x": 256,
+    "y": 384,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-70": {
+    "x": 384,
+    "y": 384,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-80": {
+    "x": 0,
+    "y": 512,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-90": {
+    "x": 128,
+    "y": 512,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-100": {
+    "x": 256,
+    "y": 512,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker": {
+    "x": 384,
+    "y": 512,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-200": {
+    "x": 0,
+    "y": 640,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-300": {
+    "x": 128,
+    "y": 640,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-400": {
+    "x": 256,
+    "y": 640,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-500": {
+    "x": 384,
+    "y": 640,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-600": {
+    "x": 0,
+    "y": 768,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-700": {
+    "x": 128,
+    "y": 768,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-800": {
+    "x": 256,
+    "y": 768,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-900": {
+    "x": 384,
+    "y": 768,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-1000": {
+    "x": 0,
+    "y": 896,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-2000": {
+    "x": 128,
+    "y": 896,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-3000": {
+    "x": 256,
+    "y": 896,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-4000": {
+    "x": 384,
+    "y": 896,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-5000": {
+    "x": 0,
+    "y": 1024,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-6000": {
+    "x": 128,
+    "y": 1024,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-7000": {
+    "x": 256,
+    "y": 1024,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-8000": {
+    "x": 384,
+    "y": 1024,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-9000": {
+    "x": 0,
+    "y": 1152,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-10000": {
+    "x": 128,
+    "y": 1152,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-20000": {
+    "x": 256,
+    "y": 1152,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-30000": {
+    "x": 384,
+    "y": 1152,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-40000": {
+    "x": 0,
+    "y": 1280,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-50000": {
+    "x": 128,
+    "y": 1280,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-60000": {
+    "x": 256,
+    "y": 1280,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-70000": {
+    "x": 384,
+    "y": 1280,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-80000": {
+    "x": 0,
+    "y": 1408,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-90000": {
+    "x": 128,
+    "y": 1408,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-100000": {
+    "x": 256,
+    "y": 1408,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-200000": {
+    "x": 384,
+    "y": 1408,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-300000": {
+    "x": 0,
+    "y": 1536,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-400000": {
+    "x": 128,
+    "y": 1536,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-500000": {
+    "x": 256,
+    "y": 1536,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-600000": {
+    "x": 384,
+    "y": 1536,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-700000": {
+    "x": 0,
+    "y": 1664,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-800000": {
+    "x": 128,
+    "y": 1664,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-900000": {
+    "x": 256,
+    "y": 1664,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-1000000": {
+    "x": 384,
+    "y": 1664,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-2000000": {
+    "x": 0,
+    "y": 1792,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-3000000": {
+    "x": 128,
+    "y": 1792,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-4000000": {
+    "x": 256,
+    "y": 1792,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-5000000": {
+    "x": 384,
+    "y": 1792,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-6000000": {
+    "x": 0,
+    "y": 1920,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-7000000": {
+    "x": 128,
+    "y": 1920,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-8000000": {
+    "x": 256,
+    "y": 1920,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-9000000": {
+    "x": 384,
+    "y": 1920,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-10000000": {
+    "x": 0,
+    "y": 2048,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-20000000": {
+    "x": 128,
+    "y": 2048,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-30000000": {
+    "x": 256,
+    "y": 2048,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-40000000": {
+    "x": 384,
+    "y": 2048,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-50000000": {
+    "x": 0,
+    "y": 2176,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-60000000": {
+    "x": 128,
+    "y": 2176,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-70000000": {
+    "x": 256,
+    "y": 2176,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-80000000": {
+    "x": 384,
+    "y": 2176,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+
+  "marker-90000000": {
+    "x": 0,
+    "y": 2304,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  },
+  "marker-100000000": {
+    "x": 128,
+    "y": 2304,
+    "width": 128,
+    "height": 128,
+    "anchorY": 128
+  }
+  
+}

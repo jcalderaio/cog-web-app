@@ -1,0 +1,5665 @@
+{
+  "notes": "This data set contains demo HEDIS measures",
+  "collapsedQuery": "{hedisMonthlyCompliance{codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 1,
+        "total": 142501,
+        "completed": 106871
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 1,
+        "total": 385164,
+        "completed": 228898
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 1,
+        "total": 385164,
+        "completed": 301292
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 1,
+        "total": 385164,
+        "completed": 294890
+      },
+      {
+        "code": "BMI",
+        "year": 2016,
+        "month": 1,
+        "total": 385164,
+        "completed": 303290
+      },
+      {
+        "code": "BMI",
+        "year": 2017,
+        "month": 1,
+        "total": 385164,
+        "completed": 272898
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 1,
+        "total": 2598814,
+        "completed": 1553304
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 1,
+        "total": 764659,
+        "completed": 450352
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 1,
+        "total": 1006252,
+        "completed": 592664
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 1,
+        "total": 536404,
+        "completed": 312550
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 1,
+        "total": 1100494,
+        "completed": 868448
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 1,
+        "total": 54525,
+        "completed": 47478
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 1,
+        "total": 508364,
+        "completed": 496699
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 1,
+        "total": 7339,
+        "completed": 6339
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 1,
+        "total": 535362,
+        "completed": 300159
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 1,
+        "total": 188355,
+        "completed": 130489
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 1,
+        "total": 504061,
+        "completed": 378309
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 1,
+        "total": 44454,
+        "completed": 32454
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 1,
+        "total": 739976,
+        "completed": 435792
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 1,
+        "total": 7053,
+        "completed": 6039
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 1,
+        "total": 2582518,
+        "completed": 1543505
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 1,
+        "total": 540365,
+        "completed": 302941
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 1,
+        "total": 42755,
+        "completed": 30154
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 1,
+        "total": 1015289,
+        "completed": 597927
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 1,
+        "total": 1088569,
+        "completed": 861276
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 1,
+        "total": 522189,
+        "completed": 304200
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 1,
+        "total": 81134,
+        "completed": 67478
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 1,
+        "total": 187680,
+        "completed": 134245
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 1,
+        "total": 523613,
+        "completed": 405491
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 1,
+        "total": 500678,
+        "completed": 375314
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 1,
+        "total": 545352,
+        "completed": 305712
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 1,
+        "total": 538865,
+        "completed": 414285
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 1,
+        "total": 2566175,
+        "completed": 1533684
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 1,
+        "total": 41054,
+        "completed": 29901
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 1,
+        "total": 6762,
+        "completed": 5871
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 1,
+        "total": 187003,
+        "completed": 136952
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 1,
+        "total": 1076636,
+        "completed": 854096
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 1,
+        "total": 85842,
+        "completed": 70145
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 1,
+        "total": 507987,
+        "completed": 295858
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 1,
+        "total": 715337,
+        "completed": 673378
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 1,
+        "total": 1024294,
+        "completed": 603170
+      },
+      {
+        "code": "CRCS",
+        "year": 2017,
+        "month": 1,
+        "total": 1033334,
+        "completed": 608429
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 1,
+        "total": 550372,
+        "completed": 308503
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 1,
+        "total": 83078,
+        "completed": 68045
+      },
+      {
+        "code": "ADMM",
+        "year": 2017,
+        "month": 1,
+        "total": 186323,
+        "completed": 146508
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 1,
+        "total": 1064723,
+        "completed": 846932
+      },
+      {
+        "code": "CDC",
+        "year": 2017,
+        "month": 1,
+        "total": 2549882,
+        "completed": 1523889
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 1,
+        "total": 6483,
+        "completed": 5709
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 1,
+        "total": 554106,
+        "completed": 373073
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 1,
+        "total": 493771,
+        "completed": 287509
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 1,
+        "total": 690671,
+        "completed": 662370
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 1,
+        "total": 39352,
+        "completed": 30154
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 2,
+        "total": 162808,
+        "completed": 122114
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 2,
+        "total": 405299,
+        "completed": 304005
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 2,
+        "total": 1099476,
+        "completed": 867834
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 2,
+        "total": 509634,
+        "completed": 397430
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 2,
+        "total": 44315,
+        "completed": 31054
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 2,
+        "total": 535219,
+        "completed": 311854
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 2,
+        "total": 535764,
+        "completed": 300381
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 2,
+        "total": 503755,
+        "completed": 378049
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 2,
+        "total": 2597452,
+        "completed": 1552484
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 2,
+        "total": 7309,
+        "completed": 5182
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 2,
+        "total": 188298,
+        "completed": 131060
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 2,
+        "total": 1006990,
+        "completed": 593095
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 2,
+        "total": 54620,
+        "completed": 51411
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 2,
+        "total": 762571,
+        "completed": 671012
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 2,
+        "total": 1016025,
+        "completed": 598354
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 2,
+        "total": 524880,
+        "completed": 476219
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 2,
+        "total": 520996,
+        "completed": 303500
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 2,
+        "total": 42613,
+        "completed": 30154
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 2,
+        "total": 737944,
+        "completed": 659281
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 2,
+        "total": 1087562,
+        "completed": 860668
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 2,
+        "total": 83224,
+        "completed": 72065
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 2,
+        "total": 187620,
+        "completed": 135004
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 2,
+        "total": 500410,
+        "completed": 375365
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 2,
+        "total": 2581113,
+        "completed": 1542662
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 2,
+        "total": 7030,
+        "completed": 5822
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 2,
+        "total": 540777,
+        "completed": 303170
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 2,
+        "total": 2564788,
+        "completed": 1532849
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 2,
+        "total": 540117,
+        "completed": 445007
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 2,
+        "total": 1025038,
+        "completed": 603600
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 2,
+        "total": 6745,
+        "completed": 5859
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 2,
+        "total": 545767,
+        "completed": 305942
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 2,
+        "total": 506786,
+        "completed": 295152
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 2,
+        "total": 1075636,
+        "completed": 853496
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 2,
+        "total": 186940,
+        "completed": 136461
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 2,
+        "total": 85852,
+        "completed": 70025
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 2,
+        "total": 40910,
+        "completed": 28927
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 2,
+        "total": 713284,
+        "completed": 664202
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 2,
+        "total": 83012,
+        "completed": 77805
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 2,
+        "total": 688621,
+        "completed": 669283
+      },
+      {
+        "code": "CDC",
+        "year": 2017,
+        "month": 2,
+        "total": 2548464,
+        "completed": 1523037
+      },
+      {
+        "code": "ADMM",
+        "year": 2017,
+        "month": 2,
+        "total": 186260,
+        "completed": 146677
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 2,
+        "total": 39210,
+        "completed": 30151
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 2,
+        "total": 1063706,
+        "completed": 846318
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 2,
+        "total": 6458,
+        "completed": 5697
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 2,
+        "total": 492582,
+        "completed": 286811
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 2,
+        "total": 550776,
+        "completed": 308727
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 2,
+        "total": 555360,
+        "completed": 323794
+      },
+      {
+        "code": "CRCS",
+        "year": 2017,
+        "month": 2,
+        "total": 1034066,
+        "completed": 608855
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 3,
+        "total": 183097,
+        "completed": 137468
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 3,
+        "total": 998712,
+        "completed": 588279
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 3,
+        "total": 56190,
+        "completed": 4814
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 3,
+        "total": 45873,
+        "completed": 28922
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 3,
+        "total": 548227,
+        "completed": 319495
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 3,
+        "total": 785164,
+        "completed": 674010
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 3,
+        "total": 2612372,
+        "completed": 1561457
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 3,
+        "total": 495653,
+        "completed": 389369
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 3,
+        "total": 1110390,
+        "completed": 874400
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 3,
+        "total": 7567,
+        "completed": 5331
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 3,
+        "total": 531175,
+        "completed": 297833
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 3,
+        "total": 188917,
+        "completed": 119522
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 3,
+        "total": 425430,
+        "completed": 319093
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 3,
+        "total": 7295,
+        "completed": 5176
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 3,
+        "total": 44176,
+        "completed": 27132
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 3,
+        "total": 503457,
+        "completed": 377763
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 3,
+        "total": 536257,
+        "completed": 300657
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 3,
+        "total": 760581,
+        "completed": 672018
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 3,
+        "total": 2596390,
+        "completed": 1551844
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 3,
+        "total": 1098591,
+        "completed": 867304
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 3,
+        "total": 1007888,
+        "completed": 593622
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 3,
+        "total": 55636,
+        "completed": 53499
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 3,
+        "total": 188266,
+        "completed": 124537
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 3,
+        "total": 511002,
+        "completed": 398220
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 3,
+        "total": 534105,
+        "completed": 311199
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 3,
+        "total": 1017032,
+        "completed": 598943
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 3,
+        "total": 526347,
+        "completed": 407068
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 3,
+        "total": 85070,
+        "completed": 71840
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 3,
+        "total": 500139,
+        "completed": 375135
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 3,
+        "total": 2580354,
+        "completed": 1542201
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 3,
+        "total": 7001,
+        "completed": 5006
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 3,
+        "total": 187611,
+        "completed": 127592
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 3,
+        "total": 519989,
+        "completed": 302906
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 3,
+        "total": 1086761,
+        "completed": 860188
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 3,
+        "total": 42478,
+        "completed": 25643
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 3,
+        "total": 541308,
+        "completed": 303464
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 3,
+        "total": 736005,
+        "completed": 673200
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 3,
+        "total": 1074751,
+        "completed": 652962
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 3,
+        "total": 6719,
+        "completed": 5844
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 3,
+        "total": 85458,
+        "completed": 79815
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 3,
+        "total": 711282,
+        "completed": 671010
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 3,
+        "total": 186909,
+        "completed": 132961
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 3,
+        "total": 505684,
+        "completed": 294505
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 3,
+        "total": 40771,
+        "completed": 24847
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 3,
+        "total": 541501,
+        "completed": 415803
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 3,
+        "total": 2563740,
+        "completed": 1532216
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 3,
+        "total": 1025935,
+        "completed": 604123
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 3,
+        "total": 546256,
+        "completed": 306215
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 3,
+        "total": 556627,
+        "completed": 424526
+      },
+      {
+        "code": "BCS",
+        "year": 2017,
+        "month": 3,
+        "total": 551188,
+        "completed": 308956
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 3,
+        "total": 39067,
+        "completed": 30152
+      },
+      {
+        "code": "CRCS",
+        "year": 2017,
+        "month": 3,
+        "total": 1034809,
+        "completed": 609287
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 3,
+        "total": 82296,
+        "completed": 77610
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 3,
+        "total": 491390,
+        "completed": 286109
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 3,
+        "total": 1062713,
+        "completed": 845722
+      },
+      {
+        "code": "ADMM",
+        "year": 2017,
+        "month": 3,
+        "total": 186205,
+        "completed": 141113
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 3,
+        "total": 686575,
+        "completed": 668011
+      },
+      {
+        "code": "CDC",
+        "year": 2017,
+        "month": 3,
+        "total": 2547095,
+        "completed": 1522215
+      },
+      {
+        "code": "PPC",
+        "year": 2017,
+        "month": 3,
+        "total": 6440,
+        "completed": 5686
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 4,
+        "total": 203368,
+        "completed": 152680
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 4,
+        "total": 1109415,
+        "completed": 873815
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 4,
+        "total": 783119,
+        "completed": 664020
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 4,
+        "total": 7552,
+        "completed": 5322
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 4,
+        "total": 2611055,
+        "completed": 1560663
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 4,
+        "total": 547049,
+        "completed": 318801
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 4,
+        "total": 999481,
+        "completed": 588727
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 4,
+        "total": 188864,
+        "completed": 119753
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 4,
+        "total": 445553,
+        "completed": 334153
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 4,
+        "total": 496940,
+        "completed": 380113
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 4,
+        "total": 531597,
+        "completed": 298067
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 4,
+        "total": 45730,
+        "completed": 32410
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 4,
+        "total": 56010,
+        "completed": 50732
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 4,
+        "total": 2594727,
+        "completed": 1550849
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 4,
+        "total": 7269,
+        "completed": 5159
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 4,
+        "total": 188185,
+        "completed": 125511
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 4,
+        "total": 503160,
+        "completed": 377419
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 4,
+        "total": 536606,
+        "completed": 300851
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 4,
+        "total": 58490,
+        "completed": 53955
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 4,
+        "total": 1008505,
+        "completed": 593977
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 4,
+        "total": 44030,
+        "completed": 28129
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 4,
+        "total": 532846,
+        "completed": 310460
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 4,
+        "total": 1097485,
+        "completed": 866638
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 4,
+        "total": 758470,
+        "completed": 672310
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 4,
+        "total": 512184,
+        "completed": 428901
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 4,
+        "total": 541596,
+        "completed": 303623
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 4,
+        "total": 1017520,
+        "completed": 599227
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 4,
+        "total": 733826,
+        "completed": 671100
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 4,
+        "total": 1085559,
+        "completed": 859464
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 4,
+        "total": 2578404,
+        "completed": 1541035
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 4,
+        "total": 86744,
+        "completed": 72705
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 4,
+        "total": 6976,
+        "completed": 5993
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 4,
+        "total": 527420,
+        "completed": 357683
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 4,
+        "total": 42327,
+        "completed": 31250
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 4,
+        "total": 187509,
+        "completed": 128905
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 4,
+        "total": 518634,
+        "completed": 302112
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 4,
+        "total": 499862,
+        "completed": 374872
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 4,
+        "total": 84814,
+        "completed": 79710
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 4,
+        "total": 709165,
+        "completed": 672171
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 4,
+        "total": 1026557,
+        "completed": 604485
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 4,
+        "total": 546609,
+        "completed": 306411
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 4,
+        "total": 504414,
+        "completed": 293759
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 4,
+        "total": 1073645,
+        "completed": 852297
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 4,
+        "total": 186826,
+        "completed": 132460
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 4,
+        "total": 6696,
+        "completed": 5833
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 4,
+        "total": 542665,
+        "completed": 356475
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 4,
+        "total": 40625,
+        "completed": 30150
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 4,
+        "total": 2562067,
+        "completed": 1531213
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 5,
+        "total": 223630,
+        "completed": 167852
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 5,
+        "total": 532017,
+        "completed": 298299
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 5,
+        "total": 545876,
+        "completed": 318113
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 5,
+        "total": 465669,
+        "completed": 349341
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 5,
+        "total": 2609693,
+        "completed": 1559841
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 5,
+        "total": 7528,
+        "completed": 5309
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 5,
+        "total": 781080,
+        "completed": 672290
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 5,
+        "total": 188807,
+        "completed": 119184
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 5,
+        "total": 1108419,
+        "completed": 873215
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 5,
+        "total": 55845,
+        "completed": 53054
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 5,
+        "total": 1000235,
+        "completed": 589165
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 5,
+        "total": 45590,
+        "completed": 28212
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 5,
+        "total": 498213,
+        "completed": 390846
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 5,
+        "total": 756412,
+        "completed": 673001
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 5,
+        "total": 61568,
+        "completed": 60100
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 5,
+        "total": 513453,
+        "completed": 399632
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 5,
+        "total": 188131,
+        "completed": 125072
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 5,
+        "total": 531662,
+        "completed": 309762
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 5,
+        "total": 537037,
+        "completed": 301091
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 5,
+        "total": 502878,
+        "completed": 377132
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 5,
+        "total": 2593401,
+        "completed": 1550049
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 5,
+        "total": 1096506,
+        "completed": 866050
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 5,
+        "total": 1009276,
+        "completed": 594426
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 5,
+        "total": 7237,
+        "completed": 5142
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 5,
+        "total": 43888,
+        "completed": 29064
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 5,
+        "total": 2577056,
+        "completed": 1540222
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 5,
+        "total": 42188,
+        "completed": 24471
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 5,
+        "total": 1018279,
+        "completed": 599667
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 5,
+        "total": 542024,
+        "completed": 303863
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 5,
+        "total": 88408,
+        "completed": 74615
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 5,
+        "total": 187452,
+        "completed": 127594
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 5,
+        "total": 528704,
+        "completed": 408425
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 5,
+        "total": 731783,
+        "completed": 671981
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 5,
+        "total": 1084573,
+        "completed": 858871
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 5,
+        "total": 6959,
+        "completed": 5984
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 5,
+        "total": 517458,
+        "completed": 301419
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 5,
+        "total": 499577,
+        "completed": 374732
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 5,
+        "total": 547027,
+        "completed": 306644
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 5,
+        "total": 543952,
+        "completed": 437216
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 5,
+        "total": 503243,
+        "completed": 293073
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 5,
+        "total": 84098,
+        "completed": 79500
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 5,
+        "total": 6670,
+        "completed": 5817
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 5,
+        "total": 1072648,
+        "completed": 851698
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 5,
+        "total": 1027318,
+        "completed": 604928
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 5,
+        "total": 40485,
+        "completed": 23481
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 5,
+        "total": 2560762,
+        "completed": 1530430
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 5,
+        "total": 707104,
+        "completed": 672018
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 5,
+        "total": 186775,
+        "completed": 132426
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 6,
+        "total": 243874,
+        "completed": 182976
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 6,
+        "total": 7501,
+        "completed": 5294
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 6,
+        "total": 779039,
+        "completed": 669142
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 6,
+        "total": 1107430,
+        "completed": 872619
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 6,
+        "total": 1001001,
+        "completed": 589612
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 6,
+        "total": 55740,
+        "completed": 47414
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 6,
+        "total": 188754,
+        "completed": 121461
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 6,
+        "total": 499491,
+        "completed": 381582
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 6,
+        "total": 544705,
+        "completed": 317424
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 6,
+        "total": 2608370,
+        "completed": 1559047
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 6,
+        "total": 485776,
+        "completed": 364431
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 6,
+        "total": 532444,
+        "completed": 298538
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 6,
+        "total": 45447,
+        "completed": 31373
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 6,
+        "total": 1010029,
+        "completed": 594864
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 6,
+        "total": 2592064,
+        "completed": 1549244
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 6,
+        "total": 43747,
+        "completed": 32381
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 6,
+        "total": 754375,
+        "completed": 671203
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 6,
+        "total": 514749,
+        "completed": 380379
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 6,
+        "total": 64502,
+        "completed": 53505
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 6,
+        "total": 537438,
+        "completed": 301314
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 6,
+        "total": 502596,
+        "completed": 376955
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 6,
+        "total": 1095506,
+        "completed": 865448
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 6,
+        "total": 7214,
+        "completed": 5127
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 6,
+        "total": 530490,
+        "completed": 309077
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 6,
+        "total": 188078,
+        "completed": 123828
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 6,
+        "total": 499283,
+        "completed": 374430
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 6,
+        "total": 88208,
+        "completed": 78465
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 6,
+        "total": 542455,
+        "completed": 304102
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 6,
+        "total": 2575743,
+        "completed": 1539434
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 6,
+        "total": 6935,
+        "completed": 5971
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 6,
+        "total": 516280,
+        "completed": 300729
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 6,
+        "total": 187400,
+        "completed": 129477
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 6,
+        "total": 42045,
+        "completed": 30391
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 6,
+        "total": 1019061,
+        "completed": 600120
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 6,
+        "total": 1083600,
+        "completed": 858285
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 6,
+        "total": 529988,
+        "completed": 399166
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 6,
+        "total": 729729,
+        "completed": 673210
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 6,
+        "total": 705069,
+        "completed": 675919
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 6,
+        "total": 186722,
+        "completed": 131534
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 6,
+        "total": 2559433,
+        "completed": 1529631
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 6,
+        "total": 502071,
+        "completed": 292383
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 6,
+        "total": 1028094,
+        "completed": 605379
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 6,
+        "total": 545229,
+        "completed": 397952
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 6,
+        "total": 1071671,
+        "completed": 851111
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 6,
+        "total": 40345,
+        "completed": 30319
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 6,
+        "total": 6644,
+        "completed": 5802
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 6,
+        "total": 83674,
+        "completed": 79275
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 6,
+        "total": 547452,
+        "completed": 306881
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 7,
+        "total": 20391,
+        "completed": 15197
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 7,
+        "total": 264104,
+        "completed": 198140
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 7,
+        "total": 188702,
+        "completed": 120483
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 7,
+        "total": 1001773,
+        "completed": 590061
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 7,
+        "total": 2607050,
+        "completed": 1558252
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 7,
+        "total": 55500,
+        "completed": 51706
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 7,
+        "total": 505887,
+        "completed": 379508
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 7,
+        "total": 532871,
+        "completed": 298775
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 7,
+        "total": 45306,
+        "completed": 32120
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 7,
+        "total": 776973,
+        "completed": 672478
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 7,
+        "total": 500768,
+        "completed": 382318
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 7,
+        "total": 543515,
+        "completed": 316727
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 7,
+        "total": 1106463,
+        "completed": 872039
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 7,
+        "total": 7478,
+        "completed": 5280
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 7,
+        "total": 752302,
+        "completed": 674170
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 7,
+        "total": 188012,
+        "completed": 125692
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 7,
+        "total": 2590597,
+        "completed": 1548363
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 7,
+        "total": 43604,
+        "completed": 29400
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 7,
+        "total": 529282,
+        "completed": 308365
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 7,
+        "total": 515985,
+        "completed": 391094
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 7,
+        "total": 7190,
+        "completed": 5116
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 7,
+        "total": 1010742,
+        "completed": 595283
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 7,
+        "total": 1094493,
+        "completed": 864838
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 7,
+        "total": 537844,
+        "completed": 301538
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 7,
+        "total": 67128,
+        "completed": 63340
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 7,
+        "total": 502310,
+        "completed": 376756
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 7,
+        "total": 2574388,
+        "completed": 1538618
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 7,
+        "total": 6910,
+        "completed": 5954
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 7,
+        "total": 88104,
+        "completed": 77270
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 7,
+        "total": 727675,
+        "completed": 673160
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 7,
+        "total": 542869,
+        "completed": 304333
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 7,
+        "total": 531252,
+        "completed": 399895
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 7,
+        "total": 515095,
+        "completed": 300033
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 7,
+        "total": 41903,
+        "completed": 28307
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 7,
+        "total": 187342,
+        "completed": 128836
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 7,
+        "total": 498982,
+        "completed": 374144
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 7,
+        "total": 1082613,
+        "completed": 857691
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 7,
+        "total": 1019812,
+        "completed": 600558
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 7,
+        "total": 6626,
+        "completed": 5790
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 7,
+        "total": 40207,
+        "completed": 28319
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 7,
+        "total": 500908,
+        "completed": 291698
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 7,
+        "total": 84030,
+        "completed": 79200
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 7,
+        "total": 2558173,
+        "completed": 1528872
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 7,
+        "total": 1028885,
+        "completed": 605839
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 7,
+        "total": 547888,
+        "completed": 307123
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 7,
+        "total": 546540,
+        "completed": 388708
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 7,
+        "total": 1070718,
+        "completed": 850537
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 7,
+        "total": 186673,
+        "completed": 130907
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 7,
+        "total": 703041,
+        "completed": 674170
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 8,
+        "total": 40771,
+        "completed": 30434
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 8,
+        "total": 284319,
+        "completed": 213341
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 8,
+        "total": 55275,
+        "completed": 45996
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 8,
+        "total": 1105434,
+        "completed": 871419
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 8,
+        "total": 542310,
+        "completed": 316018
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 8,
+        "total": 774911,
+        "completed": 671298
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 8,
+        "total": 502014,
+        "completed": 373036
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 8,
+        "total": 7447,
+        "completed": 5265
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 8,
+        "total": 188638,
+        "completed": 120326
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 8,
+        "total": 505596,
+        "completed": 379447
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 8,
+        "total": 45164,
+        "completed": 32451
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 8,
+        "total": 1002478,
+        "completed": 590470
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 8,
+        "total": 2605584,
+        "completed": 1557374
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 8,
+        "total": 533256,
+        "completed": 298989
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 8,
+        "total": 7170,
+        "completed": 5105
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 8,
+        "total": 43460,
+        "completed": 32450
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 8,
+        "total": 2589288,
+        "completed": 1547575
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 8,
+        "total": 70086,
+        "completed": 63205
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 8,
+        "total": 750258,
+        "completed": 674014
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 8,
+        "total": 187959,
+        "completed": 125548
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 8,
+        "total": 528114,
+        "completed": 307679
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 8,
+        "total": 517247,
+        "completed": 351820
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 8,
+        "total": 1093515,
+        "completed": 864251
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 8,
+        "total": 502022,
+        "completed": 376498
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 8,
+        "total": 1011513,
+        "completed": 595729
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 8,
+        "total": 538278,
+        "completed": 301781
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 8,
+        "total": 41760,
+        "completed": 32134
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 8,
+        "total": 725597,
+        "completed": 673170
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 8,
+        "total": 513897,
+        "completed": 299329
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 8,
+        "total": 87366,
+        "completed": 71090
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 8,
+        "total": 543269,
+        "completed": 304555
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 8,
+        "total": 532511,
+        "completed": 350621
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 8,
+        "total": 2572986,
+        "completed": 1537777
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 8,
+        "total": 1020541,
+        "completed": 600982
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 8,
+        "total": 1081588,
+        "completed": 857075
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 8,
+        "total": 6886,
+        "completed": 5940
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 8,
+        "total": 187281,
+        "completed": 129321
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 8,
+        "total": 700953,
+        "completed": 676161
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 8,
+        "total": 2556645,
+        "completed": 1527955
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 8,
+        "total": 6600,
+        "completed": 5778
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 8,
+        "total": 547744,
+        "completed": 339402
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 8,
+        "total": 1069673,
+        "completed": 849908
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 8,
+        "total": 499694,
+        "completed": 290988
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 8,
+        "total": 40061,
+        "completed": 29152
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 8,
+        "total": 548280,
+        "completed": 307341
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 8,
+        "total": 186601,
+        "completed": 131775
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 8,
+        "total": 1029563,
+        "completed": 606233
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 8,
+        "total": 84210,
+        "completed": 78990
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 9,
+        "total": 61142,
+        "completed": 45726
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 9,
+        "total": 304511,
+        "completed": 228533
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 9,
+        "total": 45025,
+        "completed": 33450
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 9,
+        "total": 188590,
+        "completed": 121411
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 9,
+        "total": 7427,
+        "completed": 5251
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 9,
+        "total": 541166,
+        "completed": 315345
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 9,
+        "total": 503332,
+        "completed": 363797
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 9,
+        "total": 55140,
+        "completed": 50276
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 9,
+        "total": 1104467,
+        "completed": 870838
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 9,
+        "total": 1003280,
+        "completed": 590937
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 9,
+        "total": 505292,
+        "completed": 379471
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 9,
+        "total": 533697,
+        "completed": 299236
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 9,
+        "total": 772880,
+        "completed": 671310
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 9,
+        "total": 2604350,
+        "completed": 1556629
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 9,
+        "total": 7141,
+        "completed": 5088
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 9,
+        "total": 43322,
+        "completed": 32439
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 9,
+        "total": 1092548,
+        "completed": 863667
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 9,
+        "total": 2588041,
+        "completed": 1546825
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 9,
+        "total": 518564,
+        "completed": 382579
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 9,
+        "total": 526946,
+        "completed": 306994
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 9,
+        "total": 1012314,
+        "completed": 596194
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 9,
+        "total": 748224,
+        "completed": 680125
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 9,
+        "total": 187914,
+        "completed": 127478
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 9,
+        "total": 501737,
+        "completed": 376292
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 9,
+        "total": 72698,
+        "completed": 68965
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 9,
+        "total": 538707,
+        "completed": 302020
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 9,
+        "total": 6863,
+        "completed": 5925
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 9,
+        "total": 2571717,
+        "completed": 1537013
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 9,
+        "total": 543727,
+        "completed": 304809
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 9,
+        "total": 41620,
+        "completed": 34510
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 9,
+        "total": 512745,
+        "completed": 298653
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 9,
+        "total": 723575,
+        "completed": 681091
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 9,
+        "total": 1021339,
+        "completed": 601449
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 9,
+        "total": 1080652,
+        "completed": 856512
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 9,
+        "total": 87086,
+        "completed": 72970
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 9,
+        "total": 187232,
+        "completed": 131645
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 9,
+        "total": 533822,
+        "completed": 381376
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 9,
+        "total": 186556,
+        "completed": 133701
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 9,
+        "total": 698919,
+        "completed": 672911
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 9,
+        "total": 498525,
+        "completed": 290299
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 9,
+        "total": 549049,
+        "completed": 390155
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 9,
+        "total": 1068733,
+        "completed": 849343
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 9,
+        "total": 2555408,
+        "completed": 1527209
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 9,
+        "total": 6580,
+        "completed": 5766
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 9,
+        "total": 39920,
+        "completed": 32450
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 9,
+        "total": 1030373,
+        "completed": 606703
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 9,
+        "total": 548737,
+        "completed": 307594
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 9,
+        "total": 84582,
+        "completed": 78870
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 10,
+        "total": 81497,
+        "completed": 60994
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 10,
+        "total": 324689,
+        "completed": 243735
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 10,
+        "total": 1003981,
+        "completed": 591343
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 10,
+        "total": 1103448,
+        "completed": 870225
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 10,
+        "total": 2602871,
+        "completed": 1555744
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 10,
+        "total": 504556,
+        "completed": 374504
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 10,
+        "total": 188526,
+        "completed": 123021
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 10,
+        "total": 534093,
+        "completed": 299455
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 10,
+        "total": 7400,
+        "completed": 5234
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 10,
+        "total": 770781,
+        "completed": 674278
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 10,
+        "total": 504988,
+        "completed": 379271
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 10,
+        "total": 539938,
+        "completed": 314626
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 10,
+        "total": 54960,
+        "completed": 52576
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 10,
+        "total": 44881,
+        "completed": 30254
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 10,
+        "total": 43178,
+        "completed": 34451
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 10,
+        "total": 1013003,
+        "completed": 596597
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 10,
+        "total": 187844,
+        "completed": 128227
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 10,
+        "total": 539104,
+        "completed": 302239
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 10,
+        "total": 519787,
+        "completed": 363284
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 10,
+        "total": 525734,
+        "completed": 306281
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 10,
+        "total": 501465,
+        "completed": 376038
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 10,
+        "total": 7120,
+        "completed": 5076
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 10,
+        "total": 746145,
+        "completed": 673350
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 10,
+        "total": 75192,
+        "completed": 72800
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 10,
+        "total": 1091533,
+        "completed": 863058
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 10,
+        "total": 2586530,
+        "completed": 1545920
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 10,
+        "total": 511519,
+        "completed": 297933
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 10,
+        "total": 535052,
+        "completed": 382087
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 10,
+        "total": 544095,
+        "completed": 305014
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 10,
+        "total": 87090,
+        "completed": 77805
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 10,
+        "total": 41476,
+        "completed": 35410
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 10,
+        "total": 721494,
+        "completed": 673110
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 10,
+        "total": 1079606,
+        "completed": 855882
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 10,
+        "total": 2570231,
+        "completed": 1536122
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 10,
+        "total": 1022034,
+        "completed": 601852
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 10,
+        "total": 6845,
+        "completed": 5918
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 10,
+        "total": 187167,
+        "completed": 130174
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 10,
+        "total": 84318,
+        "completed": 80690
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 10,
+        "total": 2553932,
+        "completed": 1526323
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 10,
+        "total": 1067687,
+        "completed": 848712
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 10,
+        "total": 1031066,
+        "completed": 607105
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 10,
+        "total": 550286,
+        "completed": 371869
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 10,
+        "total": 497324,
+        "completed": 289594
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 10,
+        "total": 6557,
+        "completed": 5753
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 10,
+        "total": 186490,
+        "completed": 133151
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 10,
+        "total": 549117,
+        "completed": 307807
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 10,
+        "total": 39774,
+        "completed": 31254
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 10,
+        "total": 696833,
+        "completed": 673471
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 11,
+        "total": 101847,
+        "completed": 76307
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 11,
+        "total": 344856,
+        "completed": 258820
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 11,
+        "total": 44740,
+        "completed": 30551
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 11,
+        "total": 504684,
+        "completed": 378930
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 11,
+        "total": 7379,
+        "completed": 5222
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 11,
+        "total": 1004830,
+        "completed": 591840
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 11,
+        "total": 505881,
+        "completed": 365269
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 11,
+        "total": 2601714,
+        "completed": 1555046
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 11,
+        "total": 538810,
+        "completed": 313963
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 11,
+        "total": 54795,
+        "completed": 48952
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 11,
+        "total": 768785,
+        "completed": 672310
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 11,
+        "total": 1102519,
+        "completed": 869665
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 11,
+        "total": 188485,
+        "completed": 122211
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 11,
+        "total": 534556,
+        "completed": 299710
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 11,
+        "total": 77298,
+        "completed": 52650
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 11,
+        "total": 187798,
+        "completed": 127283
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 11,
+        "total": 1013814,
+        "completed": 597069
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 11,
+        "total": 7098,
+        "completed": 5062
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 11,
+        "total": 521097,
+        "completed": 364039
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 11,
+        "total": 1090567,
+        "completed": 862477
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 11,
+        "total": 744105,
+        "completed": 680128
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 11,
+        "total": 43037,
+        "completed": 34454
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 11,
+        "total": 2585306,
+        "completed": 1545180
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 11,
+        "total": 524582,
+        "completed": 305607
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 11,
+        "total": 501205,
+        "completed": 375727
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 11,
+        "total": 539543,
+        "completed": 302484
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 11,
+        "total": 41336,
+        "completed": 33151
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 11,
+        "total": 719423,
+        "completed": 678371
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 11,
+        "total": 86272,
+        "completed": 50550
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 11,
+        "total": 6815,
+        "completed": 5900
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 11,
+        "total": 2568872,
+        "completed": 1535305
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 11,
+        "total": 544519,
+        "completed": 305250
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 11,
+        "total": 187112,
+        "completed": 131034
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 11,
+        "total": 510333,
+        "completed": 297236
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 11,
+        "total": 1078610,
+        "completed": 855285
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 11,
+        "total": 1022781,
+        "completed": 602286
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 11,
+        "total": 536299,
+        "completed": 385805
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 11,
+        "total": 551579,
+        "completed": 371613
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 11,
+        "total": 694821,
+        "completed": 673271
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 11,
+        "total": 6535,
+        "completed": 5740
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 11,
+        "total": 186439,
+        "completed": 133997
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 11,
+        "total": 83942,
+        "completed": 48510
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 11,
+        "total": 1031850,
+        "completed": 607566
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 11,
+        "total": 1066717,
+        "completed": 848130
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 11,
+        "total": 2552641,
+        "completed": 1525549
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 11,
+        "total": 496161,
+        "completed": 288911
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 11,
+        "total": 39634,
+        "completed": 31454
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 11,
+        "total": 549541,
+        "completed": 308041
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 12,
+        "total": 122182,
+        "completed": 91629
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 12,
+        "total": 365011,
+        "completed": 273997
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 12,
+        "total": 766705,
+        "completed": 683190
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 12,
+        "total": 44594,
+        "completed": 35451
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 12,
+        "total": 507118,
+        "completed": 345981
+      },
+      {
+        "code": "PPC",
+        "year": 2013,
+        "month": 12,
+        "total": 7354,
+        "completed": 5208
+      },
+      {
+        "code": "CRCS",
+        "year": 2013,
+        "month": 12,
+        "total": 1005503,
+        "completed": 592231
+      },
+      {
+        "code": "BCS",
+        "year": 2013,
+        "month": 12,
+        "total": 534943,
+        "completed": 299928
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 12,
+        "total": 537601,
+        "completed": 313252
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 12,
+        "total": 1101475,
+        "completed": 869037
+      },
+      {
+        "code": "ADMM",
+        "year": 2013,
+        "month": 12,
+        "total": 188416,
+        "completed": 126318
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 12,
+        "total": 54645,
+        "completed": 43240
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 12,
+        "total": 504367,
+        "completed": 378635
+      },
+      {
+        "code": "CDC",
+        "year": 2013,
+        "month": 12,
+        "total": 2600202,
+        "completed": 1554136
+      },
+      {
+        "code": "CDC",
+        "year": 2014,
+        "month": 12,
+        "total": 2583894,
+        "completed": 1544334
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 12,
+        "total": 500941,
+        "completed": 375533
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 12,
+        "total": 742045,
+        "completed": 675172
+      },
+      {
+        "code": "BCS",
+        "year": 2014,
+        "month": 12,
+        "total": 539940,
+        "completed": 302705
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 12,
+        "total": 79300,
+        "completed": 52515
+      },
+      {
+        "code": "ADMM",
+        "year": 2014,
+        "month": 12,
+        "total": 187739,
+        "completed": 129918
+      },
+      {
+        "code": "PPC",
+        "year": 2014,
+        "month": 12,
+        "total": 7077,
+        "completed": 5052
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 12,
+        "total": 523391,
+        "completed": 304904
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 12,
+        "total": 522360,
+        "completed": 384767
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 12,
+        "total": 1089546,
+        "completed": 861862
+      },
+      {
+        "code": "CRCS",
+        "year": 2014,
+        "month": 12,
+        "total": 1014538,
+        "completed": 597490
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 12,
+        "total": 42895,
+        "completed": 37421
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 12,
+        "total": 41195,
+        "completed": 38451
+      },
+      {
+        "code": "CRCS",
+        "year": 2015,
+        "month": 12,
+        "total": 1023571,
+        "completed": 602747
+      },
+      {
+        "code": "ADMM",
+        "year": 2015,
+        "month": 12,
+        "total": 187059,
+        "completed": 133244
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 12,
+        "total": 85900,
+        "completed": 50340
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 12,
+        "total": 509179,
+        "completed": 296558
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 12,
+        "total": 537598,
+        "completed": 383556
+      },
+      {
+        "code": "CDC",
+        "year": 2015,
+        "month": 12,
+        "total": 2567574,
+        "completed": 1534523
+      },
+      {
+        "code": "BCS",
+        "year": 2015,
+        "month": 12,
+        "total": 544957,
+        "completed": 305492
+      },
+      {
+        "code": "PPC",
+        "year": 2015,
+        "month": 12,
+        "total": 6788,
+        "completed": 5885
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 12,
+        "total": 717381,
+        "completed": 672170
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 12,
+        "total": 1077640,
+        "completed": 854701
+      },
+      {
+        "code": "CDC",
+        "year": 2016,
+        "month": 12,
+        "total": 2551267,
+        "completed": 1524721
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 12,
+        "total": 39491,
+        "completed": 32157
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 12,
+        "total": 83494,
+        "completed": 48300
+      },
+      {
+        "code": "CRCS",
+        "year": 2016,
+        "month": 12,
+        "total": 1032598,
+        "completed": 608001
+      },
+      {
+        "code": "BCS",
+        "year": 2016,
+        "month": 12,
+        "total": 549951,
+        "completed": 308268
+      },
+      {
+        "code": "ADMM",
+        "year": 2016,
+        "month": 12,
+        "total": 186385,
+        "completed": 136815
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 12,
+        "total": 692731,
+        "completed": 671320
+      },
+      {
+        "code": "PPC",
+        "year": 2016,
+        "month": 12,
+        "total": 6512,
+        "completed": 5727
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 12,
+        "total": 1065716,
+        "completed": 847527
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 12,
+        "total": 494966,
+        "completed": 288209
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 12,
+        "total": 552853,
+        "completed": 412349
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 1,
+        "completed": 45107,
+        "total": 80200
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 2,
+        "completed": 50125,
+        "total": 76914
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 3,
+        "completed": 60739,
+        "total": 87338
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 4,
+        "completed": 43756,
+        "total": 75632
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 5,
+        "completed": 43704,
+        "total": 90332
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 6,
+        "completed": 48552,
+        "total": 87059
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 7,
+        "completed": 55248,
+        "total": 85597
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 8,
+        "completed": 48017,
+        "total": 94361
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 9,
+        "completed": 56610,
+        "total": 82875
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 10,
+        "completed": 57346,
+        "total": 92672
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 11,
+        "completed": 53474,
+        "total": 85275
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2015,
+        "month": 12,
+        "completed": 61338,
+        "total": 92931
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 1,
+        "completed": 49865,
+        "total": 82875
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 2,
+        "completed": 41820,
+        "total": 81698
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 3,
+        "completed": 54435,
+        "total": 93859
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 4,
+        "completed": 48220,
+        "total": 86349
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 5,
+        "completed": 55745,
+        "total": 77684
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 6,
+        "completed": 55868,
+        "total": 85473
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 7,
+        "completed": 47982,
+        "total": 75532
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 8,
+        "completed": 44313,
+        "total": 75995
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 9,
+        "completed": 37250,
+        "total": 77227
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 10,
+        "completed": 54580,
+        "total": 80933
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 11,
+        "completed": 42399,
+        "total": 79976
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2016,
+        "month": 12,
+        "completed": 53623,
+        "total": 92741
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 1,
+        "completed": 45728,
+        "total": 83153
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 2,
+        "completed": 56554,
+        "total": 82259
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 3,
+        "completed": 44688,
+        "total": 91134
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 4,
+        "completed": 50969,
+        "total": 77694
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 5,
+        "completed": 41347,
+        "total": 80990
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 6,
+        "completed": 55644,
+        "total": 84295
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 7,
+        "completed": 38007,
+        "total": 77327
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 8,
+        "completed": 46961,
+        "total": 80867
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 9,
+        "completed": 49197,
+        "total": 91884
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 10,
+        "completed": 54743,
+        "total": 83168
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 11,
+        "completed": 60414,
+        "total": 84067
+      },
+      {
+        "code": "MIPS-236",
+        "year": 2017,
+        "month": 12,
+        "completed": 42534,
+        "total": 77723
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 1,
+        "completed": 57680,
+        "total": 82488
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 2,
+        "completed": 56888,
+        "total": 84808
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 3,
+        "completed": 68481,
+        "total": 85052
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 4,
+        "completed": 70798,
+        "total": 88011
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 5,
+        "completed": 68361,
+        "total": 78617
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 6,
+        "completed": 62429,
+        "total": 88178
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 7,
+        "completed": 75692,
+        "total": 88795
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 8,
+        "completed": 75390,
+        "total": 89479
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 9,
+        "completed": 58861,
+        "total": 76549
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 10,
+        "completed": 52868,
+        "total": 87091
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 11,
+        "completed": 62049,
+        "total": 90427
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2015,
+        "month": 12,
+        "completed": 53161,
+        "total": 82266
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 1,
+        "completed": 67569,
+        "total": 77097
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 2,
+        "completed": 66503,
+        "total": 79086
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 3,
+        "completed": 58791,
+        "total": 81124
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 4,
+        "completed": 56787,
+        "total": 88501
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 5,
+        "completed": 74279,
+        "total": 83492
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 6,
+        "completed": 64387,
+        "total": 76151
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 7,
+        "completed": 53083,
+        "total": 78421
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 8,
+        "completed": 52615,
+        "total": 76702
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 9,
+        "completed": 55525,
+        "total": 75661
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 10,
+        "completed": 80707,
+        "total": 93438
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 11,
+        "completed": 63381,
+        "total": 80882
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2016,
+        "month": 12,
+        "completed": 52852,
+        "total": 82137
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 1,
+        "completed": 51482,
+        "total": 81688
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 2,
+        "completed": 60944,
+        "total": 87991
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 3,
+        "completed": 66299,
+        "total": 89890
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 4,
+        "completed": 66454,
+        "total": 92521
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 5,
+        "completed": 54675,
+        "total": 88156
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 6,
+        "completed": 77886,
+        "total": 93722
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 7,
+        "completed": 54270,
+        "total": 89212
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 8,
+        "completed": 73145,
+        "total": 90849
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 9,
+        "completed": 52476,
+        "total": 76972
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 10,
+        "completed": 68287,
+        "total": 88144
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 11,
+        "completed": 55930,
+        "total": 86488
+      },
+      {
+        "code": "MIPS-374",
+        "year": 2017,
+        "month": 12,
+        "completed": 58881,
+        "total": 77866
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 1,
+        "completed": 68689,
+        "total": 77944
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 2,
+        "completed": 66194,
+        "total": 80212
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 3,
+        "completed": 55140,
+        "total": 85214
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 4,
+        "completed": 77919,
+        "total": 91895
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 5,
+        "completed": 54328,
+        "total": 79403
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 6,
+        "completed": 64119,
+        "total": 85999
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 7,
+        "completed": 61941,
+        "total": 76031
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 8,
+        "completed": 71146,
+        "total": 82834
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 9,
+        "completed": 82076,
+        "total": 91239
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 10,
+        "completed": 77843,
+        "total": 88728
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 11,
+        "completed": 53593,
+        "total": 80001
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2015,
+        "month": 12,
+        "completed": 72312,
+        "total": 91921
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 1,
+        "completed": 73619,
+        "total": 90228
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 2,
+        "completed": 62027,
+        "total": 93911
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 3,
+        "completed": 50721,
+        "total": 79155
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 4,
+        "completed": 67160,
+        "total": 83570
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 5,
+        "completed": 68745,
+        "total": 88419
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 6,
+        "completed": 56005,
+        "total": 85963
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 7,
+        "completed": 58639,
+        "total": 91295
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 8,
+        "completed": 54262,
+        "total": 76326
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 9,
+        "completed": 61904,
+        "total": 75120
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 10,
+        "completed": 50010,
+        "total": 81368
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 11,
+        "completed": 69723,
+        "total": 80031
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2016,
+        "month": 12,
+        "completed": 56868,
+        "total": 82953
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 1,
+        "completed": 49311,
+        "total": 81335
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 2,
+        "completed": 67222,
+        "total": 84862
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 3,
+        "completed": 53298,
+        "total": 75223
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 4,
+        "completed": 62364,
+        "total": 90467
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 5,
+        "completed": 66478,
+        "total": 93036
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 6,
+        "completed": 58866,
+        "total": 94989
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 7,
+        "completed": 66154,
+        "total": 91310
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 8,
+        "completed": 57765,
+        "total": 77901
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 9,
+        "completed": 67321,
+        "total": 76252
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 10,
+        "completed": 72612,
+        "total": 89321
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 11,
+        "completed": 61940,
+        "total": 77222
+      },
+      {
+        "code": "MIPS-006",
+        "year": 2017,
+        "month": 12,
+        "completed": 61471,
+        "total": 85586
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 1,
+        "completed": 72940,
+        "total": 93938
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 2,
+        "completed": 54815,
+        "total": 83745
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 3,
+        "completed": 61808,
+        "total": 80607
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 4,
+        "completed": 49634,
+        "total": 76584
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 5,
+        "completed": 73652,
+        "total": 83053
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 6,
+        "completed": 57414,
+        "total": 88859
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 7,
+        "completed": 53084,
+        "total": 83338
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 8,
+        "completed": 80005,
+        "total": 90655
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 9,
+        "completed": 66508,
+        "total": 90595
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 10,
+        "completed": 59477,
+        "total": 86660
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 11,
+        "completed": 65743,
+        "total": 87173
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 12,
+        "completed": 64273,
+        "total": 79699
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 1,
+        "completed": 62269,
+        "total": 87245
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 2,
+        "completed": 68033,
+        "total": 79135
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 3,
+        "completed": 70576,
+        "total": 86650
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 4,
+        "completed": 51609,
+        "total": 78064
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 5,
+        "completed": 58340,
+        "total": 80598
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 6,
+        "completed": 65961,
+        "total": 85377
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 7,
+        "completed": 70640,
+        "total": 88990
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 8,
+        "completed": 74257,
+        "total": 92160
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 9,
+        "completed": 66191,
+        "total": 80410
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 10,
+        "completed": 67300,
+        "total": 79406
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 11,
+        "completed": 59459,
+        "total": 77414
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 12,
+        "completed": 63226,
+        "total": 75727
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 1,
+        "completed": 68120,
+        "total": 80049
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 2,
+        "completed": 66707,
+        "total": 87425
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 3,
+        "completed": 52370,
+        "total": 84715
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 4,
+        "completed": 60703,
+        "total": 81759
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 5,
+        "completed": 61354,
+        "total": 86201
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 6,
+        "completed": 64055,
+        "total": 75946
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 7,
+        "completed": 62175,
+        "total": 80573
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 8,
+        "completed": 56224,
+        "total": 78060
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 9,
+        "completed": 55150,
+        "total": 83191
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 10,
+        "completed": 60963,
+        "total": 82977
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 11,
+        "completed": 57553,
+        "total": 89819
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 12,
+        "completed": 57778,
+        "total": 88231
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 1,
+        "completed": 54252,
+        "total": 87673
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 2,
+        "completed": 59847,
+        "total": 93038
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 3,
+        "completed": 53887,
+        "total": 77298
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 4,
+        "completed": 62921,
+        "total": 94378
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 5,
+        "completed": 62698,
+        "total": 85849
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 6,
+        "completed": 60585,
+        "total": 88158
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 7,
+        "completed": 70752,
+        "total": 85664
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 8,
+        "completed": 59508,
+        "total": 75366
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 9,
+        "completed": 60164,
+        "total": 75199
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 10,
+        "completed": 62165,
+        "total": 88836
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 11,
+        "completed": 59512,
+        "total": 77407
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 12,
+        "completed": 69358,
+        "total": 77448
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 1,
+        "completed": 47031,
+        "total": 75134
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 2,
+        "completed": 55704,
+        "total": 91476
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 3,
+        "completed": 55161,
+        "total": 87246
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 4,
+        "completed": 68421,
+        "total": 94135
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 5,
+        "completed": 80041,
+        "total": 92332
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 6,
+        "completed": 56764,
+        "total": 75178
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 7,
+        "completed": 70034,
+        "total": 81884
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 8,
+        "completed": 63793,
+        "total": 86193
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 9,
+        "completed": 58967,
+        "total": 90224
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 10,
+        "completed": 72550,
+        "total": 89917
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 11,
+        "completed": 73129,
+        "total": 87739
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 12,
+        "completed": 65110,
+        "total": 94855
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 1,
+        "completed": 66811,
+        "total": 78454
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 2,
+        "completed": 60436,
+        "total": 92424
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 3,
+        "completed": 74685,
+        "total": 91296
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 4,
+        "completed": 73550,
+        "total": 88637
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 5,
+        "completed": 57129,
+        "total": 90017
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 6,
+        "completed": 59409,
+        "total": 92667
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 7,
+        "completed": 68466,
+        "total": 87703
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 8,
+        "completed": 51723,
+        "total": 80824
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 9,
+        "completed": 80797,
+        "total": 91875
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 10,
+        "completed": 54719,
+        "total": 84608
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 11,
+        "completed": 55329,
+        "total": 87815
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 12,
+        "completed": 72648,
+        "total": 84249
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 1,
+        "completed": 67464,
+        "total": 90736
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 2,
+        "completed": 47425,
+        "total": 75959
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 3,
+        "completed": 75980,
+        "total": 86300
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 4,
+        "completed": 80524,
+        "total": 90411
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 5,
+        "completed": 50729,
+        "total": 83448
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 6,
+        "completed": 63855,
+        "total": 84371
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 7,
+        "completed": 61306,
+        "total": 79538
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 8,
+        "completed": 65807,
+        "total": 91718
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 9,
+        "completed": 51396,
+        "total": 75717
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 10,
+        "completed": 55412,
+        "total": 85465
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 11,
+        "completed": 56474,
+        "total": 86112
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 12,
+        "completed": 62550,
+        "total": 82615
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 1,
+        "completed": 59259,
+        "total": 75066
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 2,
+        "completed": 51189,
+        "total": 82869
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 3,
+        "completed": 57023,
+        "total": 90935
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 4,
+        "completed": 76817,
+        "total": 94482
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 5,
+        "completed": 67536,
+        "total": 91574
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 6,
+        "completed": 74668,
+        "total": 85842
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 7,
+        "completed": 68307,
+        "total": 87248
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 8,
+        "completed": 56377,
+        "total": 78818
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 9,
+        "completed": 67942,
+        "total": 82419
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 10,
+        "completed": 58458,
+        "total": 88653
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 11,
+        "completed": 49642,
+        "total": 79789
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 12,
+        "completed": 70524,
+        "total": 89675
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 1,
+        "completed": 77951,
+        "total": 92561
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 2,
+        "completed": 51580,
+        "total": 78645
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 3,
+        "completed": 67788,
+        "total": 79842
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 4,
+        "completed": 67150,
+        "total": 82397
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 5,
+        "completed": 74817,
+        "total": 88800
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 6,
+        "completed": 78305,
+        "total": 89816
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 7,
+        "completed": 70014,
+        "total": 91084
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 8,
+        "completed": 74034,
+        "total": 93669
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 9,
+        "completed": 55726,
+        "total": 89550
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 10,
+        "completed": 70538,
+        "total": 79102
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 11,
+        "completed": 70332,
+        "total": 83443
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 12,
+        "completed": 67795,
+        "total": 88638
+      }
+      
+    ]
+  }
+}

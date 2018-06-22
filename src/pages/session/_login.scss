@@ -1,0 +1,83 @@
+//
+// Login Page
+// --------------------------------------------------
+
+.login-page {
+    margin-bottom: 0;
+
+    .navbar {
+        @include horizontalGradient($color-blue-darker, $color-blue-darkest);
+        border-bottom: 6px solid $gray-darker;
+    }
+
+    .app {
+        @include display-flex();
+        @include flex-direction(column);
+        height: 100vh;
+        min-height: 667px;
+        overflow: hidden;
+
+        #main {
+            @include display-flex();
+            @include flex(1);
+            background: transparent url('../images/bg-fea-insights-dashboard.jpg') no-repeat left top;
+            background-size: cover;
+            
+            .content {    
+                padding: 20px;
+
+                h1 {
+                    margin: 60px 0 30px 0;
+                    font-size: 36px;
+                    font-weight: 300;
+                    line-height: 1.5;
+                    color: #fff;
+                    
+                    > strong {
+                        white-space: nowrap;
+                    }
+                }
+            }
+        }
+
+        #footer {
+            position: static;
+        }
+    }
+}
+
+
+// Responsive
+
+@media (max-width: 599px) {
+    .login-page {
+        .app {
+            min-height: 600px;
+
+            #main {
+                position: relative;
+                width: 100%;
+                background-position: right top;
+
+                &:before {
+                    content: "";
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    background-color: rgba($color-blue-darkest, 0.5);
+                }
+
+                .content {
+                    h1 {
+                        margin-top: 45px;
+                        font-size: 32px;
+
+                        strong {
+                            white-space: normal;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

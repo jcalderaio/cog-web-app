@@ -1,0 +1,22 @@
+//
+// Sparkline Growth
+// --------------------------------------------------
+
+.sparkline-widget {
+  .growth-icon {
+    margin: 0 auto 1em;
+    text-align: center;
+    padding-top: 3em;
+
+    span {
+      font-size: 4em;
+      padding-right: 10px;
+    }
+
+    h4 {
+      display: inline-block;
+      font-weight: bold;
+      font-size: 4em;
+    }
+  }
+}

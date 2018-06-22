@@ -1,0 +1,327 @@
+//
+// Buttons
+// --------------------------------------------------
+
+.btn {
+    border: none;
+    padding: 8px 12px;
+    @include box-shadow(1px 1px 5px rgba(0,0,0,0.23));
+    font-weight: 500;
+    @include transition(background-color 0.2s ease-in-out);
+  
+    &:not([disabled]):not(.dead):active {
+      position: relative;
+      top: 1px;
+    }
+  
+    &.dead {
+      cursor: default;
+    }
+  
+    &.btn-default {
+      background-color: #ccc;
+      color: $gray-base;
+  
+      &:hover,
+      &:focus {
+        background-color: #aaa;
+      }
+    }
+  
+    &.btn-success {
+      color: #fff;
+    }
+  
+    &.btn-xs {
+      font-weight: 600;
+    }
+  
+    &.btn-lg {
+      padding: 12px 20px;
+      font-size: 18px;
+    }
+  
+    &.btn-lg-wide {
+      padding: 12px 60px;
+    }
+  
+    &.btn-add-sm {
+      position: relative;
+      height: 26px;
+      width: 26px;
+      padding: 0;
+      background-color: $color-green;
+      @include border-radius(50%);
+      color: #fff;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 26px;
+  
+      &:before {
+        top: 0;
+        content: "\f278";
+      }
+  
+      &:hover,
+      &:focus {
+        background-color: darken($color-green, 10%);
+      }
+  
+      &:active {
+        color: #fff;
+      }
+    }
+  
+    &.btn-clear {
+      position: relative;
+      height: 22px;
+      width: 22px;
+      padding: 0;
+      background-color: $gray;
+      @include border-radius(50%);
+      @include box-shadow(1px 1px 5px rgba(0,0,0,0.28));
+      color: #fff;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 22px;
+  
+      &:before {
+        content: "\f136";
+      }
+  
+      &:hover,
+      &:focus {
+        background-color: $gray-dark;
+      }
+  
+      &:active {
+        color: #fff;
+      }
+  
+      &.btn-clear-sm {
+        height: 20px;
+        width: 20px;
+        font-size: 16px;
+        line-height: 20px;
+      }
+    }
+  
+    .zmdi-lock {
+      margin-right: 10px;
+    }
+  
+    .zmdi-search {
+      position: relative;
+      top: -1px;
+      margin-right: 7px;
+      font-size: 22px;
+      vertical-align: middle;
+    }
+  }
+  
+  .btn-link {
+    @include reset-form-element-styles;
+  
+    &.btn-overflow {
+      width: 100%;
+      text-align: left;
+  
+      > span {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  
+    &.link-compare {
+      font-size: 13px;
+      color: $gray;
+  
+      &:hover,
+      &:focus {
+        text-decoration: none;
+        color: $brand-primary;
+      }
+  
+      > .zmdi {
+        position: relative;
+        top: -1px;
+        margin-right: 4px;
+        color: $brand-primary;
+        font-size: 20px;
+        vertical-align: middle;
+      }
+    }
+  }
+  
+  .btn-view-more {
+    position: relative;
+    display: block;
+    height: 38px;
+    width: 38px;
+    background-color: $gray-light;
+    @include border-radius(50%);
+    @include box-shadow(1px 1px 5px rgba(0,0,0,0.33));
+    color: #fff;
+    text-align: center;
+  
+    .icon-circle:before {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      width: 100%;
+      color: #fff;
+      font-size: 26px;
+      line-height: 40px;
+    }
+  
+    &:focus,
+    &:hover {
+      background-color: $gray;
+    }
+  }
+  
+  // Toggle buttons
+  
+  .btn-toggle-group {
+    float: left;
+    margin: -1px 0 0 30px;
+  
+    &.group-right {
+      float: right;
+      margin-top: 0;
+  
+      &.group-separator {
+        padding-left: 30px;
+        border-left: 1px solid $gray-lighter;
+      }
+    }
+  
+    .btn-toggle {
+      padding: 0;
+      margin-right: 13px;
+      background-color: transparent;
+      @include box-shadow(none);
+      color: $gray;
+      font-size: 14px;
+  
+      > i {
+        display: block;
+        height: 40px;
+        width: 40px;
+        margin: 0 auto 1px auto;
+        background-color: $gray;
+        @include border-radius(5px);
+        color: #fff;
+        font-size: 30px;
+        line-height: 40px;
+  
+        &.active,
+        &:hover,
+        &:focus {
+          background-color: $brand-primary;
+        }
+  
+        &:not([disabled]) {
+          background-color: $gray;
+        }
+      }
+  
+      &:last-child {
+        margin-right: 0;
+      }
+  
+      &:hover {
+        background-color: transparent;
+      }
+  
+      &.active > i {
+        background-color: $brand-primary;
+      }
+    }
+  }
+  
+  .toggle-sidebar {
+    padding: 8px 12px 7px 12px;
+  
+    .zmdi {
+      position: relative;
+      top: -1px;
+      margin-right: 3px;
+      font-size: 20px;
+      vertical-align: middle;
+    }
+  }
+  
+  .btn-group-search {
+    > .btn {
+      width: 180px;
+      margin-top: 20px;
+  
+      &:not(:last-child) {
+        margin-right: 30px;
+      }
+    }
+  }
+  
+  button:focus,
+  input[type="button"],
+  a:focus {
+    outline: none !important;
+  }
+  
+  .link-back {
+    display: inline-block;
+    margin-top: 5px;
+    color: $gray-dark;
+  
+    &:hover,
+    &:focus {
+      color: $gray-dark;
+    }
+  
+    cursor: pointer;
+  
+    > * {
+      vertical-align: middle;
+    }
+  
+    i {
+      margin-right: 5px;
+    }
+  }
+  
+  .btn-close {
+    font-size: 18px;
+    color: $gray;
+  
+    &:hover,
+    &:focus {
+      color: $gray-base;
+    }
+  }
+  
+  // Responsive
+  
+  @media (max-width: 599px) {
+    .btn-group-search {
+      > .btn {
+        width: 46%;
+        padding: 12px 0;
+        margin: 20px 0 0 1%;
+  
+        &:not(:last-child) {
+          margin-right: 6%;
+        }
+      }
+    }
+  }
+  
+  @media (max-width: 479px) {
+    .btn-toggle-group.group-right {
+      float: left;
+      clear: left;
+      margin: 12px 0 0 0;
+    }
+  }

@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS measures for W15",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"W15\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 1,
+        "total": 54525,
+        "completed": 55478
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 1,
+        "total": 81134,
+        "completed": 71220
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 1,
+        "total": 85842,
+        "completed": 68015
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 1,
+        "total": 83078,
+        "completed": 67045
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 2,
+        "total": 54620,
+        "completed": 50411
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 2,
+        "total": 83224,
+        "completed": 71065
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 2,
+        "total": 85852,
+        "completed": 78021
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 2,
+        "total": 83012,
+        "completed": 72705
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 3,
+        "total": 56190,
+        "completed": 47114
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 3,
+        "total": 55636,
+        "completed": 53399
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 3,
+        "total": 85070,
+        "completed": 79240
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 3,
+        "total": 85458,
+        "completed": 76115
+      },
+      {
+        "code": "W15",
+        "year": 2017,
+        "month": 3,
+        "total": 82296,
+        "completed": 76410
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 4,
+        "total": 56010,
+        "completed": 52132
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 4,
+        "total": 58490,
+        "completed": 52355
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 4,
+        "total": 86744,
+        "completed": 79305
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 4,
+        "total": 84814,
+        "completed": 72310
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 5,
+        "total": 55845,
+        "completed": 50010
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 5,
+        "total": 61568,
+        "completed": 50100
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 5,
+        "total": 88408,
+        "completed": 70215
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 5,
+        "total": 84098,
+        "completed": 73200
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 6,
+        "total": 55740,
+        "completed": 45414
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 6,
+        "total": 64502,
+        "completed": 52105
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 6,
+        "total": 88208,
+        "completed": 70265
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 6,
+        "total": 83674,
+        "completed": 74275
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 7,
+        "total": 55500,
+        "completed": 50706
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 7,
+        "total": 67128,
+        "completed": 51340
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 7,
+        "total": 88104,
+        "completed": 70170
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 7,
+        "total": 84030,
+        "completed": 75200
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 8,
+        "total": 55275,
+        "completed": 44296
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 8,
+        "total": 70086,
+        "completed": 62105
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 8,
+        "total": 87366,
+        "completed": 70030
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 8,
+        "total": 84210,
+        "completed": 77990
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 9,
+        "total": 55140,
+        "completed": 40276
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 9,
+        "total": 72698,
+        "completed": 65965
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 9,
+        "total": 87086,
+        "completed": 74970
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 9,
+        "total": 84582,
+        "completed": 73970
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 10,
+        "total": 54960,
+        "completed": 43576
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 10,
+        "total": 75192,
+        "completed": 60600
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 10,
+        "total": 87090,
+        "completed": 70105
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 10,
+        "total": 84318,
+        "completed": 74690
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 11,
+        "total": 54795,
+        "completed": 47952
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 11,
+        "total": 77298,
+        "completed": 71650
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 11,
+        "total": 86272,
+        "completed": 76550
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 11,
+        "total": 83942,
+        "completed": 80110
+      },
+      {
+        "code": "W15",
+        "year": 2013,
+        "month": 12,
+        "total": 54645,
+        "completed": 42240
+      },
+      {
+        "code": "W15",
+        "year": 2014,
+        "month": 12,
+        "total": 79300,
+        "completed": 70515
+      },
+      {
+        "code": "W15",
+        "year": 2015,
+        "month": 12,
+        "total": 85900,
+        "completed": 80340
+      },
+      {
+        "code": "W15",
+        "year": 2016,
+        "month": 12,
+        "total": 83494,
+        "completed": 70100
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+@media (max-width: 400px) {
+  .ReactTable .-pagination .-pageJump input {
+    width: 65px;
+    text-align: center;
+  }
+}
+@media (max-width: 375px) {
+  .ReactTable .-pagination .-pageJump input {
+    width: 60px;
+    text-align: center;
+  }
+}
+@media (max-width: 360px) {
+  .ReactTable .-pagination .-pageJump input {
+    width: 45px;
+    text-align: center;
+  }
+}
+@media (max-width: 330px) {
+  .ReactTable .-pagination .-pageJump input {
+    width: 37px;
+    text-align: center;
+  }
+}
+@media (max-width: 319px) {
+  .ReactTable .-pagination .-pageJump input {
+    width: 33px;
+    text-align: center;
+  }
+}
+
+/* For Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+/* Webkit browsers like Safari and Chrome */
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

@@ -1,0 +1,1430 @@
+[
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 1,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 2,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 3,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 4,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 5,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 6,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 7,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 8,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 9,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 10,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 11,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2000,
+    "month": 12,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 1,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 2,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 3,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 4,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 5,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 6,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 7,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 8,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 9,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 10,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 11,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2001,
+    "month": 12,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 1,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 2,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 3,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 4,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 5,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 6,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 7,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 8,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 9,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 10,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 11,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2002,
+    "month": 12,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 1,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 2,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 3,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 4,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 5,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 6,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 7,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 8,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 10,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 11,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2003,
+    "month": 12,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 1,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 2,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 3,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 4,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 5,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 6,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 7,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 8,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 10,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 11,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2004,
+    "month": 12,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 1,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 2,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 3,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 4,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 5,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 6,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 7,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 8,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 9,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 10,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 11,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2005,
+    "month": 12,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 1,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 2,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 3,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 4,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 5,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 6,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 7,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 8,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 9,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 10,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 11,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2006,
+    "month": 12,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 1,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 2,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 3,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 4,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 5,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 6,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 7,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 8,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 9,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 10,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 11,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2007,
+    "month": 12,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 1,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 2,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 3,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 4,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 5,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 6,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 7,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 8,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 9,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 10,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 11,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2008,
+    "month": 12,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 1,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 2,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 3,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 4,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 5,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 6,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 7,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 8,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 10,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 11,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2009,
+    "month": 12,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 1,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 2,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 3,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 4,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 5,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 6,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 7,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 8,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 10,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 11,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2010,
+    "month": 12,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 1,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 2,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 3,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 4,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 5,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 6,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 7,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 8,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 10,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 11,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2011,
+    "month": 12,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 1,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 2,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 3,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 4,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 5,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 6,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 7,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 8,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 9,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 10,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 11,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2012,
+    "month": 12,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 1,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 2,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 3,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 4,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 5,
+    "metric": "messages",
+    "value": 1200
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 6,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 7,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 8,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 9,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 10,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 11,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2013,
+    "month": 12,
+    "metric": "messages",
+    "value": 400
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 1,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 2,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 3,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 4,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 5,
+    "metric": "messages",
+    "value": 1000
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 6,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 7,
+    "metric": "messages",
+    "value": 20
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 8,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 9,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 10,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 11,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2014,
+    "month": 12,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 1,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 2,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 3,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 4,
+    "metric": "messages",
+    "value": 300
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 5,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 6,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 7,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 8,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 9,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 10,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 11,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2015,
+    "month": 12,
+    "metric": "messages",
+    "value": 1800
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 1,
+    "metric": "messages",
+    "value": 600
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 2,
+    "metric": "messages",
+    "value": 5
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 3,
+    "metric": "messages",
+    "value": 1600
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 4,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 5,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 6,
+    "metric": "messages",
+    "value": 1400
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 7,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 8,
+    "metric": "messages",
+    "value": 100
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 9,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 10,
+    "metric": "messages",
+    "value": 800
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 11,
+    "metric": "messages",
+    "value": 150
+  },
+  {
+    "tenant": "demo",
+    "year": 2016,
+    "month": 12,
+    "metric": "messages",
+    "value": 400
+  }
+]

@@ -1,0 +1,44 @@
+.measure-widget {
+    padding: 10px;
+    .measure-widget-content {
+        text-align: center;
+        color: $gray-darker;
+        .header {
+            height: 100px;
+            width: 100%;
+            display: table;
+            span {
+                display: table-cell;
+                vertical-align: top;
+                h3 {
+                    font-weight: 600;
+                    margin: 0;
+                }
+            }
+        }
+        .meter {
+            text-align: left;
+            display: inline-block;
+        }
+        .details {
+            text-align: center;
+            h1,
+            h2,
+            h3,
+            h4,
+            h5 {
+                margin-top: 0;
+            }
+        }
+        .graph {
+            width: 180px;
+            margin-top: 20px;
+            text-align: middle;
+            display: inline-block;
+
+            svg {
+                max-height: 3.5em;
+            }
+        }
+    }
+}

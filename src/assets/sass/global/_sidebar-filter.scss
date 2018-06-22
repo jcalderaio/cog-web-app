@@ -1,0 +1,126 @@
+//
+// Sidebar Filter
+// --------------------------------------------------
+
+.buttons-container{
+  float: right;
+  > div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+  }
+}
+
+.btn-sidebar-filter {
+  float: left;
+  @include reset-form-element-styles;
+  margin: 0px;
+  line-height: 1;
+}
+
+.icon__filter {
+  &:before {
+    content: "";
+    display: inline-block;
+    height: 28px;
+    width: 28px;
+    @include background-image(icon-filter, true);
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: auto 28px;
+    vertical-align: middle;
+  }
+
+  &:hover,
+  &.active {
+    &:before {
+      @include background-image(icon-filter-blue, true);
+    }
+  }
+}
+
+// When in the page header, float to the right
+#page-header {
+  button.btn-sidebar-filter {
+    padding-top: 2px;
+
+    // Filter icon size also is slightly smaller to match back button size
+    .icon__filter {
+      &:before {
+        height: 24px;
+        width: 24px;
+        background-size: auto 24px;
+      }
+    }
+  }
+
+  button.btn-sidebar-filter:hover {
+    span {
+      text-decoration: underline;
+    }
+  }
+}
+
+.panel-sidebar-filter {
+  .panel-heading {
+    padding: 12px 15px;
+    background-color: $gray-dark;
+    color: #fff;
+
+    .panel-title {
+      font-size: 18px;
+      font-family: $font-family-serif;
+      font-weight: 400;
+
+      .btn-clear-all {
+        float: right;
+        color: #fff;
+        font-family: $font-family-sans-serif;
+        font-size: 14px;
+      }
+    }
+  }
+
+  .accordion {
+    &.panel-group {
+      margin-bottom: 1px;
+
+      > .panel-default {
+        > .panel-heading {
+          background-color: $gray-dark;
+          color: #fff;
+
+          .panel-title {
+            font-size: 16px;
+
+            a:after {
+              font-size: 32px;
+            }
+          }
+        }
+
+        > .panel-collapse {
+          > .panel-body {
+            padding: 15px;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Tray styles (filters panel for smaller devices)
+
+.filters-tray {
+  .modal-content {
+    background: #fff;
+  }
+}
+
+// Select component styles
+.Select-menu-outer {
+  z-index: 99999;
+  .Selet-menu {
+    z-index: 99999;
+  }
+}

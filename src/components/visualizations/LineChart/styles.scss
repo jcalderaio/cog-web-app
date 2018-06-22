@@ -1,0 +1,20 @@
+//
+// Line Chart
+// --------------------------------------------------
+
+.line-chart-widget {
+  .legend-actions {
+    .recharts-legend-item {
+      &:hover {
+        cursor: pointer
+      }
+    }
+  }
+}
+
+.meter {
+    text-align: center
+}
+.details {
+    text-align: center
+}

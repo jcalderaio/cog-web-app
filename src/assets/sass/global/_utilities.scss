@@ -1,0 +1,35 @@
+//
+// Utilities
+// --------------------------------------------------
+
+.no-wrap {
+    white-space: nowrap;
+}
+
+.v-center {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.v-content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.color-red {
+    color: $color-red;
+}
+
+.color-yellow {
+    color: $color-yellow;
+}
+
+.color-green {
+    color: $color-green;
+}

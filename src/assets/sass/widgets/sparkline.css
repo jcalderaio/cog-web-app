@@ -1,0 +1,36 @@
+.push-down {
+  padding-top: 1em;
+}
+.push-up {
+  padding-top: 1em;
+}
+
+.number-style-container {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.number-style {
+  text-align: center;
+  font-size: 48px;
+}
+
+.number-style-large {
+  text-align: center;
+  font-size: 72px;
+  font-weight:bold;
+  display: block;
+  margin: 0 auto;
+  height: 105px;
+}
+
+.heading-style {
+  text-align: center;
+  clear: both;
+  padding-bottom: 2.5em;
+}
+.text-trend {
+  text-align: center;
+}

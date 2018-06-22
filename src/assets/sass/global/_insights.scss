@@ -1,0 +1,31 @@
+//
+// Insights
+// --------------------------------------------------
+
+.insight-editor textarea {
+  background-color: #333;
+  color: #fff;
+  min-height: 8em;
+}
+
+.insight-wrapper {
+  padding: 8px;
+
+  .container {
+    background: #fff;
+    color: #333;
+    width: 100%;
+    padding: 1em;
+    min-height: 400px;
+  }
+}
+
+.insight-page {
+  .container {
+    min-height: 540px;
+  }
+
+  .spinner > div {
+    background-color: #212121;
+  }
+}

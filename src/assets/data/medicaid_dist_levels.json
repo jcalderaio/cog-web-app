@@ -1,0 +1,9 @@
+[
+  { "name": "Medicaid Patients", "percentage": 78, "fill": "#8884d8" },
+  { "name": "Medicaid Patient Encounters", "percentage": 90, "fill": "#83a6ed" },
+  { "name": "Medicaid Patient Diagnoses", "percentage": 88, "fill": "#8dd1e1" },
+  { "name": "Medicaid Patient Procedures", "percentage": 72, "fill": "#82ca9d" },
+  { "name": "Medicaid Patient Medications", "percentage": 42, "fill": "#a4de6c" },
+  { "name": "Medicaid Patient Lab Results", "percentage": 68, "fill": "#a7c03d" },
+  { "name": "", "percentage": 100, "fill": "#fff" }
+]

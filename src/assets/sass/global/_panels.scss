@@ -1,0 +1,216 @@
+//
+// Panels
+// --------------------------------------------------
+
+.panel-group {
+  margin-bottom: 30px;
+
+  .panel-default {
+    margin-bottom: 30px;
+  }
+}
+
+.panel-default {
+  margin-bottom: 30px;
+  border: none;
+  @include box-shadow(1px 1px 5px rgba(0, 0, 0, 0.23));
+
+  &.panel-draggable {
+    position: relative;
+
+    .panel-heading {
+      padding-top: 22px;
+      cursor: move;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 12px;
+        background-color: lighten($gray-light, 10%);
+        @include background-image(icon-drag-handle-top, true);
+        background-position: center 3px;
+        background-repeat: no-repeat;
+        background-size: 35px 6px;
+      }
+    }
+
+    .panel-body {
+      cursor: default;
+    }
+  }
+
+  .panel-heading {
+    padding-bottom: 5px;
+
+    .panel-title {
+      font-size: $font-size-h3;
+      font-weight: 600;
+
+      &.icon-person {
+        position: relative;
+        margin-top: 10px;
+        padding-left: 50px;
+
+        &:before {
+          position: absolute;
+          top: -5px;
+          left: 0;
+        }
+      }
+
+      a {
+        color: $brand-primary;
+
+        &:hover,
+        &:focus {
+          color: $link-hover-color;
+          text-decoration: none;
+        }
+      }
+
+      .panel-subtitle {
+        display: block;
+        margin-top: 4px;
+        color: $gray-base;
+        font-family: $font-family-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.4;
+      }
+    }
+  }
+
+  .panel-body {
+    > *:first-child {
+      margin-top: 0;
+    }
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
+
+    .pcp-title {
+      position: relative;
+      top: 5px;
+      margin-bottom: 20px;
+
+      &.icon-physician {
+        position: relative;
+        margin-top: 12px;
+        padding-left: 48px;
+
+        &:before {
+          position: absolute;
+          top: -9px;
+          left: 0;
+        }
+      }
+    }
+
+    .table-responsive:last-child .table {
+      margin-bottom: 0;
+    }
+
+    .zmdi-hc-ul {
+      margin-left: 25px;
+
+      li {
+        margin-bottom: 5px;
+
+        .zmdi {
+          left: -25px;
+          width: 20px;
+          margin-top: -3px;
+          color: $gray-light;
+          font-size: 20px;
+        }
+      }
+    }
+
+    hr {
+      margin: 15px 0;
+    }
+  }
+
+  .panel-heading,
+  .panel-footer {
+    background-color: #fff;
+    border: none;
+  }
+
+  .panel-footer {
+    padding: 0 15px 15px 15px;
+
+    > *:first-child {
+      margin-top: 0;
+    }
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
+
+    &:before,
+    &:after {
+      content: "";
+      display: table;
+    }
+
+    &:after {
+      clear: both;
+    }
+
+    .link-more {
+      float: right;
+    }
+  }
+}
+
+// Header area above panels
+
+.panel-action-header {
+  padding-bottom: 20px;
+
+  .form-group {
+    float: left;
+    margin-bottom: 0;
+  }
+}
+
+// Accordions
+
+.accordion.accordion-group {
+  &.panel-group {
+    > .panel-default {
+      margin-bottom: 0;
+
+      > .panel-collapse {
+        > .panel-body {
+          padding: 10px 0;
+        }
+      }
+    }
+  }
+}
+
+// Responsive
+
+@media (min-width: 600px) {
+  .panel-action-header {
+    .checkbox {
+      margin-top: 20px;
+    }
+
+    .panel-action-right {
+      float: right;
+    }
+  }
+}
+
+@media (max-width: 599px) {
+  .panel-action-header .panel-action-right {
+    margin-top: 20px;
+  }
+}

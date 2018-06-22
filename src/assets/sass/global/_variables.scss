@@ -1,0 +1,202 @@
+//
+// Bootstrap Sass Overrides
+// --------------------------------------------------
+
+//== Colors
+//
+
+$gray-base:              #000 !default;
+$gray-darker:            #212121 !default;
+$gray-dark:              #323a45 !default;
+$gray:                   #5b616b !default;
+$gray-light:             #aeb0b5 !default;
+$gray-lighter:           #d6d7d9 !default;
+$gray-lightest:          #f1f1f1 !default;
+
+$brand-primary:          #0071bc !default;
+$brand-primary-dark:     #205493 !default;
+$color-primary-alt-dark: #00a6d2 !default;
+$color-orange:           #f89000 !default;
+$color-orange-light:     #ffca95 !default;
+$color-blue-darkest:     #112e51 !default;
+$color-blue-darker:      #205493 !default;
+$color-blue:             #0071bc !default;
+$color-blue-light:       #a7cbdb !default;
+$color-blue-lightest:    #e1f3f8 !default;
+$color-purple:           #7053aa !default;
+$color-purple-light:     #b7a9d5 !default;
+$color-green:            #2e8540 !default;
+$color-green-light:      #4aa564 !default;
+$color-green-lightest:   #e7f4e4 !default;
+$color-yellow:           #fdb81e !default;
+$color-yellow-light:     #fad980 !default;
+$color-yellow-lightest:  #fff1d2 !default;
+$color-red:              #cd2026 !default;
+$color-red-light:        #e59393 !default;
+$color-red-lightest:     #f9dede !default;
+$color-mint:             #7ae8a6 !default;
+$color-teal:             #18a39e !default;
+
+$brand-focus:            #3e94cf !default;
+$brand-visited:          lighten(#4c2c92, 15%) !default;
+
+$brand-success: $color-green !default;
+$brand-info: $color-blue !default;
+$brand-warning: $color-yellow !default;
+$brand-danger: $color-red !default;
+
+
+//== Scaffolding
+//
+//##
+
+$body-bg: $gray-darker !default;
+$text-color: #fff !default;
+
+
+//== Typography
+//
+//##
+
+$font-family-serif: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif !default;
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif !default;
+$font-family-base: $font-family-sans-serif !default;
+
+$font-size-base: 14px !default;
+$font-size-large: 18px !default;
+$font-size-small: 12px !default;
+
+$font-size-h1: 30px !default;
+$font-size-h2: 26px !default;
+$font-size-h3: 22px !default;
+$font-size-h4: 18px !default;
+$font-size-h5: $font-size-base !default;
+$font-size-h6: 12px !default;
+
+$headings-font-family: $font-family-serif !default;
+$headings-font-weight: 400 !default;
+$headings-line-height: 1.2 !default;
+
+$link-color: $brand-primary !default;
+$link-hover-color: lighten($link-color, 8%) !default;
+ 
+
+//== Components
+//
+//##
+
+$border-radius-base: 0 !default;
+$border-radius-large: 0 !default;
+$border-radius-small: 0 !default;
+
+
+//== Buttons
+//
+//##
+
+$btn-default-bg: $gray-lighter !default;
+
+$btn-border-radius-base: 5px !default;
+$btn-border-radius-large: 5px !default;
+$btn-border-radius-small: 3px !default;
+
+
+//== Form states and alerts
+//
+//##
+
+$state-success-text: $gray-base !default;
+$state-success-bg: lighten($color-green-light, 30%) !default;
+$state-success-border: $color-green !default;
+
+$state-info-text: $gray-base !default;
+$state-info-bg: lighten($color-blue-light, 5%) !default;
+$state-info-border: $color-blue !default;
+ 
+$state-warning-text: $gray-base !default;
+$state-warning-bg: lighten($color-yellow-light, 5%) !default;
+$state-warning-border: $color-yellow !default;
+
+$state-danger-text: $gray-base !default;
+$state-danger-bg: lighten($color-red-light, 10%) !default;
+$state-danger-border: $color-red !default;
+
+
+//== Popovers
+//
+//##
+
+$popover-bg:                          $gray-darker !default;
+$popover-max-width:                   300px !default;
+$popover-border-color:                transparent !default;
+$popover-fallback-border-color:       transparent !default;
+$popover-title-bg:                    $gray-darker !default;
+
+
+//== Navbar
+//
+//##
+
+// Inverted navbar links
+$navbar-inverse-link-color: #fff !default;
+$navbar-inverse-link-hover-color: #fff !default;
+$navbar-inverse-link-active-color: #fff !default;
+$navbar-inverse-link-active-bg: transparent !default;
+
+
+//== Tables
+//
+//##
+
+$table-cell-padding: 10px 8px !default;
+
+$table-border-color: $gray-lighter !default;
+
+$table-bg-accent: $gray-lightest !default;
+
+
+//== Modals
+//
+//##
+
+$modal-content-bg: $gray-darker !default;
+
+$modal-content-border-color: $gray !default;
+
+//** Modal content border color **for IE8**
+$modal-content-fallback-border-color: $gray !default;
+
+$modal-header-border-color: $brand-info !default;
+
+$modal-backdrop-opacity: .75 !default;
+
+
+//== Scaffolding
+//
+//##
+
+//** Background color for `<body>`.
+$body-bg: #fff !default;
+
+
+//== Media queries breakpoints
+//
+//##
+
+$screen-lg: 1330px !default;
+
+
+//== Grid system
+//
+//##
+
+$grid-gutter-width: 30px !default;
+
+$container-large-desktop: (1240px + $grid-gutter-width) !default;
+
+
+//== Sass Variables
+//
+//##
+
+$icon-color: $gray-dark !default;

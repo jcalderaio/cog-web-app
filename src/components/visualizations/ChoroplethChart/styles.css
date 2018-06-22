@@ -1,0 +1,67 @@
+.polygon.choropleth{
+fill: transparent;
+}
+
+.border {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.mesh {
+  stroke: #000 !important;
+}
+
+.q5-6{fill:rgb(0,40,40) !important;}
+.q4-6{fill:rgb(18,121,131) !important;}
+.q3-6{fill:rgb(56,160,166) !important;}
+.q2-6{fill:rgb(106,188,190) !important;}
+.q1-6{fill:rgb(146,213,208) !important;}
+.q0-6{fill:rgb(179,226,218) !important;}
+
+.q5-6-background{background:rgb(0,40,40) !important;}
+.q4-6-background{background:rgb(18,121,131) !important;}
+.q3-6-background{background:rgb(56,160,166) !important;}
+.q2-6-background{background:rgb(106,188,190) !important;}
+.q1-6-background{background:rgb(146,213,208) !important;}
+.q0-6-background{background:rgb(179,226,218) !important;}
+/*circle:hover {
+  fill-opacity: .8 !important;
+}*/
+
+.legend circle {
+  fill: none;
+  stroke: #ccc;
+}
+
+.legend text {
+  fill: #777;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.choropleth-chart-widget .legend-horizontal-item {
+  padding-right:0;
+}
+
+.city-label-text {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 11px;
+  fill: #555;
+}
+
+.city-label-point {
+  fill: #555;
+  fill-opacity: .8;
+}
+
+.series-legend.choropleth {
+  fill: transparent !important;
+  opacity: 1;
+  border: 0;
+  width: 45px;
+  height: 10px;
+  margin-right: 0;
+  display: block;
+  float: left;
+}

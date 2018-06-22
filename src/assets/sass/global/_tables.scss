@@ -1,0 +1,52 @@
+//
+// Tables
+// --------------------------------------------------
+
+.table {
+    background-color: #fff;
+
+    // Header
+    > thead > tr > th {
+        padding: 8px;
+        background-color: $gray-lighter;
+        border-bottom: none;
+        border-left: 1px solid #fff;
+        color: $gray-darker;
+
+        &:first-child {
+            border-left: none;
+        }
+    }
+
+    // Body
+    > tbody > tr > td {
+        border-top: none;
+        color: $gray-dark;
+    }
+
+    &.table-striped {
+        > tbody > tr:nth-of-type(odd) {
+            background-color: transparent;
+        }
+
+        > tbody > tr:nth-of-type(even) {
+            background-color: $table-bg-accent;
+        }
+    }
+}
+
+
+// Responsive
+
+@media (max-width: 767px) {
+    .table-responsive {
+        border: none;
+    }
+}
+
+// React Table (data grid)
+.rt-table {
+    .rt-th {
+      outline:none
+    }
+  }

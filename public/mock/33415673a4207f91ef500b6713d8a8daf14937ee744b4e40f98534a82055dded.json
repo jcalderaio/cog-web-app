@@ -1,0 +1,260 @@
+{
+  "notes": "demo data for MIPS-128",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"MIPS-128\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 1,
+        "completed": 72940,
+        "total": 93938
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 2,
+        "completed": 54815,
+        "total": 83745
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 3,
+        "completed": 61808,
+        "total": 80607
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 4,
+        "completed": 49634,
+        "total": 76584
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 5,
+        "completed": 73652,
+        "total": 83053
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 6,
+        "completed": 57414,
+        "total": 88859
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 7,
+        "completed": 53084,
+        "total": 83338
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 8,
+        "completed": 80005,
+        "total": 90655
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 9,
+        "completed": 66508,
+        "total": 90595
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 10,
+        "completed": 59477,
+        "total": 86660
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 11,
+        "completed": 65743,
+        "total": 87173
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2015,
+        "month": 12,
+        "completed": 64273,
+        "total": 79699
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 1,
+        "completed": 62269,
+        "total": 87245
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 2,
+        "completed": 68033,
+        "total": 79135
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 3,
+        "completed": 70576,
+        "total": 86650
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 4,
+        "completed": 51609,
+        "total": 78064
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 5,
+        "completed": 58340,
+        "total": 80598
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 6,
+        "completed": 65961,
+        "total": 85377
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 7,
+        "completed": 70640,
+        "total": 88990
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 8,
+        "completed": 74257,
+        "total": 92160
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 9,
+        "completed": 66191,
+        "total": 80410
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 10,
+        "completed": 67300,
+        "total": 79406
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 11,
+        "completed": 59459,
+        "total": 77414
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2016,
+        "month": 12,
+        "completed": 63226,
+        "total": 75727
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 1,
+        "completed": 68120,
+        "total": 80049
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 2,
+        "completed": 66707,
+        "total": 87425
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 3,
+        "completed": 52370,
+        "total": 84715
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 4,
+        "completed": 60703,
+        "total": 81759
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 5,
+        "completed": 61354,
+        "total": 86201
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 6,
+        "completed": 64055,
+        "total": 75946
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 7,
+        "completed": 62175,
+        "total": 80573
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 8,
+        "completed": 56224,
+        "total": 78060
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 9,
+        "completed": 55150,
+        "total": 83191
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 10,
+        "completed": 60963,
+        "total": 82977
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 11,
+        "completed": 57553,
+        "total": 89819
+      },
+      {
+        "code": "MIPS-128",
+        "year": 2017,
+        "month": 12,
+        "completed": 57778,
+        "total": 88231
+      }
+    ]
+  }
+}

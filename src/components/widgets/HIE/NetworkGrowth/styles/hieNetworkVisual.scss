@@ -1,0 +1,39 @@
+.hie-network-score-graph {
+  .fd-graphs {
+    width: 470px;
+    margin: 0 auto;
+  }
+
+  .network-graph {
+    display: inline-block;
+    margin-top: 2.5em;
+    // width: 200px;
+    // height: 289px;
+
+    h5 {
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+
+  .force-graph-widget {
+    padding-left: 50%;
+    padding-top: 50%;
+  }
+
+  .graph-description {
+    width: 50%;
+    margin: 0 auto;
+    padding: 0.5em;
+    text-align: center;
+    border: 1px solid #efefef;
+  }
+}
+
+@media (max-width: 520px) {
+  .hie-network-score-graph {
+    .fd-graphs {
+      width: 230px;
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS data for BMI",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"BMI\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 1,
+        "total": 142501,
+        "completed": 106871
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 1,
+        "total": 385164,
+        "completed": 288898
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 1,
+        "total": 504061,
+        "completed": 378309
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 1,
+        "total": 500678,
+        "completed": 375314
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 2,
+        "total": 162808,
+        "completed": 122114
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 2,
+        "total": 405299,
+        "completed": 304005
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 2,
+        "total": 503755,
+        "completed": 378049
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 2,
+        "total": 500410,
+        "completed": 375365
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 3,
+        "total": 183097,
+        "completed": 137468
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 3,
+        "total": 425430,
+        "completed": 319093
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 3,
+        "total": 503457,
+        "completed": 377763
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 3,
+        "total": 500139,
+        "completed": 375135
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 4,
+        "total": 203368,
+        "completed": 152680
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 4,
+        "total": 445553,
+        "completed": 334153
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 4,
+        "total": 503160,
+        "completed": 377419
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 4,
+        "total": 499862,
+        "completed": 374872
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 5,
+        "total": 223630,
+        "completed": 167852
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 5,
+        "total": 465669,
+        "completed": 349341
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 5,
+        "total": 502878,
+        "completed": 377132
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 5,
+        "total": 499577,
+        "completed": 374732
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 6,
+        "total": 243874,
+        "completed": 182976
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 6,
+        "total": 485776,
+        "completed": 364431
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 6,
+        "total": 502596,
+        "completed": 376955
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 6,
+        "total": 499283,
+        "completed": 374430
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 7,
+        "total": 20391,
+        "completed": 15197
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 7,
+        "total": 264104,
+        "completed": 198140
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 7,
+        "total": 505887,
+        "completed": 379508
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 7,
+        "total": 502310,
+        "completed": 376756
+      },
+      {
+        "code": "BMI",
+        "year": 2015,
+        "month": 7,
+        "total": 498982,
+        "completed": 374144
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 8,
+        "total": 40771,
+        "completed": 30434
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 8,
+        "total": 284319,
+        "completed": 213341
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 8,
+        "total": 505596,
+        "completed": 379447
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 8,
+        "total": 502022,
+        "completed": 376498
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 9,
+        "total": 61142,
+        "completed": 45726
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 9,
+        "total": 304511,
+        "completed": 228533
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 9,
+        "total": 505292,
+        "completed": 379471
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 9,
+        "total": 501737,
+        "completed": 376292
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 10,
+        "total": 81497,
+        "completed": 60994
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 10,
+        "total": 324689,
+        "completed": 243735
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 10,
+        "total": 504988,
+        "completed": 379271
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 10,
+        "total": 501465,
+        "completed": 376038
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 11,
+        "total": 101847,
+        "completed": 76307
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 11,
+        "total": 344856,
+        "completed": 258820
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 11,
+        "total": 504684,
+        "completed": 378930
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 11,
+        "total": 501205,
+        "completed": 375727
+      },
+      {
+        "code": "BMI",
+        "year": 2011,
+        "month": 12,
+        "total": 122182,
+        "completed": 91629
+      },
+      {
+        "code": "BMI",
+        "year": 2012,
+        "month": 12,
+        "total": 365011,
+        "completed": 273997
+      },
+      {
+        "code": "BMI",
+        "year": 2013,
+        "month": 12,
+        "total": 504367,
+        "completed": 378635
+      },
+      {
+        "code": "BMI",
+        "year": 2014,
+        "month": 12,
+        "total": 500941,
+        "completed": 375533
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+.land {
+  fill: #ddd;
+}
+
+.border {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.mesh {
+  stroke: #999 !important;
+}
+
+.bubble {
+  fill: red;
+  fill-opacity: .3;
+  stroke: #fff;
+  stroke-width: .5px;
+  pointer-events: all;
+}
+
+/*circle:hover {
+  fill-opacity: .8 !important;
+}*/
+
+.legend circle {
+  fill: none;
+  stroke: #ccc;
+}
+
+.legend text {
+  fill: #777;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.city-label-text {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 11px;
+  fill: #555;
+}
+
+.city-label-point {
+  fill: #555;
+  fill-opacity: .8;
+}
+
+/* ultimately these should be housed elsewhere */
+.participation-bubble-pcp {
+  fill: #0071bc !important;
+  fill-opacity: .3;
+}
+.participation-bubble-hospital {
+  fill: #f89000 !important;
+  fill-opacity: .3;
+}
+.participation-bubble-others {
+  fill: #494440 !important;
+  fill-opacity: .3;
+}
+.participation-bubble-clinical-providers {
+  fill: #0071bc !important;
+  fill-opacity: .3;
+}
+
+.participation-bubble-ehr-providers {
+  fill: #AA4040 !important;
+  fill-opacity: .3;
+}
+
+.series-legend {
+  opacity: 0.3;
+  border: 0;
+  width: 14px;
+  height: 10px;
+  margin-right: 5px;
+  display: block;
+  float: left;
+}
+.pcp {
+  background: #0071bc;
+}
+.clinical-providers {
+  background: #0071bc;
+}
+.hospital {
+  background: #f89000;
+}
+.others {
+  background: #494440;
+}
+.ehr-providers {
+  background: #AA4040;  
+}
+
+.city-label-point {
+  cursor: pointer;
+}

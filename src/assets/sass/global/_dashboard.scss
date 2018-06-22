@@ -1,0 +1,71 @@
+//
+// Dashboard
+// --------------------------------------------------
+
+.dashboard-form .form-title {
+  text-align: center;
+  
+  span * {
+    display: inline;
+  }
+
+  .icon {
+    margin-left: 1em;
+  }
+}
+
+#dashboard-global-filter {
+  //background: #fff;
+  border-top: solid 1px $gray-lighter;
+  padding: 8px;
+  margin: 8px;
+  padding-bottom: 10px;
+  color: #111;
+
+  h4 {
+    margin-top: 0;
+    display: block;
+    float: left;
+  }
+
+  .filters {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+  }
+
+  .clear-filters {
+    float: left;
+    margin-left: 5px;
+    display: block;
+    line-height: 22px;
+  }
+
+  .filter-input {
+    float: left;
+    margin-right: 20px;
+  }
+  .filter-input:last-child {
+    margin-right: 0;
+  }
+}
+
+.query-filter {
+  background: #fff;
+  padding: 1em;
+  margin: 8px;
+  color: #111;
+
+  .filter-input {
+    float: left;
+    margin-right: 8px;
+  }
+}
+.fade.in.popover.left {
+  margin-right: 80px;
+  left: -175px !important;
+
+  .arrow {
+    display: none;
+  }
+}

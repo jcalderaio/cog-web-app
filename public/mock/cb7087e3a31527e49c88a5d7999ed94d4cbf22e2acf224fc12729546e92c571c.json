@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS data for WACNPACA",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"WACNPACA\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 1,
+        "total": 764659,
+        "completed": 688193
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 1,
+        "total": 739976,
+        "completed": 658200
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 1,
+        "total": 715337,
+        "completed": 618215
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 1,
+        "total": 690671,
+        "completed": 673378
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 2,
+        "total": 762571,
+        "completed": 688190
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 2,
+        "total": 737944,
+        "completed": 658000
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 2,
+        "total": 713284,
+        "completed": 613230
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 2,
+        "total": 688621,
+        "completed": 673172
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 3,
+        "total": 785164,
+        "completed": 714499
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 3,
+        "total": 760581,
+        "completed": 688123
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 3,
+        "total": 736005,
+        "completed": 657600
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 3,
+        "total": 711282,
+        "completed": 619110
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2017,
+        "month": 3,
+        "total": 686575,
+        "completed": 664971
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 4,
+        "total": 783119,
+        "completed": 714519
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 4,
+        "total": 758470,
+        "completed": 687123
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 4,
+        "total": 733826,
+        "completed": 655503
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 4,
+        "total": 709165,
+        "completed": 617811
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 5,
+        "total": 781080,
+        "completed": 712103
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 5,
+        "total": 756412,
+        "completed": 686290
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 5,
+        "total": 731783,
+        "completed": 653921
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 5,
+        "total": 707104,
+        "completed": 617915
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 6,
+        "total": 779039,
+        "completed": 713602
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 6,
+        "total": 754375,
+        "completed": 685110
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 6,
+        "total": 729729,
+        "completed": 656760
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 6,
+        "total": 705069,
+        "completed": 620105
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 7,
+        "total": 776973,
+        "completed": 714562
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 7,
+        "total": 752302,
+        "completed": 687890
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 7,
+        "total": 727675,
+        "completed": 658302
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 7,
+        "total": 703041,
+        "completed": 609491
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 8,
+        "total": 774911,
+        "completed": 715017
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 8,
+        "total": 750258,
+        "completed": 689005
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 8,
+        "total": 725597,
+        "completed": 657401
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 8,
+        "total": 700953,
+        "completed": 618110
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 9,
+        "total": 772880,
+        "completed": 723180
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 9,
+        "total": 748224,
+        "completed": 688300
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 9,
+        "total": 723575,
+        "completed": 658249
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 9,
+        "total": 698919,
+        "completed": 617902
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 10,
+        "total": 770781,
+        "completed": 714600
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 10,
+        "total": 746145,
+        "completed": 688130
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 10,
+        "total": 721494,
+        "completed": 652478
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 10,
+        "total": 696833,
+        "completed": 617190
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 11,
+        "total": 768785,
+        "completed": 714491
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 11,
+        "total": 744105,
+        "completed": 687300
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 11,
+        "total": 719423,
+        "completed": 657483
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 11,
+        "total": 694821,
+        "completed": 618930
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2013,
+        "month": 12,
+        "total": 766705,
+        "completed": 713610
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2014,
+        "month": 12,
+        "total": 742045,
+        "completed": 688123
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2015,
+        "month": 12,
+        "total": 717381,
+        "completed": 657930
+      },
+      {
+        "code": "WACNPACA",
+        "year": 2016,
+        "month": 12,
+        "total": 692731,
+        "completed": 618300
+      }
+    ]
+  }
+}

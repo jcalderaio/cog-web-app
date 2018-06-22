@@ -1,0 +1,1631 @@
+{
+    "notes": "demo well child visits detail dashboard - male filter",
+    "collapsedQuery": "{wellChildVisits(year:2016,gender:\"M\"){visitstotalpcpnonpcp}wellChildVisitsByMonth(year:2016,gender:\"M\"){visitstotalpcpmonthyear}wellChildHeadCircumference(year:2016,gender:\"M\"){totalzikacircumferenceagegender}wellChildMonthlyZikaVsHedis(year:2016,gender:\"M\",code:\"W15\"){totalcompletedpercentageCompletedincompletezikaCasesmonthyearcode}wellChildMonthlyZika(year:2016,gender:\"M\"){totalzikanonzikayearmonth}wellChildWeight(year:2016,gender:\"M\"){ageweighttotalzikagender}wellChildLength(year:2016,gender:\"M\"){agelengthtotalzikagender}}",
+    "data": {
+        "wellChildVisits": [
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "nonpcp": 0
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "nonpcp": 0
+            },
+            {
+                "visits": "2",
+                "total": 198,
+                "pcp": 186,
+                "nonpcp": 12
+            },
+            {
+                "visits": "3",
+                "total": 1167,
+                "pcp": 1066,
+                "nonpcp": 101
+            },
+            {
+                "visits": "4",
+                "total": 2984,
+                "pcp": 2641,
+                "nonpcp": 343
+            },
+            {
+                "visits": "5",
+                "total": 5660,
+                "pcp": 5109,
+                "nonpcp": 551
+            },
+            {
+                "visits": "6+",
+                "total": 14509,
+                "pcp": 13034,
+                "nonpcp": 1475
+            }
+        ],
+        "wellChildVisitsByMonth": [
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 4,
+                "pcp": 4,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 72,
+                "pcp": 66,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 276,
+                "pcp": 238,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 525,
+                "pcp": 479,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1135,
+                "pcp": 1020,
+                "month": 1,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 8,
+                "pcp": 8,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 198,
+                "pcp": 178,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 268,
+                "pcp": 238,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 360,
+                "pcp": 308,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 881,
+                "pcp": 787,
+                "month": 2,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 8,
+                "pcp": 8,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 135,
+                "pcp": 130,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 420,
+                "pcp": 367,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 705,
+                "pcp": 642,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1061,
+                "pcp": 950,
+                "month": 3,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 18,
+                "pcp": 16,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 42,
+                "pcp": 36,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 220,
+                "pcp": 188,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 840,
+                "pcp": 758,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1060,
+                "pcp": 973,
+                "month": 4,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 26,
+                "pcp": 23,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 78,
+                "pcp": 71,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 132,
+                "pcp": 120,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 425,
+                "pcp": 388,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1481,
+                "pcp": 1330,
+                "month": 5,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 12,
+                "pcp": 12,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 39,
+                "pcp": 35,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 440,
+                "pcp": 385,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 410,
+                "pcp": 370,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1230,
+                "pcp": 1125,
+                "month": 6,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 16,
+                "pcp": 16,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 159,
+                "pcp": 144,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 304,
+                "pcp": 268,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 635,
+                "pcp": 569,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 964,
+                "pcp": 862,
+                "month": 7,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 6,
+                "pcp": 6,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 84,
+                "pcp": 79,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 392,
+                "pcp": 354,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 405,
+                "pcp": 361,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1533,
+                "pcp": 1367,
+                "month": 8,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 56,
+                "pcp": 50,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 84,
+                "pcp": 77,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 228,
+                "pcp": 203,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 60,
+                "pcp": 51,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1667,
+                "pcp": 1488,
+                "month": 9,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 8,
+                "pcp": 8,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 141,
+                "pcp": 124,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 72,
+                "pcp": 63,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 330,
+                "pcp": 306,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1312,
+                "pcp": 1184,
+                "month": 10,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 20,
+                "pcp": 19,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 45,
+                "pcp": 43,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 200,
+                "pcp": 189,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 300,
+                "pcp": 272,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1020,
+                "pcp": 908,
+                "month": 11,
+                "year": 2016
+            },
+            {
+                "visits": "0",
+                "total": 0,
+                "pcp": 0,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "1",
+                "total": 0,
+                "pcp": 0,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "2",
+                "total": 16,
+                "pcp": 16,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "3",
+                "total": 90,
+                "pcp": 83,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "4",
+                "total": 32,
+                "pcp": 28,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "5",
+                "total": 665,
+                "pcp": 605,
+                "month": 12,
+                "year": 2016
+            },
+            {
+                "visits": "6+",
+                "total": 1165,
+                "pcp": 1040,
+                "month": 12,
+                "year": 2016
+            }
+        ],
+        "wellChildHeadCircumference": [
+            {
+                "total": 52,
+                "zika": true,
+                "circumference": 30.8903844906734,
+                "age": 0,
+                "gender": "M"
+            },
+            {
+                "total": 4140,
+                "zika": false,
+                "circumference": 35.014492761916,
+                "age": 0,
+                "gender": "M"
+            },
+            {
+                "total": 3,
+                "zika": true,
+                "circumference": 34.2000007629395,
+                "age": 1,
+                "gender": "M"
+            },
+            {
+                "total": 254,
+                "zika": false,
+                "circumference": 37.7074802053256,
+                "age": 1,
+                "gender": "M"
+            },
+            {
+                "total": 7,
+                "zika": true,
+                "circumference": 36.3428579057966,
+                "age": 2,
+                "gender": "M"
+            },
+            {
+                "total": 483,
+                "zika": false,
+                "circumference": 39.4424430973535,
+                "age": 2,
+                "gender": "M"
+            },
+            {
+                "total": 4,
+                "zika": true,
+                "circumference": 37.7249994277954,
+                "age": 3,
+                "gender": "M"
+            },
+            {
+                "total": 664,
+                "zika": false,
+                "circumference": 40.7292168427663,
+                "age": 3,
+                "gender": "M"
+            },
+            {
+                "total": 6,
+                "zika": true,
+                "circumference": 36.8166669209798,
+                "age": 4,
+                "gender": "M"
+            },
+            {
+                "total": 692,
+                "zika": false,
+                "circumference": 41.9572253861179,
+                "age": 4,
+                "gender": "M"
+            },
+            {
+                "total": 10,
+                "zika": true,
+                "circumference": 40.2299999237061,
+                "age": 5,
+                "gender": "M"
+            },
+            {
+                "total": 658,
+                "zika": false,
+                "circumference": 42.7492401099857,
+                "age": 5,
+                "gender": "M"
+            },
+            {
+                "total": 7,
+                "zika": true,
+                "circumference": 40,
+                "age": 6,
+                "gender": "M"
+            },
+            {
+                "total": 647,
+                "zika": false,
+                "circumference": 43.4789799096227,
+                "age": 6,
+                "gender": "M"
+            },
+            {
+                "total": 4,
+                "zika": true,
+                "circumference": 38.5500001907349,
+                "age": 7,
+                "gender": "M"
+            },
+            {
+                "total": 804,
+                "zika": false,
+                "circumference": 44.2243781160952,
+                "age": 7,
+                "gender": "M"
+            },
+            {
+                "total": 9,
+                "zika": true,
+                "circumference": 40.4555553860135,
+                "age": 8,
+                "gender": "M"
+            },
+            {
+                "total": 825,
+                "zika": false,
+                "circumference": 44.6221818819913,
+                "age": 8,
+                "gender": "M"
+            },
+            {
+                "total": 13,
+                "zika": true,
+                "circumference": 42.8153850848858,
+                "age": 9,
+                "gender": "M"
+            },
+            {
+                "total": 1071,
+                "zika": false,
+                "circumference": 45.0981325528869,
+                "age": 9,
+                "gender": "M"
+            },
+            {
+                "total": 18,
+                "zika": true,
+                "circumference": 41.2333331637912,
+                "age": 10,
+                "gender": "M"
+            },
+            {
+                "total": 1289,
+                "zika": false,
+                "circumference": 45.5197052493217,
+                "age": 10,
+                "gender": "M"
+            },
+            {
+                "total": 16,
+                "zika": true,
+                "circumference": 42.6749999523163,
+                "age": 11,
+                "gender": "M"
+            },
+            {
+                "total": 1412,
+                "zika": false,
+                "circumference": 45.8616147162894,
+                "age": 11,
+                "gender": "M"
+            },
+            {
+                "total": 21,
+                "zika": true,
+                "circumference": 42.1761905125209,
+                "age": 12,
+                "gender": "M"
+            },
+            {
+                "total": 2065,
+                "zika": false,
+                "circumference": 46.2709443598048,
+                "age": 12,
+                "gender": "M"
+            },
+            {
+                "total": 20,
+                "zika": true,
+                "circumference": 42.814999961853,
+                "age": 13,
+                "gender": "M"
+            },
+            {
+                "total": 2208,
+                "zika": false,
+                "circumference": 46.5135416379873,
+                "age": 13,
+                "gender": "M"
+            },
+            {
+                "total": 25,
+                "zika": true,
+                "circumference": 43.6559997558594,
+                "age": 14,
+                "gender": "M"
+            },
+            {
+                "total": 2471,
+                "zika": false,
+                "circumference": 46.7935249269949,
+                "age": 14,
+                "gender": "M"
+            },
+            {
+                "total": 47,
+                "zika": true,
+                "circumference": 44.0787235016518,
+                "age": 15,
+                "gender": "M"
+            },
+            {
+                "total": 4573,
+                "zika": false,
+                "circumference": 46.9663022089495,
+                "age": 15,
+                "gender": "M"
+            }
+        ],
+        "wellChildMonthlyZikaVsHedis": [
+            {
+                "total": 42921,
+                "completed": 25815,
+                "percentageCompleted": 60.15,
+                "incomplete": 17106,
+                "zikaCases": 120,
+                "month": 1,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42926,
+                "completed": 25755,
+                "percentageCompleted": 60,
+                "incomplete": 17171,
+                "zikaCases": 144,
+                "month": 2,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42729,
+                "completed": 25635,
+                "percentageCompleted": 59.99,
+                "incomplete": 17094,
+                "zikaCases": 144,
+                "month": 3,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42407,
+                "completed": 25575,
+                "percentageCompleted": 60.31,
+                "incomplete": 16832,
+                "zikaCases": 104,
+                "month": 4,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42049,
+                "completed": 25425,
+                "percentageCompleted": 60.47,
+                "incomplete": 16624,
+                "zikaCases": 104,
+                "month": 5,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 41837,
+                "completed": 25335,
+                "percentageCompleted": 60.56,
+                "incomplete": 16502,
+                "zikaCases": 136,
+                "month": 6,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42015,
+                "completed": 25290,
+                "percentageCompleted": 60.19,
+                "incomplete": 16725,
+                "zikaCases": 120,
+                "month": 7,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42105,
+                "completed": 25200,
+                "percentageCompleted": 59.85,
+                "incomplete": 16905,
+                "zikaCases": 48,
+                "month": 8,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42291,
+                "completed": 25155,
+                "percentageCompleted": 59.48,
+                "incomplete": 17136,
+                "zikaCases": 32,
+                "month": 9,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 42159,
+                "completed": 25005,
+                "percentageCompleted": 59.31,
+                "incomplete": 17154,
+                "zikaCases": 104,
+                "month": 10,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 41971,
+                "completed": 24885,
+                "percentageCompleted": 59.29,
+                "incomplete": 17086,
+                "zikaCases": 40,
+                "month": 11,
+                "year": 2016,
+                "code": "W15"
+            },
+            {
+                "total": 41747,
+                "completed": 24780,
+                "percentageCompleted": 59.36,
+                "incomplete": 16967,
+                "zikaCases": 24,
+                "month": 12,
+                "year": 2016,
+                "code": "W15"
+            }
+        ],
+        "wellChildMonthlyZika": [
+            {
+                "total": 435,
+                "zika": 0,
+                "nonzika": 435,
+                "year": 2015,
+                "month": 1
+            },
+            {
+                "total": 1548,
+                "zika": 15,
+                "nonzika": 1533,
+                "year": 2016,
+                "month": 1
+            },
+            {
+                "total": 497,
+                "zika": 7,
+                "nonzika": 490,
+                "year": 2015,
+                "month": 2
+            },
+            {
+                "total": 1598,
+                "zika": 18,
+                "nonzika": 1580,
+                "year": 2016,
+                "month": 2
+            },
+            {
+                "total": 650,
+                "zika": 9,
+                "nonzika": 641,
+                "year": 2015,
+                "month": 3
+            },
+            {
+                "total": 1579,
+                "zika": 18,
+                "nonzika": 1561,
+                "year": 2016,
+                "month": 3
+            },
+            {
+                "total": 725,
+                "zika": 5,
+                "nonzika": 720,
+                "year": 2015,
+                "month": 4
+            },
+            {
+                "total": 1391,
+                "zika": 13,
+                "nonzika": 1378,
+                "year": 2016,
+                "month": 4
+            },
+            {
+                "total": 822,
+                "zika": 9,
+                "nonzika": 813,
+                "year": 2015,
+                "month": 5
+            },
+            {
+                "total": 1285,
+                "zika": 13,
+                "nonzika": 1272,
+                "year": 2016,
+                "month": 5
+            },
+            {
+                "total": 615,
+                "zika": 10,
+                "nonzika": 605,
+                "year": 2015,
+                "month": 6
+            },
+            {
+                "total": 1338,
+                "zika": 17,
+                "nonzika": 1321,
+                "year": 2016,
+                "month": 6
+            },
+            {
+                "total": 733,
+                "zika": 3,
+                "nonzika": 730,
+                "year": 2015,
+                "month": 7
+            },
+            {
+                "total": 1166,
+                "zika": 15,
+                "nonzika": 1151,
+                "year": 2016,
+                "month": 7
+            },
+            {
+                "total": 801,
+                "zika": 8,
+                "nonzika": 793,
+                "year": 2015,
+                "month": 8
+            },
+            {
+                "total": 1127,
+                "zika": 6,
+                "nonzika": 1121,
+                "year": 2016,
+                "month": 8
+            },
+            {
+                "total": 1035,
+                "zika": 13,
+                "nonzika": 1022,
+                "year": 2015,
+                "month": 9
+            },
+            {
+                "total": 900,
+                "zika": 4,
+                "nonzika": 896,
+                "year": 2016,
+                "month": 9
+            },
+            {
+                "total": 338,
+                "zika": 6,
+                "nonzika": 332,
+                "year": 2014,
+                "month": 10
+            },
+            {
+                "total": 1188,
+                "zika": 14,
+                "nonzika": 1174,
+                "year": 2015,
+                "month": 10
+            },
+            {
+                "total": 640,
+                "zika": 13,
+                "nonzika": 627,
+                "year": 2016,
+                "month": 10
+            },
+            {
+                "total": 354,
+                "zika": 2,
+                "nonzika": 352,
+                "year": 2014,
+                "month": 11
+            },
+            {
+                "total": 1060,
+                "zika": 14,
+                "nonzika": 1046,
+                "year": 2015,
+                "month": 11
+            },
+            {
+                "total": 523,
+                "zika": 5,
+                "nonzika": 518,
+                "year": 2016,
+                "month": 11
+            },
+            {
+                "total": 494,
+                "zika": 10,
+                "nonzika": 484,
+                "year": 2014,
+                "month": 12
+            },
+            {
+                "total": 1317,
+                "zika": 12,
+                "nonzika": 1305,
+                "year": 2015,
+                "month": 12
+            },
+            {
+                "total": 359,
+                "zika": 3,
+                "nonzika": 356,
+                "year": 2016,
+                "month": 12
+            }
+        ],
+        "wellChildWeight": [
+            {
+                "age": 0,
+                "weight": 2.5,
+                "total": 4140,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 0,
+                "weight": 2.52,
+                "total": 52,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 1,
+                "weight": 2.99,
+                "total": 254,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 1,
+                "weight": 3.09,
+                "total": 3,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 2,
+                "weight": 3.38,
+                "total": 483,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 2,
+                "weight": 3.42,
+                "total": 7,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 3,
+                "weight": 3.86,
+                "total": 4,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 3,
+                "weight": 4.17,
+                "total": 664,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 4,
+                "weight": 4.99,
+                "total": 692,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 4,
+                "weight": 5.28,
+                "total": 6,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 5,
+                "weight": 6.12,
+                "total": 10,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 5,
+                "weight": 6.16,
+                "total": 658,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 6,
+                "weight": 6.51,
+                "total": 647,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 6,
+                "weight": 6.52,
+                "total": 7,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 7,
+                "weight": 7.01,
+                "total": 4,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 7,
+                "weight": 7.23,
+                "total": 804,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 8,
+                "weight": 7.89,
+                "total": 825,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 8,
+                "weight": 8.03,
+                "total": 9,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 9,
+                "weight": 8.34,
+                "total": 1071,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 9,
+                "weight": 8.4,
+                "total": 13,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 10,
+                "weight": 9.08,
+                "total": 1289,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 10,
+                "weight": 9.14,
+                "total": 18,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 11,
+                "weight": 9.59,
+                "total": 16,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 11,
+                "weight": 9.6,
+                "total": 1412,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 12,
+                "weight": 10.06,
+                "total": 21,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 12,
+                "weight": 10.09,
+                "total": 2065,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 13,
+                "weight": 10.59,
+                "total": 2208,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 13,
+                "weight": 10.61,
+                "total": 20,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 14,
+                "weight": 11.34,
+                "total": 2471,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 14,
+                "weight": 11.38,
+                "total": 25,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 15,
+                "weight": 11.83,
+                "total": 47,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 15,
+                "weight": 11.95,
+                "total": 4573,
+                "zika": false,
+                "gender": "M"
+            }
+        ],
+        "wellChildLength": [
+            {
+                "age": 0,
+                "length": 49.46,
+                "total": 52,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 0,
+                "length": 50,
+                "total": 4140,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 1,
+                "length": 54.39,
+                "total": 254,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 1,
+                "length": 54.68,
+                "total": 3,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 2,
+                "length": 58.26,
+                "total": 483,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 2,
+                "length": 58.75,
+                "total": 7,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 3,
+                "length": 59.35,
+                "total": 4,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 3,
+                "length": 60.95,
+                "total": 664,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 4,
+                "length": 62.75,
+                "total": 6,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 4,
+                "length": 63.13,
+                "total": 692,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 5,
+                "length": 65.51,
+                "total": 658,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 5,
+                "length": 67.55,
+                "total": 10,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 6,
+                "length": 67.21,
+                "total": 647,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 6,
+                "length": 68.25,
+                "total": 7,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 7,
+                "length": 71.44,
+                "total": 804,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 7,
+                "length": 71.61,
+                "total": 4,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 8,
+                "length": 69.75,
+                "total": 9,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 8,
+                "length": 70.56,
+                "total": 825,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 9,
+                "length": 71.98,
+                "total": 1071,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 9,
+                "length": 72.06,
+                "total": 13,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 10,
+                "length": 72.82,
+                "total": 18,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 10,
+                "length": 73.28,
+                "total": 1289,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 11,
+                "length": 74.57,
+                "total": 1412,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 11,
+                "length": 74.68,
+                "total": 16,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 12,
+                "length": 75.69,
+                "total": 21,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 12,
+                "length": 75.75,
+                "total": 2065,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 13,
+                "length": 76.97,
+                "total": 2208,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 13,
+                "length": 77.07,
+                "total": 20,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 14,
+                "length": 77.66,
+                "total": 25,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 14,
+                "length": 77.95,
+                "total": 2471,
+                "zika": false,
+                "gender": "M"
+            },
+            {
+                "age": 15,
+                "length": 78.7,
+                "total": 47,
+                "zika": true,
+                "gender": "M"
+            },
+            {
+                "age": 15,
+                "length": 78.96,
+                "total": 4573,
+                "zika": false,
+                "gender": "M"
+            }
+        ]
+    }
+}

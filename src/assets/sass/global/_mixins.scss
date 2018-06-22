@@ -1,0 +1,109 @@
+//
+// Mixins
+// --------------------------------------------------
+
+// Remove Appearance
+@mixin remove-appearance() {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+// Remove User Select
+@mixin remove-user-select() {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+// No Border Radius
+@mixin no-border-radius {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+// Flex
+@mixin flex($shorthand) {
+    -webkit-flex: $shorthand;
+    -ms-flex: $shorthand;
+    flex: $shorthand; 
+}
+
+// Flex Display
+@mixin display-flex() {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+// Flex Direction
+@mixin flex-direction($direction) {
+    -webkit-flex-direction: $direction;
+    -ms-flex-direction: $direction;
+    flex-direction: $direction;
+}
+
+// Remove Default Button Styles
+@mixin reset-form-element-styles {
+    @include remove-appearance();
+    @include remove-user-select();
+    padding: 0;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+
+// Border Radius
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    border-radius: $radius;
+}
+
+// Icon Fonts
+@mixin icon-font() {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-transform: none;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+// SVG background images with PNG and retina fallback
+$image-path: '../images' !default;
+$bitmap-extension: 'png' !default;
+$retina-suffix: '2x';
+@mixin background-image($name, $svg:false){
+    @if($svg) {
+        background-image: url(#{$image-path}/#{$name}.svg);
+    } @else {
+        background-image: url(#{$image-path}/#{$name}.#{$bitmap-extension});
+
+        @media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+          background-image: url(#{$image-path}/#{$name}#{$retina-suffix}.#{$bitmap-extension});
+        }
+    }
+}
+
+// Linear Gradient
+@mixin horizontalGradient($left, $right) {
+    background: $left; /* Old browsers */
+    background: -moz-linear-gradient(left, $left 0%, $right 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, $left 0%, $right 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, $left 0%, $right 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$left, endColorstr=$right, GradientType=1 ); /* IE6-9 */
+}
+
+@mixin verticalGradient($top, $bottom) {
+    background: $top; /* Old browsers */
+    background: -moz-linear-gradient(top,  $top 0%, $bottom 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, $top), color-stop(100%, $bottom)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  $top 0%, $bottom 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  $top 0%, $bottom 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  $top 0%, $bottom 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  $top 0%, $bottom 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$top, endColorstr=$bottom, GradientType=0 ); /* IE6-9 */
+}

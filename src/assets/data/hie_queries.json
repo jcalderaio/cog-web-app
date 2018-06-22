@@ -1,0 +1,4286 @@
+[
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 4095
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 4002
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 3641
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 2895
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 3301
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 2417
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 2549
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 4529
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 2906
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 4494
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 4080
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 4067
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 3311
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 2870
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 4185
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 2698
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 5241
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 3488
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 3515
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 3063
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 4248
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 3832
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 3990
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 4254
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 4225
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 4832
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 5762
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 3704
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 3231
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 5117
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 4231
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 4323
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 6335
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 6293
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 4279
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 5109
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 3861
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 4372
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 5600
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 6995
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 6982
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 5739
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 5306
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 7553
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 6054
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 7383
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 5178
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 4584
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 6669
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 6896
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 7589
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 4945
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 8143
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 7929
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 5695
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 6092
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 5415
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 4609
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 7702
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 5667
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 5260
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 5189
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 7471
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 8148
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 5905
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 9618
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 5363
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 8565
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 6873
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 9689
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 6056
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 6890
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 6787
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 9086
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 7891
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 6818
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 8240
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 6972
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 9958
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 9777
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 11554
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 8269
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 8559
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 6449
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 6453
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 6812
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 9870
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 11951
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 9179
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 10502
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 11715
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 12190
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 12694
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 7381
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 8494
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 10224
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 8488
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 9006
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 11197
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 12016
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 9634
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 10264
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 13706
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 13683
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 13217
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 11835
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 8171
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 7946
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 11094
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 8694
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 7973
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 13755
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 9563
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 10529
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 10615
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 15233
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 10193
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 12732
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 11802
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 10926
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 11991
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 10760
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 11852
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 8910
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 11304
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 16031
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 12614
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 9080
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 13223
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 14487
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 11405
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 12520
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 9683
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 11029
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 12379
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 12289
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 16697
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 15668
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 10510
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 10050
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 12503
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 12952
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 17791
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 18150
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 17169
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 18883
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 13673
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 16081
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 11812
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 13311
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 17049
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 13671
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 16342
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 21575
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 15668
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 11247
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 15571
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 18018
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 12083
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 20071
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 18711
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 21842
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 17934
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 20519
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 13104
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 17833
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 19126
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 13404
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 22839
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 14998
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 18519
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 21249
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 14086
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 13511
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 22990
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 13183
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 24408
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 15235
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 15451
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 23137
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 25735
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 14313
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 24612
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 20737
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 23051
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 14164
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 23982
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 18564
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 15019
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 25365
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 26523
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 25710
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 1,
+      "metric" : "query",
+      "value" : 23190
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 2,
+      "metric" : "query",
+      "value" : 15250
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 3,
+      "metric" : "query",
+      "value" : 22669
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 4,
+      "metric" : "query",
+      "value" : 22724
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 5,
+      "metric" : "query",
+      "value" : 21039
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 6,
+      "metric" : "query",
+      "value" : 15512
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 7,
+      "metric" : "query",
+      "value" : 27512
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 8,
+      "metric" : "query",
+      "value" : 23133
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 9,
+      "metric" : "query",
+      "value" : 24859
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 10,
+      "metric" : "query",
+      "value" : 26331
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 11,
+      "metric" : "query",
+      "value" : 15624
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 12,
+      "metric" : "query",
+      "value" : 26997
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 1973
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 2082
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 1773
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 2216
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 2082
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 2087
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 2046
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 2267
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 1972
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 2058
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 2286
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 2228
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 2424
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 2187
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 2388
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 2480
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 2629
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 2718
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 2796
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 2675
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 2325
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 2708
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 2444
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 2536
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 2584
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 2517
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 3034
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 2568
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 2925
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 2966
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 3073
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 3066
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 3201
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 2794
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 3408
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 2939
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 2927
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 3585
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 3241
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 3318
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 3163
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 3512
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 3712
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 3726
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 3609
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 3950
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 3570
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 3315
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 3486
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 3757
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 4176
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 4074
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 3826
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 3728
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 3768
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 3719
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 3843
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 3814
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 4370
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 3959
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 4632
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 3906
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 4284
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 4117
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 4149
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 4736
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 4838
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 4392
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 4426
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 4457
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 4851
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 5298
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 5011
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 4952
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 4936
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 4754
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 5621
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 4829
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 5040
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 5389
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 5742
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 5586
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 5038
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 5015
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 5108
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 5904
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 5730
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 5761
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 5751
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 5586
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 6193
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 5380
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 6619
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 5462
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 5985
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 5876
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 6205
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 6638
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 6699
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 6628
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 6626
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 6104
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 6577
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 7034
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 6536
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 6375
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 6626
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 6958
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 6898
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 6597
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 6293
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 7782
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 6409
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 7153
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 7553
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 7463
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 8105
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 6704
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 8197
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 7752
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 8285
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 8151
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 8328
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 7505
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 8171
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 8620
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 7162
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 7522
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 7639
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 7437
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 8698
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 8262
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 8933
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 9429
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 9368
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 8297
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 8178
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 8681
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 9139
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 8246
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 8105
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 9474
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 8851
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 8423
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 8964
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 9945
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 10152
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 10339
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 10021
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 10262
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 10028
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 10096
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 10568
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 10592
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 10064
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 9652
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 10194
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 9664
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 11328
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 9300
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 9756
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 10725
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 10257
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 9885
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 9870
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 11718
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 10504
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 11041
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 10380
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 10529
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 11124
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 12489
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 12228
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 11437
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 12199
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 11461
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 10353
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 11420
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 11488
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 11531
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 11908
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 10871
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 10769
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 11492
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 13610
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 12085
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 12231
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 12736
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 11798
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 11726
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 13668
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 11614
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 1,
+      "metric" : "query-no-result",
+      "value" : 12347
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 2,
+      "metric" : "query-no-result",
+      "value" : 13691
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 3,
+      "metric" : "query-no-result",
+      "value" : 13756
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 4,
+      "metric" : "query-no-result",
+      "value" : 14286
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 5,
+      "metric" : "query-no-result",
+      "value" : 11988
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 6,
+      "metric" : "query-no-result",
+      "value" : 11910
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 7,
+      "metric" : "query-no-result",
+      "value" : 13061
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 8,
+      "metric" : "query-no-result",
+      "value" : 13096
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 9,
+      "metric" : "query-no-result",
+      "value" : 15107
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 10,
+      "metric" : "query-no-result",
+      "value" : 12671
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 11,
+      "metric" : "query-no-result",
+      "value" : 13314
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 12,
+      "metric" : "query-no-result",
+      "value" : 14569
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 263
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 336
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 325
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 269
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 246
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 267
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 306
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 398
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 340
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 311
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 389
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2000,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 366
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 355
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 301
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 407
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 396
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 380
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 283
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 282
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 450
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 399
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 395
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 322
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2001,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 489
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 518
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 302
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 480
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 442
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 377
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 590
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 576
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 550
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 581
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 381
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 459
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2002,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 528
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 362
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 423
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 689
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 504
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 498
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 437
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 434
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 418
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 561
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 522
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 694
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2003,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 646
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 659
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 680
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 620
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 793
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 600
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 564
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 529
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 595
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 682
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 476
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 528
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2004,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 582
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 834
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 795
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 586
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 881
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 826
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 626
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 815
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 517
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 801
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 696
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 756
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2005,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 716
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 962
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 712
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 719
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 972
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1057
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1041
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 548
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 660
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 939
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1091
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 891
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2006,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1038
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1053
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 794
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1121
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 730
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 818
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1034
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1055
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 976
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 950
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 986
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1201
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2007,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 759
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1201
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 929
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 888
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1228
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1341
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 826
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1065
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1114
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1236
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1103
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1166
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2008,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1207
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1436
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1270
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1274
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1237
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1477
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1445
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1136
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 821
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1174
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1431
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1462
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2009,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 950
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 902
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1311
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1313
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1241
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 831
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1227
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 920
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 885
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1274
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1453
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 894
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2010,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1407
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1452
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1294
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1269
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1657
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1029
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1508
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1611
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1445
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1369
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1652
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1515
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2011,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1436
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1681
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1491
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1895
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 996
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1585
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1257
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1312
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1731
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1742
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1619
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1657
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2012,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1562
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1475
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1324
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1877
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1828
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1298
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1284
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1127
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1878
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1719
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1685
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1765
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2013,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1594
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1998
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1963
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1419
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1423
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1347
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1813
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 2270
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1615
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1654
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1956
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 1398
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2014,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 1528
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 1654
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1554
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 1491
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 2090
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1904
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 2217
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1685
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 1587
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 2284
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 2175
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 2232
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2015,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 2478
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 1,
+      "metric" : "submissions",
+      "value" : 2497
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 2,
+      "metric" : "submissions",
+      "value" : 1642
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 3,
+      "metric" : "submissions",
+      "value" : 2685
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 4,
+      "metric" : "submissions",
+      "value" : 1726
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 5,
+      "metric" : "submissions",
+      "value" : 1914
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 6,
+      "metric" : "submissions",
+      "value" : 1905
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 7,
+      "metric" : "submissions",
+      "value" : 1995
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 8,
+      "metric" : "submissions",
+      "value" : 2262
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 9,
+      "metric" : "submissions",
+      "value" : 1456
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 10,
+      "metric" : "submissions",
+      "value" : 1727
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 11,
+      "metric" : "submissions",
+      "value" : 2626
+    },
+    {
+      "tenant" : "demo",
+      "year" : 2016,
+      "month" : 12,
+      "metric" : "submissions",
+      "value" : 2005
+    }
+]

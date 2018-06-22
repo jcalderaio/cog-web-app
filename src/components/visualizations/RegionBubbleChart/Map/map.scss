@@ -1,0 +1,13 @@
+//
+// Region Bubble Chart Map
+// --------------------------------------------------
+
+.hit-detection {
+  fill: transparent;
+}
+
+// Hack. There's a bug with the map labeling that needs to be fixed.
+// <text> elements are appended directly to <html> for some reason.
+html > text {
+  display: none;
+}

@@ -1,0 +1,260 @@
+{
+  "notes": "demo data for MIPS-226",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"MIPS-226\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 1,
+        "completed": 54252,
+        "total": 87673
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 2,
+        "completed": 59847,
+        "total": 93038
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 3,
+        "completed": 53887,
+        "total": 77298
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 4,
+        "completed": 62921,
+        "total": 94378
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 5,
+        "completed": 62698,
+        "total": 85849
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 6,
+        "completed": 60585,
+        "total": 88158
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 7,
+        "completed": 70752,
+        "total": 85664
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 8,
+        "completed": 59508,
+        "total": 75366
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 9,
+        "completed": 60164,
+        "total": 75199
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 10,
+        "completed": 62165,
+        "total": 88836
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 11,
+        "completed": 59512,
+        "total": 77407
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2015,
+        "month": 12,
+        "completed": 69358,
+        "total": 77448
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 1,
+        "completed": 47031,
+        "total": 75134
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 2,
+        "completed": 55704,
+        "total": 91476
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 3,
+        "completed": 55161,
+        "total": 87246
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 4,
+        "completed": 68421,
+        "total": 94135
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 5,
+        "completed": 80041,
+        "total": 92332
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 6,
+        "completed": 56764,
+        "total": 75178
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 7,
+        "completed": 70034,
+        "total": 81884
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 8,
+        "completed": 63793,
+        "total": 86193
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 9,
+        "completed": 58967,
+        "total": 90224
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 10,
+        "completed": 72550,
+        "total": 89917
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 11,
+        "completed": 73129,
+        "total": 87739
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2016,
+        "month": 12,
+        "completed": 65110,
+        "total": 94855
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 1,
+        "completed": 66811,
+        "total": 78454
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 2,
+        "completed": 60436,
+        "total": 92424
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 3,
+        "completed": 74685,
+        "total": 91296
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 4,
+        "completed": 73550,
+        "total": 88637
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 5,
+        "completed": 57129,
+        "total": 90017
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 6,
+        "completed": 59409,
+        "total": 92667
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 7,
+        "completed": 68466,
+        "total": 87703
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 8,
+        "completed": 51723,
+        "total": 80824
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 9,
+        "completed": 80797,
+        "total": 91875
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 10,
+        "completed": 54719,
+        "total": 84608
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 11,
+        "completed": 55329,
+        "total": 87815
+      },
+      {
+        "code": "MIPS-226",
+        "year": 2017,
+        "month": 12,
+        "completed": 72648,
+        "total": 84249
+      }
+    ]
+  }
+}

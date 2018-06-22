@@ -1,0 +1,188 @@
+//
+// Widget
+// --------------------------------------------------
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+// super handy for charts so as the things are dragged, resize, perhaps the brush is moved...
+// things don't get highlighted on a chart or a label or an axis.
+.unselectable {
+  -webkit-touch-callout: none;
+  @include user-select(none);
+}
+
+// General widget styles
+// (inner container - safe to apply borders, padding, margin, etc. here as to not mess up the grid)
+.widget {
+  border: 0;
+  border-top: 12px solid #c9cacd;
+  padding: 8px;
+  background: #fff;
+  color: #222;
+  -webkit-box-shadow: 1px 1px 6px rgba(0,0,0,.25);
+  box-shadow: 1px 1px 6px rgba(0,0,0,.25);
+}
+
+.widget-title {
+  display: inline-block;
+  width: 70%;
+
+  h2 {
+    font-size: 1.5em;
+    margin: 0 8px 0 0;
+    color: #111;
+  }
+  h3 {
+    font-family: 'Source Sans Pro' ,'Helvetica Neue' ,'Helvetica', 'Roboto', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 8px 0 0;
+    color: $gray-dark;
+  }
+}
+
+.widget-header {
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+  
+
+  h4 {
+    font-size: 16px;
+    color: #777;
+    margin-top: 2px;
+  }
+
+  .widget-controls {
+    // position: absolute;
+    // top: 10px;
+    // right: 5px;
+    position: relative;
+    float: right;
+    // width: 75px;
+    width: 30%;
+    cursor: pointer;
+    text-align: right;
+
+    a {
+      color: #5C616A;
+    }
+    a:hover {
+      color: $brand-primary;
+    }
+  }
+
+  .widget-control {
+    color: #5C616A;
+    margin-left: 6px;
+  }
+  .widget-control:hover {
+    color: $brand-primary;
+  }
+}
+
+.widget-info-panel {
+  background: $gray-darker;
+  color: #fff;
+  width: 100%;
+  // opacity: 0.9;
+  margin: 0;
+  z-index: 100;
+  position: fixed;
+  top: 42px;
+  left: 0;
+  bottom: 0;
+  padding-top: 0;
+
+  .close-info-panel {
+    text-align: right;
+    color: #fff;
+    width: 100%;
+    display: block;
+    margin: 0;
+    padding: 5px 5px 0px 0;
+    text-decoration: none;
+  }
+  .close-info-panel:hover {
+    color: $brand-primary;
+  }
+
+  .widget-info-panel-body {
+    overflow-y: auto;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    padding-top: 5px;
+  }
+}
+.widget-info-panel.dark {
+  background: $gray-darker;
+  color: #fff;
+}
+.widget-info-panel.light {
+  background: #fff;
+  color: #555;
+  border-top: 1px solid #C9CACD;
+  border-bottom: 1px solid #C9CACD;
+
+  h1, h2, h3, h4 {
+    color: $gray-dark;
+  }
+
+  .close-info-panel {
+    color: $gray;
+  }
+  .close-info-panel:hover {
+    color: $brand-primary;
+  }
+}
+
+
+.widget-content,
+.widget-chart {
+  clear: left;
+  margin-top: 4px;
+  display: block;
+  width: 100%;
+}
+
+// Common chart styles within widgets
+h4.legend-label {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  margin: 0 auto;
+  color: #555;
+}
+
+h5.legend-label,
+span.recharts-legend-item-text {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #777;
+}
+
+.legend-horizontal {
+  width: 100%;
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+.legend-horizontal-item {
+  text-align: left;
+  margin: 0 auto;
+  padding-right: 8px;
+  display: inline-block;
+}
+
+// Widget buttons
+.icon-button,
+.clear-button {
+  border: 0;
+  background: none;
+  outline: 0;
+}

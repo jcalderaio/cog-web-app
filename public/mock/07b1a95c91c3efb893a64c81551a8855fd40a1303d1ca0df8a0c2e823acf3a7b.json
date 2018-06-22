@@ -1,0 +1,260 @@
+{
+  "notes": "demo data for MIPS-431",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"MIPS-431\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 1,
+        "completed": 67464,
+        "total": 90736
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 2,
+        "completed": 47425,
+        "total": 75959
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 3,
+        "completed": 75980,
+        "total": 86300
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 4,
+        "completed": 80524,
+        "total": 90411
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 5,
+        "completed": 50729,
+        "total": 83448
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 6,
+        "completed": 63855,
+        "total": 84371
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 7,
+        "completed": 61306,
+        "total": 79538
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 8,
+        "completed": 65807,
+        "total": 91718
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 9,
+        "completed": 51396,
+        "total": 75717
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 10,
+        "completed": 55412,
+        "total": 85465
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 11,
+        "completed": 56474,
+        "total": 86112
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2015,
+        "month": 12,
+        "completed": 62550,
+        "total": 82615
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 1,
+        "completed": 59259,
+        "total": 75066
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 2,
+        "completed": 51189,
+        "total": 82869
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 3,
+        "completed": 57023,
+        "total": 90935
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 4,
+        "completed": 76817,
+        "total": 94482
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 5,
+        "completed": 67536,
+        "total": 91574
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 6,
+        "completed": 74668,
+        "total": 85842
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 7,
+        "completed": 68307,
+        "total": 87248
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 8,
+        "completed": 56377,
+        "total": 78818
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 9,
+        "completed": 67942,
+        "total": 82419
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 10,
+        "completed": 58458,
+        "total": 88653
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 11,
+        "completed": 49642,
+        "total": 79789
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2016,
+        "month": 12,
+        "completed": 70524,
+        "total": 89675
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 1,
+        "completed": 77951,
+        "total": 92561
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 2,
+        "completed": 51580,
+        "total": 78645
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 3,
+        "completed": 67788,
+        "total": 79842
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 4,
+        "completed": 67150,
+        "total": 82397
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 5,
+        "completed": 74817,
+        "total": 88800
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 6,
+        "completed": 78305,
+        "total": 89816
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 7,
+        "completed": 70014,
+        "total": 91084
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 8,
+        "completed": 74034,
+        "total": 93669
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 9,
+        "completed": 55726,
+        "total": 89550
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 10,
+        "completed": 70538,
+        "total": 79102
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 11,
+        "completed": 70332,
+        "total": 83443
+      },
+      {
+        "code": "MIPS-431",
+        "year": 2017,
+        "month": 12,
+        "completed": 67795,
+        "total": 88638
+      }
+    ]
+  }
+}

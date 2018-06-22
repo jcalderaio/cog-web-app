@@ -1,0 +1,98 @@
+{
+  "notes": "This data set contains demo meta data for HEDIS measures (descriptions, etc.)",
+  "collapsedQuery": "{hedisMeta{codenamedescription}}",
+  "data": {
+    "hedisMeta": [
+      {
+        "code": "CERCS",
+        "name": "Cervical Cancer Screening",
+        "description": "<p>\nThis measure is used to assess the percentage of women 21 to 64 years of age who were screened for cervical cancer using either of the following criteria:\n<ul>\n<li>Women age 21 to 64 who had cervical cytology performed every 3 years.</li>\n<li>Women age 30 to 64 who had cervical cytology/human papillomavirus (HPV) co-testing performed every 5 years.</li>\n</ul>\n</p>\n<p>\n<a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/50439\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "BCS",
+        "name": "Breast Cancer Screening",
+        "description": "<p>This measure is used to assess the percentage of women 50 to 74 years of age who had a mammogram to screen for breast cancer.</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/48809\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "AWCV",
+        "name": "Adolescent Well-Care Visits",
+        "description": "<p>\nThis measure is used to assess the percentage of enrolled members 12 to 21 years of age who had at least one comprehensive well-care visit with a primary care practitioner (PCP) or an obstetrics and gynecology (OB/GYN) practitioner during the measurement year.\n</p>\n<p>\n<a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49821\" target=\"_blank\">[More Info]</a>\n</p>"
+      },
+      {
+        "code": "CIS",
+        "name": "Childhood Immunization Status",
+        "description": "<p>This measure is used to assess the percentage of children who turn two years of age during the measurement year who had four diphtheria, tetanus, and acellular pertussis (DTaP); three polio (IPV); one measles, mumps, and rubella (MMR); three haemophilus influenza type B (HiB); three hepatitis B (HepB); one chicken pox (VZV); four pneumococcal conjugate (PCV); one hepatitis A (HepA); two or three rotavirus (RV); and two influenza (flu) vaccines by their second birthday.\n</p>\n<p>\nThe Childhood Immunization Status (CIS) measure calculates a rate for each vaccine and nine separate combination rates. This measure summary represents the overall rate (combination #10).</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49692\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "PPC",
+        "name": "Prenatal and Postpartum Care",
+        "description": "<p>\nThis measure is used to assess the percentage of deliveries between November 6 of the year prior to the measurement year and November 5 of the measurement year that had a postpartum visit on or between 21 and 56 days after delivery.\n</p>\n<p>\nThis measure is a component of a composite measure; it can also be used on its own. See the related National Quality Measures Clearinghouse (NQMC) summary of the National Committee for Quality Assurance (NCQA) measure Timeliness of prenatal care: percentage of deliveries that received a prenatal care visit as a member of the organization in the first trimester or within 42 days of enrollment in the organization.\n</p>\n<p>\n<a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49780\" target=\"_blank\">[More Info]</a>\n</p>"
+      },
+      {
+        "code": "CRCS",
+        "name": "Colorectal Cancer Screening",
+        "description": "<p>\nThis measure is used to assess the percentage of members 50 to 75 years of age who had appropriate screening for colorectal cancer.\n</p>\n<p>\n<a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/50440\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "ADMM",
+        "name": "Antidepressant Medication Management",
+        "description": "<p>This measure is used to assess the percentage of members 18 years of age and older who were treated with antidepressant medication, had a diagnosis of major depression and who remained on an antidepressant medication for at least 180 days (6 months).\n</p>\n<p>\nSee the related National Quality Measures Clearinghouse (NQMC) summary of the National Committee for Quality Assurance (NCQA) measure Antidepressant medication management (effective acute phase treatment): percentage of members 18 years of age and older who were treated with antidepressant medication, had a diagnosis of major depression and who remained on an antidepressant medication for at least 84 days (12 weeks).</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49730\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "COA",
+        "name": "Care for Older Adults",
+        "description": "<p>\nThis measure is used to assess the percentage of adults 66 years and older who had a medication review during the measurement year.\n</p>\n<p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/48813\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "WACNPACA",
+        "name": "Weight Assessment and Counseling for Nutrition and Physical Activity for Children/Adolescents",
+        "description": "<p>This measure is used to assess the percentage of members 3 to 17 years of age who had an outpatient visit with a primary care practitioner (PCP) or obstetrician/gynecologist (OB/GYN) and who had evidence of counseling for physical activity during the measurement year.</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49691\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "CDC",
+        "name": "Comprehensive Diabetes Care",
+        "description": "<p>This measure is used to assess the percentage of members 18 to 75 years of age with diabetes (type 1 and type 2) whose most recent hemoglobin A1c (HbA1c) level is greater than 9.0% (poorly controlled).\n</p>\n<p>\nThis measure is a component of the Comprehensive Diabetes Care composite measure—one of 7 different rates—looking at how well an organization cares for the common and serious chronic disease of diabetes.</p>\n<p>\nThe denominator for all rates must be the same, with the exception of HbA1c control (less than 7.0%) for a selected population.</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49717\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "BMI",
+        "name": "Adult BMI Assessment",
+        "description": "<p>This measure is used to assess the percentage of patients 18 to 74 years of age who had an outpatient visit and whose body mass index (BMI) was documented during the measurement year or the year prior to the measurement year.</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/48797\" target=\"_blank\">[More Info]</p>"
+      },
+      {
+        "code": "W15",
+        "name": "Well-Child Visits in the First 15 Months of Life",
+        "description": "<p>This measure looks at the adequacy of well-child care for infants. It measures the percentage of children who had one, two, three, four, five, six or more well-child visits by the time they turned 15 months of age. </p><p></p> Regular check-ups are one of the best ways to detect physical, developmental, behavioral and emotional problems. They also provide an opportunity for the clinician to offer guidance and counseling to the parents. <p>These visits are of particular importance during the first year of life, when an infant undergoes substantial changes in abilities, physical growth, motor skills, hand-eye coordination and social and emotional growth. The American Academy of Pediatrics (AAP) recommends six well-child visits in the first year of life: the first within the first month of life, and then at around 2, 4, 6, 9, and 12 months of age.</p><p><a href=\"https://www.qualitymeasures.ahrq.gov/summaries/summary/49819\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "MIPS-236",
+        "name": "Controlling High Blood Pressure",
+        "description": "<p>This measure is used to assess the percentage of patients 18-85 years of age who had a diagnosis of hypertension and whose blood pressure was adequately controlled (<140/90mmHg) during the measurement period.</p><p><a href=\"https://ecqi.healthit.gov/ecqm/measures/cms165v5\" target=\"_blank\">[More Info]</a></p>"
+      },      
+      {
+        "code": "MIPS-374",
+        "name": "Closing the Referral Loop: Receipt of Specialist Report",
+        "description": "<p>This measure is used to assess the percentage of patients with referrals, regardless of age, for which the referring provider receives a report from the provider to whom the patient was referred.</p><p><a href=\"https://ecqi.healthit.gov/ecqm/measures/cms050v6\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "MIPS-006",
+        "name": "Coronary Artery Disease (CAD): Antiplatelet Therapy",
+        "description": "<p>This measure is used to assess the percentage of patients aged 18 years and older with a diagnosis of coronary artery disease (CAD) seen within a 12 month period who were prescribed aspirin or clopidogrel.</p><p><a href=\"https://pqrs.cms.gov/download/ieua-kzhf/application%2Fpdf\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "MIPS-128",
+        "name": "Preventive Care and Screening: Body Mass Index (BMI) Screening and Follow-Up Plan",
+        "description": "<p>This measure is used to assess the percentage of patients aged 18 years and older with a BMI documented during the current encounter or during the previous twelve months AND with a BMI outside of normal parameters, a follow-up plan is documented during the encounter or during the previous twelve months of the current encounter.</p><p><a href=\"https://ecqi.healthit.gov/ecqm/measures/cms069v5\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "MIPS-226",
+        "name": "Preventive Care and Screening: Tobacco Use: Screening and Cessation Intervention",
+        "description": "<p>This measure is used to assess the percentage of patients aged 18 years and older who were screened for tobacco use one or more times within 24 months AND who received cessation counseling intervention if identified as a tobacco user.</p><p><a href=\"https://ecqi.healthit.gov/ecqm/measures/cms138v5\" target=\"_blank\">[More Info]</a></p>"
+      },
+      {
+        "code": "MIPS-431",
+        "name": "Preventive Care and Screening: Unhealthy Alcohol Use: Screening & Brief Counseling",
+        "description": "<p>This measure is used to assess the percentage of patients aged 18 years and older who were screened for unhealthy alcohol use using a systematic screening method at least once within the last 24 months AND who received brief counseling if identified as an unhealthy alcohol user.</p><p><a href=\"https://pqrs.cms.gov/download/xaip-bz3j/application%2Fpdf\" target=\"_blank\">[More Info]</a></p>"
+      }
+    ]
+  }
+}

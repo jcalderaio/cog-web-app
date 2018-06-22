@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS data for COA",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"COA\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 1,
+        "total": 508364,
+        "completed": 296699
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 1,
+        "total": 523613,
+        "completed": 405491
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 1,
+        "total": 538865,
+        "completed": 414285
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 1,
+        "total": 554106,
+        "completed": 403073
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 2,
+        "total": 509634,
+        "completed": 297430
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 2,
+        "total": 524880,
+        "completed": 406219
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 2,
+        "total": 540117,
+        "completed": 415007
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 2,
+        "total": 555360,
+        "completed": 403794
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 3,
+        "total": 495653,
+        "completed": 289369
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 3,
+        "total": 511002,
+        "completed": 298220
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 3,
+        "total": 526347,
+        "completed": 407068
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 3,
+        "total": 541501,
+        "completed": 415803
+      },
+      {
+        "code": "COA",
+        "year": 2017,
+        "month": 3,
+        "total": 556627,
+        "completed": 404526
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 4,
+        "total": 496940,
+        "completed": 290113
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 4,
+        "total": 512184,
+        "completed": 298901
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 4,
+        "total": 527420,
+        "completed": 407683
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 4,
+        "total": 542665,
+        "completed": 416475
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 5,
+        "total": 498213,
+        "completed": 290846
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 5,
+        "total": 513453,
+        "completed": 299632
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 5,
+        "total": 528704,
+        "completed": 408425
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 5,
+        "total": 543952,
+        "completed": 417216
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 6,
+        "total": 499491,
+        "completed": 293582
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 6,
+        "total": 514749,
+        "completed": 410379
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 6,
+        "total": 529988,
+        "completed": 419166
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 6,
+        "total": 545229,
+        "completed": 417952
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 7,
+        "total": 500768,
+        "completed": 295318
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 7,
+        "total": 515985,
+        "completed": 414094
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 7,
+        "total": 531252,
+        "completed": 409895
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 7,
+        "total": 546540,
+        "completed": 428708
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 8,
+        "total": 502014,
+        "completed": 293036
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 8,
+        "total": 517247,
+        "completed": 401820
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 8,
+        "total": 532511,
+        "completed": 410621
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 8,
+        "total": 547744,
+        "completed": 419402
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 9,
+        "total": 503332,
+        "completed": 293797
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 9,
+        "total": 518564,
+        "completed": 412579
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 9,
+        "total": 533822,
+        "completed": 413376
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 9,
+        "total": 549049,
+        "completed": 400155
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 10,
+        "total": 504556,
+        "completed": 294504
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 10,
+        "total": 519787,
+        "completed": 403284
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 10,
+        "total": 535052,
+        "completed": 412087
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 10,
+        "total": 550286,
+        "completed": 400869
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 11,
+        "total": 505881,
+        "completed": 295269
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 11,
+        "total": 521097,
+        "completed": 404039
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 11,
+        "total": 536299,
+        "completed": 412805
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 11,
+        "total": 551579,
+        "completed": 401613
+      },
+      {
+        "code": "COA",
+        "year": 2013,
+        "month": 12,
+        "total": 507118,
+        "completed": 295981
+      },
+      {
+        "code": "COA",
+        "year": 2014,
+        "month": 12,
+        "total": 522360,
+        "completed": 404767
+      },
+      {
+        "code": "COA",
+        "year": 2015,
+        "month": 12,
+        "total": 537598,
+        "completed": 413556
+      },
+      {
+        "code": "COA",
+        "year": 2016,
+        "month": 12,
+        "total": 552853,
+        "completed": 402349
+      }
+    ]
+  }
+}

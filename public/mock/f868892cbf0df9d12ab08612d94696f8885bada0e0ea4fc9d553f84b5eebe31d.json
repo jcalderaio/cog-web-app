@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS measures for AWCV",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"AWCV\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 1,
+        "total": 536404,
+        "completed": 312550
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 1,
+        "total": 522189,
+        "completed": 304200
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 1,
+        "total": 507987,
+        "completed": 295858
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 1,
+        "total": 493771,
+        "completed": 287509
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 2,
+        "total": 535219,
+        "completed": 311854
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 2,
+        "total": 520996,
+        "completed": 303500
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 2,
+        "total": 506786,
+        "completed": 295152
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 2,
+        "total": 492582,
+        "completed": 286811
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 3,
+        "total": 548227,
+        "completed": 319495
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 3,
+        "total": 534105,
+        "completed": 311199
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 3,
+        "total": 519989,
+        "completed": 302906
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 3,
+        "total": 505684,
+        "completed": 294505
+      },
+      {
+        "code": "AWCV",
+        "year": 2017,
+        "month": 3,
+        "total": 491390,
+        "completed": 286109
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 4,
+        "total": 547049,
+        "completed": 318801
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 4,
+        "total": 532846,
+        "completed": 310460
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 4,
+        "total": 518634,
+        "completed": 302112
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 4,
+        "total": 504414,
+        "completed": 293759
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 5,
+        "total": 545876,
+        "completed": 318113
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 5,
+        "total": 531662,
+        "completed": 309762
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 5,
+        "total": 517458,
+        "completed": 301419
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 5,
+        "total": 503243,
+        "completed": 293073
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 6,
+        "total": 544705,
+        "completed": 317424
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 6,
+        "total": 530490,
+        "completed": 309077
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 6,
+        "total": 516280,
+        "completed": 300729
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 6,
+        "total": 502071,
+        "completed": 292383
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 7,
+        "total": 543515,
+        "completed": 316727
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 7,
+        "total": 529282,
+        "completed": 308365
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 7,
+        "total": 515095,
+        "completed": 300033
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 7,
+        "total": 500908,
+        "completed": 291698
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 8,
+        "total": 542310,
+        "completed": 316018
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 8,
+        "total": 528114,
+        "completed": 307679
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 8,
+        "total": 513897,
+        "completed": 299329
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 8,
+        "total": 499694,
+        "completed": 290988
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 9,
+        "total": 541166,
+        "completed": 315345
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 9,
+        "total": 526946,
+        "completed": 306994
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 9,
+        "total": 512745,
+        "completed": 298653
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 9,
+        "total": 498525,
+        "completed": 290299
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 10,
+        "total": 539938,
+        "completed": 314626
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 10,
+        "total": 525734,
+        "completed": 306281
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 10,
+        "total": 511519,
+        "completed": 297933
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 10,
+        "total": 497324,
+        "completed": 289594
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 11,
+        "total": 538810,
+        "completed": 313963
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 11,
+        "total": 524582,
+        "completed": 305607
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 11,
+        "total": 510333,
+        "completed": 297236
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 11,
+        "total": 496161,
+        "completed": 288911
+      },
+      {
+        "code": "AWCV",
+        "year": 2013,
+        "month": 12,
+        "total": 537601,
+        "completed": 313252
+      },
+      {
+        "code": "AWCV",
+        "year": 2014,
+        "month": 12,
+        "total": 523391,
+        "completed": 304904
+      },
+      {
+        "code": "AWCV",
+        "year": 2015,
+        "month": 12,
+        "total": 509179,
+        "completed": 296558
+      },
+      {
+        "code": "AWCV",
+        "year": 2016,
+        "month": 12,
+        "total": 494966,
+        "completed": 288209
+      }
+    ]
+  }
+}

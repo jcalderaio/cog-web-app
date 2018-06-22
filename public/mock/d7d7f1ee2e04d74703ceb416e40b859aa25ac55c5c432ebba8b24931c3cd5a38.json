@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS data for CERCS",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"CERCS\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 1,
+        "total": 1100494,
+        "completed": 868448
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 1,
+        "total": 1088569,
+        "completed": 861276
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 1,
+        "total": 1076636,
+        "completed": 854096
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 1,
+        "total": 1064723,
+        "completed": 846932
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 2,
+        "total": 1099476,
+        "completed": 867834
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 2,
+        "total": 1087562,
+        "completed": 860668
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 2,
+        "total": 1075636,
+        "completed": 853496
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 2,
+        "total": 1063706,
+        "completed": 846318
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 3,
+        "total": 1110390,
+        "completed": 874400
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 3,
+        "total": 1098591,
+        "completed": 867304
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 3,
+        "total": 1086761,
+        "completed": 860188
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 3,
+        "total": 1074751,
+        "completed": 852962
+      },
+      {
+        "code": "CERCS",
+        "year": 2017,
+        "month": 3,
+        "total": 1062713,
+        "completed": 845722
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 4,
+        "total": 1109415,
+        "completed": 873815
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 4,
+        "total": 1097485,
+        "completed": 866638
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 4,
+        "total": 1085559,
+        "completed": 859464
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 4,
+        "total": 1073645,
+        "completed": 852297
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 5,
+        "total": 1108419,
+        "completed": 873215
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 5,
+        "total": 1096506,
+        "completed": 866050
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 5,
+        "total": 1084573,
+        "completed": 858871
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 5,
+        "total": 1072648,
+        "completed": 851698
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 6,
+        "total": 1107430,
+        "completed": 872619
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 6,
+        "total": 1095506,
+        "completed": 865448
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 6,
+        "total": 1083600,
+        "completed": 858285
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 6,
+        "total": 1071671,
+        "completed": 851111
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 7,
+        "total": 1106463,
+        "completed": 872039
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 7,
+        "total": 1094493,
+        "completed": 864838
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 7,
+        "total": 1082613,
+        "completed": 857691
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 7,
+        "total": 1070718,
+        "completed": 850537
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 8,
+        "total": 1105434,
+        "completed": 871419
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 8,
+        "total": 1093515,
+        "completed": 864251
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 8,
+        "total": 1081588,
+        "completed": 857075
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 8,
+        "total": 1069673,
+        "completed": 849908
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 9,
+        "total": 1104467,
+        "completed": 870838
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 9,
+        "total": 1092548,
+        "completed": 863667
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 9,
+        "total": 1080652,
+        "completed": 856512
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 9,
+        "total": 1068733,
+        "completed": 849343
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 10,
+        "total": 1103448,
+        "completed": 870225
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 10,
+        "total": 1091533,
+        "completed": 863058
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 10,
+        "total": 1079606,
+        "completed": 855882
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 10,
+        "total": 1067687,
+        "completed": 848712
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 11,
+        "total": 1102519,
+        "completed": 869665
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 11,
+        "total": 1090567,
+        "completed": 862477
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 11,
+        "total": 1078610,
+        "completed": 855285
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 11,
+        "total": 1066717,
+        "completed": 848130
+      },
+      {
+        "code": "CERCS",
+        "year": 2013,
+        "month": 12,
+        "total": 1101475,
+        "completed": 869037
+      },
+      {
+        "code": "CERCS",
+        "year": 2014,
+        "month": 12,
+        "total": 1089546,
+        "completed": 861862
+      },
+      {
+        "code": "CERCS",
+        "year": 2015,
+        "month": 12,
+        "total": 1077640,
+        "completed": 854701
+      },
+      {
+        "code": "CERCS",
+        "year": 2016,
+        "month": 12,
+        "total": 1065716,
+        "completed": 847527
+      }
+    ]
+  }
+}

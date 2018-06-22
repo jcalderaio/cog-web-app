@@ -1,0 +1,351 @@
+{
+  "notes": "demo HEDIS data for CIS",
+  "collapsedQuery": "{hedisMonthlyCompliance(code:\"CIS\"){codeyearmonthtotalcompleted}}",
+  "data": {
+    "hedisMonthlyCompliance": [
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 1,
+        "total": 44454,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 1,
+        "total": 42755,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 1,
+        "total": 41054,
+        "completed": 38454
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 1,
+        "total": 39352,
+        "completed": 34451
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 2,
+        "total": 44315,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 2,
+        "total": 42613,
+        "completed": 38454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 2,
+        "total": 40910,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 2,
+        "total": 39210,
+        "completed": 23736
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 3,
+        "total": 45873,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 3,
+        "total": 44176,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 3,
+        "total": 42478,
+        "completed": 35454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 3,
+        "total": 40771,
+        "completed": 23647
+      },
+      {
+        "code": "CIS",
+        "year": 2017,
+        "month": 3,
+        "total": 39067,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 4,
+        "total": 45730,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 4,
+        "total": 44030,
+        "completed": 38454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 4,
+        "total": 42327,
+        "completed": 34454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 4,
+        "total": 40625,
+        "completed": 39454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 5,
+        "total": 45590,
+        "completed": 32754
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 5,
+        "total": 43888,
+        "completed": 39154
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 5,
+        "total": 42188,
+        "completed": 35254
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 5,
+        "total": 40485,
+        "completed": 23481
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 6,
+        "total": 45447,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 6,
+        "total": 43747,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 6,
+        "total": 42045,
+        "completed": 33454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 6,
+        "total": 40345,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 7,
+        "total": 45306,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 7,
+        "total": 43604,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 7,
+        "total": 41903,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 7,
+        "total": 40207,
+        "completed": 35454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 8,
+        "total": 45164,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 8,
+        "total": 43460,
+        "completed": 35454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 8,
+        "total": 41760,
+        "completed": 36454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 8,
+        "total": 40061,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 9,
+        "total": 45025,
+        "completed": 29130
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 9,
+        "total": 43322,
+        "completed": 28133
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 9,
+        "total": 41620,
+        "completed": 29143
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 9,
+        "total": 39920,
+        "completed": 25150
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 10,
+        "total": 44881,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 10,
+        "total": 43178,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 10,
+        "total": 41476,
+        "completed": 33454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 10,
+        "total": 39774,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 11,
+        "total": 44740,
+        "completed": 32454
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 11,
+        "total": 43037,
+        "completed": 31454
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 11,
+        "total": 41336,
+        "completed": 30454
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 11,
+        "total": 39634,
+        "completed": 24454
+      },
+      {
+        "code": "CIS",
+        "year": 2013,
+        "month": 12,
+        "total": 44594,
+        "completed": 25875
+      },
+      {
+        "code": "CIS",
+        "year": 2014,
+        "month": 12,
+        "total": 42895,
+        "completed": 24885
+      },
+      {
+        "code": "CIS",
+        "year": 2015,
+        "month": 12,
+        "total": 41195,
+        "completed": 23894
+      },
+      {
+        "code": "CIS",
+        "year": 2016,
+        "month": 12,
+        "total": 39491,
+        "completed": 22901
+      }
+    ]
+  }
+}

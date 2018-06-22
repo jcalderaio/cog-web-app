@@ -1,0 +1,120 @@
+{
+  "activeDashboard": "hie",
+  "dashboards": [
+
+    {
+      "id": "demoHie",
+      "title": "HIE Utilization",
+      "showNav": true,
+      "disabled": false,
+      "groupDefault": "administrator",
+      "widgets": [
+        { "type": "HIE.Streamlets" },
+        { "type": "HIE.PatientsConsentPolicies" },
+        { "type": "HIE.MpiIds" },
+        { "type": "HIE.RegisteredUsers" },
+        { "type": "HIE.RegisteredDocuments" },
+        { "type": "HIE.Mrns" },
+        { "type": "HIE.PatientSearches" }
+      ],
+      "filters": [
+        {
+          "type": "yearFilter",
+          "args": {
+            "min": 2011,
+            "max": 2016
+          },
+          "value": 2016
+        },
+        {
+          "type": "genderFilter"
+        },
+        {
+          "type": "serviceRegionFilter",
+          "args": {
+            "lang": "english"
+          }
+        },
+        {
+          "type": "ageRangeFilter",
+          "args": {
+            "min": 18,
+            "max": 74
+          },
+          "value": [18, 74]
+        }
+      ]
+    },
+    {
+      "id": "demoMeasures",
+      "title": "Demo: HEDIS Measures",
+      "showNav": true,
+      "disabled": false,
+      "type": "HEDISMeasures",
+      "widgets": []
+    },
+    {
+      "id": "cardiology",
+      "title": "Demo: Cardiology",
+      "showNav": true,
+      "disabled": false,
+      "groupDefault": "provider",
+      "type": "Cardiology",
+      "widgets": [],
+      "groups": ["administrator", "provider"]
+    },
+    {
+      "id": "HIE.Measures.MIPS-236",
+      "showNav": false,
+      "type": "HIE.Measures.MIPS-236",
+      "groups": ["administrator", "provider"]
+    },
+    {
+      "id": "HIE.Management.RegisteredUsersDetail",
+      "showNav": false,
+      "type": "HIE.Management.RegisteredUsersDetail",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "HIE.Management.PatientsConsentPoliciesDetail",
+      "showNav": false,
+      "type": "HIE.Management.PatientsConsentPoliciesDetail",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "HIE.Management.Mrns",
+      "showNav": false,
+      "type": "HIE.Management.Mrns",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "measures",
+      "title": "Quality Measures",
+      "showNav": true,
+      "disabled": false,
+      "widgets": [
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "BreastCancerScreening",
+            "demo": false
+          }
+        },
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "PrenatalCare",
+            "demo": false
+          }
+        },
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "WellChildVisit15",
+            "demo": false
+          }
+        }
+      ]
+    }
+  ]
+}

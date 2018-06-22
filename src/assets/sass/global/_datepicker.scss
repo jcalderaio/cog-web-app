@@ -1,0 +1,40 @@
+.react-datepicker-wrapper {
+  .react-datepicker__input-container {
+    input {
+      height: 38px;
+      padding: 8px 6px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      border-width: 1px;
+      color: #212121;
+      -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      background-color: #fff;
+      background-image: none;
+      border: 1px solid $gray-light;
+      font-family: $font-family-sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      padding: 8px 6px;
+      width: 100%;
+      display: block;
+    }
+  }
+}
+
+// In the filter panel, the input can stretch full width
+.filters-grid-element {
+  .react-datepicker-wrapper {
+    width: 100%;
+    .react-datepicker__input-container {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+}
+
+.react-datepicker__day {
+  width: 2.2rem;
+  line-height: 2.2rem;
+}

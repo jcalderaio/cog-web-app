@@ -1,0 +1,203 @@
+
+{
+  "activeDashboard": "management",
+  "dashboards": [
+    {
+      "id": "management",
+      "title": "HIE Management",
+      "showNav": true,
+      "disabled": false,
+      "groupDefault": "administrator",
+      "widgets": [
+        {
+          "type": "HIE.RegisteredUsers"
+        },
+        {
+          "type": "HIE.RegisteredDocuments"
+        },
+        {
+          "type": "HIE.PatientsConsentPolicies"
+        },
+        {
+          "type": "HIE.Mrns"
+        },
+        {
+          "type": "HIE.Mpiids"
+        },
+        {
+          "type": "HIE.Streamlets"
+        },
+        {
+          "type": "HIE.PatientSearches"
+        }
+      ]
+    },
+    {
+      "id": "hie",
+      "title": "HIE Utilization",
+      "showNav": false,
+      "disabled": true,
+      "widgets": [
+        {
+          "type": "HIE.ParticipationByRegion",
+          "options": {
+            "demo": false,
+            "series": ["clinicalProviders"],
+            "name": "participationByRegion"
+          }
+        },
+        {
+          "type": "HIE.Utilization"
+        },
+        {
+          "type": "HIE.DirectMessages"
+        }
+      ],
+      "filters": [
+        {
+          "type": "yearFilter",
+          "args": {
+            "min": 2011,
+            "max": 2017
+          },
+          "value": 2017
+        },
+        {
+          "type": "genderFilter"
+        },
+        {
+          "type": "serviceRegionFilter",
+          "args": {
+            "lang": "english"
+          }
+        },
+        {
+          "type": "ageRangeFilter",
+          "args": {
+            "min": 18,
+            "max": 74
+          },
+          "value": [18, 74]
+        }
+      ]
+    },
+    {
+      "id": "demoMeasures",
+      "title": "Demo: HEDIS Measures",
+      "showNav": true,
+      "disabled": false,
+      "type": "HEDISMeasures",
+      "widgets": []
+    },
+    {
+      "id": "cardiology",
+      "title": "Demo: Cardiology",
+      "showNav": true,
+      "disabled": false,
+      "groupDefault": "provider",
+      "type": "Cardiology",
+      "widgets": [],
+      "groups": ["administrator", "provider"]
+    },
+    {
+      "id": "HIE.Measures.MIPS-236",
+      "showNav": false,
+      "type": "HIE.Measures.MIPS-236",
+      "groups": ["administrator", "provider"]
+    },
+    {
+      "id": "HIE.Management.RegisteredUsersDetail",
+      "showNav": false,
+      "type": "HIE.Management.RegisteredUsersDetail",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "HIE.Management.PatientsConsentPoliciesDetail",
+      "showNav": false,
+      "type": "HIE.Management.PatientsConsentPoliciesDetail",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "HIE.Management.Mrns",
+      "showNav": false,
+      "type": "HIE.Management.Mrns",
+      "groups": ["administrator"]
+    },
+    {
+      "id": "measures",
+      "title": "Demo: Quality Measures",
+      "showNav": true,
+      "disabled": false,
+      "widgets": [
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "BreastCancerScreening",
+            "demo": false
+          }
+        },
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "PrenatalCare",
+            "demo": false
+          }
+        },
+        {
+          "type": "HIE.Measures",
+          "options": {
+            "code": "WellChildVisit15",
+            "demo": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "alabama",
+      "showNav": true,
+      "disabled": true,
+      "title": "Alabama",
+      "widgets": [
+        {
+          "type": "HIE.ProviderTable"
+        },
+        {
+          "type": "HIE.ParticipationByRegion",
+          "options": {
+            "demo": true,
+            "series": ["clinicalProviders", "ehrProviders"],
+            "name": "participationByRegion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W15",
+      "title": "Well Child Visits in the First 15 Months of Life",
+      "showNav": false,
+      "disabled": false,
+      "type": "W15Dashboard",
+      "widgets": []
+    },
+    {
+      "id": "BMI",
+      "title": "BMI Assessment",
+      "showNav": false,
+      "disabled": false,
+      "type": "BMIDashboard",
+      "widgets": []
+    },
+
+    {
+      "id": "opioids",
+      "showNav": true,
+      "disabled": true,
+      "title": "Opioids",
+      "widgets": [
+        {
+          "type": "Opioids.PrescriberTable"
+        }
+      ]
+    }
+  ]
+}
